@@ -1,5 +1,10 @@
 # 2026 Winter Olympic Database
 
+### Group Members	 
+* Hugo Granillo
+* Ryan Montville
+* Salmanuddin Talha Mohd
+
 ## Table of Contents
 1) [Introduction](#intro)
 2) [Description of the Organization](#description)
