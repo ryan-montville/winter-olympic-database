@@ -160,3 +160,20 @@ Team_Member (athlete_id, team_id)
 ## Relational Table Details
 The relational schema given in Section 5 was mapped into the following tables in the OLYMPICS_DB database.
 Primary keys have been underlined. Tables that have multiple attributes underlined represent composite keys.
+
+| NAME | ATTRIBUTES | DESCRIPTION |
+|---|---|---|
+|Country | country_code<br>alpha_2<br>country_name<br>continent | Unique country code<br> Two-letter country code<br> Name of the country<br>Continent where country is located |
+| Team | team_id<br>gender_category<br>country_code<br>num_of_althelets | Unique team ID<br>gender category of team (Men, Women, Mixed)<br>unique ID of country that fields this team<br>Count of the athletes |
+| Sport | sport_id<br>sport_name<br>description | Unique sport ID<br>Name of the sport<br>Description of the sport |
+|Venue|venue_id<br>venue_name<br>location<br>venue_type<br>capacity | Unique venue ID<br>Name of the venue<br>Location/address of the venue<br>Type of venue (Indoor, Outdoor)<br>Maximum capacity of the venue |
+| Event | event_id<br>event_name<br>event_time<br>event_date<br>round_type<br>event_type<br>gender_category<br>sport_id<br>venue_id | Unique event ID<br>Name of the event<br>Time when the event takes place<br>Date when the event takes place<br>Type of round (Qualifier, Semifinal, Final)<br>Type of event (Individual, Team)<br>Gender category (Men, Women, Mixed)<br>Unique ID of sport this event belongs to<br>Unique ID of venue where event is held |
+| Coach |coach_id<br>coach_name<br>specialty<br>country_code | Unique coach ID<br>Name of the coach<br>Coaching speciality area<br>Unique ID of country coach is affiliated with |
+| Athlete | athlete_id<br>athlete_name<br>gender<br>date_of_birth<br>country_code | Unique athlete ID<br>Name of the athlete<br>Gender of the athlete<br>Birth date of the athlete<br>Unique ID of country athlete represents |
+| Trains | coach_id<br>athlete_id<br>year |  Unique ID of coach training the athlete<br>Unique ID of athlete being trained<br>year of training relationship |
+| Participates_In | athlete_id<br>event_id<br>ranking | Unique ID of athlete participating in event<br>Unique ID of event athlete is participating in<br>Ranking/position of athlete in event |
+| Competes_In | team_id<br>event_id<br>ranking | Unique ID of team competing in event<br>Unique ID of event team is competing in<br>Ranking/position of team in event |
+| Team_Member | athlete_id<br>team_id | Unique ID of athlete who is member of team<br>Unique ID of team athlete belongs to |
+
+
+
