@@ -1,0 +1,2272 @@
+athlete_id,athlete_name,country_code,gender,sports,events
+1,AABREKK Ingrid Bergene,NOR,F,Cross- Skiing,Women's Sprint Classic
+2,AAGAARD Mikkel,DEN,M,Ice Hockey,Men
+3,AAGAARD Mikkel,DEN,M,Ice Hockey,Men
+4,AALTO Antti,FIN,M,Ski Jumping,Men's NH Individual
+5,ABATANGELO Aurora,ITA,F,Ice Hockey,Women
+6,ABDI Fayik,KSA,M,Alpine Skiing,To be defined
+7,ABDI Fayik,KSA,M,Alpine Skiing,Men's Giant Slalom
+8,ABDUL-SABOOR Hakeem,USA,M,Bobsleigh,To be defined
+9,ABEDA Shannon,ERI,M,Alpine Skiing,To be defined
+10,ABSTREITER Sandra,GER,F,Ice Hockey,Women
+11,ABSTREITER Sandra,GER,F,Ice Hockey,Women
+12,ACHLEITNER Lisa,AUT,F,Cross- Skiing,Women's 10km Interval Start Free
+13,ADAKE Ahenaer,CHN,F,Speed Skating,Women's Mass Start/Women's Team Pursuit
+14,ADAKE Ahenaer,CHN,F,Speed Skating,Women's Mass Start/Women's Team Pursuit
+15,ADAMCZYKOVA Eva,CZE,F,Snowboard,Women's Snowboard Cross
+16,ADAMEK Klaudia,POL,F,Bobsleigh,2-woman
+17,ADAMOV Simon,SVK,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+18,ADDAMO Justin,FRA,M,Ice Hockey,Men
+19,ADOLFSSON Jessica,SWE,F,Ice Hockey,Women
+20,AEBERHARD Mario,SUI,M,Bobsleigh,4-man
+21,AEBERHARD Mario,SUI,M,Bobsleigh,4-man
+22,AERNI Luca,SUI,M,Alpine Skiing,To be defined
+23,AERNI Luca,SUI,M,Alpine Skiing,Men's Giant Slalom
+24,AHO Sebastian,FIN,M,Ice Hockey,Men
+25,AHOLA Sanni,FIN,F,Ice Hockey,Women
+26,AHVENAINEN Akseli,FIN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+27,AICHER Emma,GER,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+28,AICHER Emma,GER,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+29,AIGRO Artti,EST,M,Ski Jumping,Men's NH Individual
+30,AIHARA Shiro,JPN,M,Alpine Skiing,To be defined
+31,AKAR Furkan,TUR,M,Short Track Speed Skating,To be defined
+32,AKIMOTO Nana,JPN,F,Ice Hockey,Women
+33,AKOPOVA Karina,ARM,F,Figure Skating,Pair Skating
+34,ALBRECHT Aline,SUI,F,Snowboard,Women's Snowboard Cross
+35,ALBRECHT Aline,SUI,F,Snowboard,Women's Snowboard Cross
+36,ALDER Fabienne,SUI,F,Cross- Skiing,Women's 10km + 10km Skiathlon
+37,ALDER Fabienne,SUI,F,Cross-Country Skiing,Women's 10km + 10km Skiathlon
+38,ALESSANDRIA Arnaud,MON,M,Alpine Skiing,Men's Downhill/Men's Super-G
+39,ALESSANDRIA Arnaud,MON,M,Alpine Skiing,Men's Downhill/Men's Super-G
+40,ALEV Alvar Johannes,EST,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+41,ALEXANDER Cameron,CAN,M,Alpine Skiing,Men's Downhill/Men's Super-G
+42,ALEXANDER Kiki,CAN,F,Alpine Skiing,To be defined
+43,ALIC Esma,BIH,F,Alpine Skiing,To be defined
+44,ALIREZA Rakan,KSA,M,Cross- Skiing,Men's 10km Interval Start Free
+45,ALIREZA Rakan,KSA,M,Cross-Country Skiing,Men's 10km Interval Start Free
+46,ALLAN Kailey,CAN,F,Luge,Women's Doubles
+47,ALLEGRE Nils,FRA,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+48,ALLEMAND Romain,FRA,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+49,ALLEYNE Nikhil,TTO,M,Alpine Skiing,To be defined
+50,ALONSO RODRIGUEZ Ana,ESP,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+51,ALPHAND Estelle,SWE,F,Alpine Skiing,To be defined
+52,ALPHAND Nils,FRA,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+53,ALTANZUL Ariunbat,MGL,M,Alpine Skiing,To be defined
+54,ALTANZUL Ariunbat,MGL,M,Alpine Skiing,To be defined
+55,AMBROSE Erin,CAN,F,Ice Hockey,Women
+56,AMBROSI Martina,ITA,F,Ski Jumping,Women's NH Individual
+57,AMBROSINI Filippo,ITA,M,Figure Skating,Pair Skating/Team Event
+58,AMBRULEVICIUS Saulius,LTU,M,Figure Skating,Ice Dance
+59,AMIEZ Steven,FRA,M,Alpine Skiing,Men's Team Combined
+60,AMMOUR Adam,GER,M,Bobsleigh,2-man/4-man
+61,AMMOUR Adam,GER,M,Bobsleigh,2-man/4-man
+62,AMMOUR Issam,GER,M,Bobsleigh,4-man
+63,AMMOUR Issam,GER,M,Bobsleigh,4-man
+64,AMRENOVA Ayaulym,KAZ,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+65,AMUNDSEN Harald Oestberg,NOR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+66,AN Tai,CHN,M,Bobsleigh,2-man/4-man
+67,AN Tai,CHN,M,Bobsleigh,2-man/4-man
+68,ANDERMANN Nicolas,AUT,M,Short Track Speed Skating,To be defined
+69,ANDERSEN Frederik,DEN,M,Ice Hockey,Men
+70,ANDERSEN Frederik,DEN,M,Ice Hockey,Men
+71,ANDERSON Lucinda,USA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+72,ANDERSON-HEIDE Taylor,USA,F,Curling,Women
+73,ANDERSSON Ebba,SWE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+74,ANDERSSON Linnea,SWE,F,Ice Hockey,Women
+75,ANDERSSON Rasmus,SWE,M,Ice Hockey,Men
+76,ANDEXER Anna,AUT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+77,ANDO Asa,JPN,F,Alpine Skiing,To be defined
+78,ANDRASKA Anouk,SUI,F,Freestyle Skiing,Women's Freeski Big Air
+79,ANDRASKA Anouk,SUI,F,Freestyle Skiing,Women's Freeski Big Air
+80,ANDREASSEN Milla Grosberghaugen,NOR,F,Cross- Skiing,Women's Sprint Classic
+81,ANDREUTTI Giada,ITA,F,Bobsleigh,2-woman/Women's Monobob
+82,ANDREWS Ruby Star,NZL,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+83,ANDRIGHETTO Sven,SUI,M,Ice Hockey,Men
+84,ANDRIGHETTO Sven,SUI,M,Ice Hockey,Men
+85,ANDRYIANAVA Anastasiya,AIN,F,Freestyle Skiing,Women's Aerials
+86,ANDZANE Marta,LAT,F,Skeleton,Women
+87,ANDZANE Marta,LAT,F,Skeleton,Women
+88,ANGELIS Apostolos,GRE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+89,ANGENEND Yannik,GER,M,Snowboard,Men's Parallel Giant Slalom
+90,ANGENEND Yannik,GER,M,Snowboard,Men's Parallel Giant Slalom
+91,ANGER Edvin,SWE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+92,ANGUENOT Leo,FRA,M,Alpine Skiing,To be defined
+93,ANKELE Martina,AUT,F,Snowboard,Women's Parallel Giant Slalom
+94,ANNEN Debora,SUI,F,Bobsleigh,2-woman/Women's Monobob
+95,ANNEN Debora,SUI,F,Bobsleigh,2-woman/Women's Monobob
+96,ANNEN Tim,SUI,M,Bobsleigh,2-man/4-man
+97,ANNEN Tim,SUI,M,Bobsleigh,2-man/4-man
+98,ANSELMET Thibault,FRA,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+99,ANTHONY Jakara,AUS,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+100,ANTOSOVA Barbora,CZE,F,Cross- Skiing,Women's Sprint Classic
+101,ANTTOLA Niko,FIN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+102,APARJODE Kendija,LAT,F,Luge,Women's Singles
+103,APARJODE Kendija,LAT,F,Luge,Women's Singles
+104,APARJODS Kristers,LAT,M,Luge,Men's Singles/Team Relay
+105,APARJODS Kristers,LAT,M,Luge,Men's Singles/Team Relay
+106,APPIAH Cynthia,CAN,F,Bobsleigh,2-woman/Women's Monobob
+107,APPLEBY Edward,GBR,M,Figure Skating,Team Event
+108,ARAI Makiko,JPN,F,Freestyle Skiing,Women's Ski Cross
+109,ARITO Motonaga,JPN,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Mass Start/Men's Team Pursuit
+110,ARLT Tobias,GER,M,Luge,Men's Doubles/Team Relay
+111,ARLT Tobias,GER,M,Luge,Men's Doubles/Team Relay
+112,ARMAN Sebastiano,ITA,M,Curling,Men
+113,ARMBRUSTER HUMPHRIES Kaillie,USA,F,Bobsleigh,2-woman/Women's Monobob
+114,ARMIA Joel,FIN,M,Ice Hockey,Men
+115,ARNEKLEIV Juni,NOR,F,Biathlon,To be defined
+116,ARNET Sina,SUI,F,Ski Jumping,Women's NH Individual
+117,ARNET Sina,SUI,F,Ski Jumping,Women's NH Individual
+118,ARONSSON ELFMAN Hanna,SWE,F,Alpine Skiing,To be defined
+119,ARTHUR Emily,AUS,F,Snowboard,Women's Snowboard Halfpipe
+120,ASCIC Valentina,CRO,F,Short Track Speed Skating,Women's 500m
+121,ASCIC Valentina,CRO,F,Short Track Speed Skating,Women's 500m/Women's 1000m
+122,ASSAN Assylkhan,KAZ,M,Freestyle Skiing,Men's Aerials
+123,ASSELIN Olivia,CAN,F,Freestyle Skiing,To be defined
+124,ASTNER Nina,AUT,F,Alpine Skiing,To be defined
+125,ASTRIDGE Alexander,UAE,M,Alpine Skiing,To be defined
+126,ATANASOVSKA Jana,MKD,F,Alpine Skiing,To be defined
+127,ATKIN Zoe,GBR,F,Freestyle Skiing,Women's Freeski Halfpipe
+128,AUCHENTALLER Hannah,ITA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+129,AUER Florian,AUT,M,Skeleton,Men
+130,AUJESKY Johannes,AUT,M,Freestyle Skiing,Men's Ski Cross
+131,AURARD-BUSHEE Chloe,FRA,F,Ice Hockey,Women
+132,AUSTIN Taylor,CAN,M,Bobsleigh,2-man/4-man
+133,AUVITU Yohann,FRA,M,Ice Hockey,Men
+134,AUZINA Kitija,LAT,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+135,AVVAKUMOVA Ekaterina,KOR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+136,AX SWARTZ Fabian,SWE,M,Alpine Skiing,To be defined
+137,AYMOZ Kevin,FRA,M,Figure Skating,Men Single Skating/Team Event
+138,AZHGALIYEV Abzal,KAZ,M,Short Track Speed Skating,Mixed Team Relay
+139,Alexander Astridge,UAE,M,Alpine skiing,Men's slalom
+140,BABA Naoto,JPN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+141,BABINSKY Stefan,AUT,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+142,BABURA Bohdan,UKR,M,Luge,Men's Doubles
+143,BACCA GONCALVES Luis,BRA,M,Bobsleigh,2-man/4-man
+144,BACHL-STAUDINGER Leonie,GER,F,Freestyle Skiing,Women's Ski Cross
+145,BADACZ Konrad,POL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+146,BAECHLER Alessia,SUI,F,Ice Hockey,Women
+147,BAETSCHI Flurina Neva,SUI,F,Snowboard,Women's Parallel Giant Slalom
+148,BAFF Josie,AUS,F,Snowboard,Women's Snowboard Cross
+149,BAGNIS Amedeo,ITA,M,Skeleton,Men
+150,BAI Xinhui,CHN,F,Snowboard,Women's Parallel Giant Slalom
+151,BALCERS Rudolfs,LAT,M,Ice Hockey,Men
+152,BALINSKIS Uvis Janis,LAT,M,Ice Hockey,Men
+153,BALL Lucas,NZL,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+154,BALLET BAZ Mylene,FRA,F,Freestyle Skiing,Women's Ski Cross
+155,BALZER Leoni,SUI,F,Ice Hockey,Women
+156,BAN Xuefu,CHN,M,Snowboard,Men's Parallel Giant Slalom
+157,BANKES Charlotte,GBR,F,Snowboard,Women's Snowboard Cross
+158,BAO Zhenyu,CHN,M,Luge,Men's Singles/Team Relay
+159,BARAN Martyna,POL,F,Speed Skating,Women's 500m
+160,BARBIERI Alessandro,USA,M,Snowboard,Men's Snowboard Halfpipe
+161,BARBIRATI Jade,FRA,F,Ice Hockey,Women
+162,BARCLAY Ben,NZL,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+163,BAREFOOT Daniel,USA,M,Skeleton,Men
+164,BARNES Cayla,USA,F,Ice Hockey,Women
+165,BARP Elia,ITA,M,Cross- Skiing,Men's 10km + 10km Skiathlon/Men's Sprint Classic
+166,BARTALIS Henrietta,ROU,F,Snowboard,Women's Snowboard Cross
+167,BARTSCH Anne,GER,F,Ice Hockey,Women
+168,BARUZZI FARRIOL Francesca,ARG,F,Alpine Skiing,Women's Super-G/Women's Team Combined
+169,BASERGA Amy,SUI,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+170,BASHA Faiz Basha Munwar,SGP,M,Alpine Skiing,To be defined
+171,BASHMAKOV Nail,KAZ,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+172,BASTIER Etienne,FRA,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+173,BATES Evan,USA,M,Figure Skating,Ice Dance/Team Event
+174,BATMUNKH Achbadrakh,MGL,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+175,BATNA Oskars,LAT,M,Ice Hockey,Men
+176,BATOVSKA FIALKOVA Paulina,SVK,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+177,BAU Mathias,DEN,M,Ice Hockey,Men
+178,BAUDRIT Lore,FRA,F,Ice Hockey,Women
+179,BAUER Matyas,CZE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+180,BAUMEISTER Stefan,GER,M,Snowboard,Men's Parallel Giant Slalom
+181,BAUMGARTNER Nick,USA,M,Snowboard,Men's Snowboard Cross
+182,BAUMGARTNER Patrick,ITA,M,Bobsleigh,2-man/4-man
+183,BAUMGARTNER Samuel,AUT,M,Freestyle Skiing,Men's Freeski Halfpipe
+184,BAUR Tobias,SUI,M,Freestyle Skiing,Men's Ski Cross
+185,BEBRISS Arnis,LAT,M,Bobsleigh,4-man
+186,BECK Madeleine,LIE,F,Alpine Skiing,To be defined
+187,BECKER Tim,GER,M,Bobsleigh,To be defined
+188,BECKERT Patrick,GER,M,Speed Skating,Men's 5000m/Men's Mass Start/Men's Team Pursuit
+189,BEDIR Muhammed Ali,TUR,M,Ski Jumping,Men's NH Individual
+190,BEGUE Nicole,ARG,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+191,BEIERL Katrin,AUT,F,Bobsleigh,2-woman/Women's Monobob
+192,BEKKER Phebe,GBR,F,Figure Skating,Ice Dance/Team Event
+193,BEKTAS Ozan,LIE,M,Bobsleigh,To be defined
+194,BELLEMARE Pierre-Edouard,FRA,M,Ice Hockey,Men
+195,BELLINGHAM Phillip,AUS,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+196,BELLOIR Mathieu,FRA,M,Speed Skating,Men's 1500m/Men's Mass Start/Men's Team Pursuit
+197,BELSHAW Annika,USA,F,Ski Jumping,Women's NH Individual/Mixed Team
+198,BELTOWSKA Pola,POL,F,Ski Jumping,Women's NH Individual/Mixed Team
+199,BENDIKA Baiba,LAT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+200,BENED Camille,FRA,F,Biathlon,Women's 15km Individual
+201,BENEDIKTSSON Dagur,ISL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+202,BENNETT Bryce,USA,M,Alpine Skiing,Men's Downhill
+203,BENNETT Sam,CAN,M,Ice Hockey,Men
+204,BERANOVA Tereza,CZE,F,Cross- Skiing,Women's Sprint Classic
+205,BERGER Lea,FRA,F,Ice Hockey,Women
+206,BERGER SABBATEL Marielle,FRA,F,Freestyle Skiing,Women's Ski Cross
+207,BERGLUND Gustaf,SWE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+208,BERGSMA Jorrit,NED,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Mass Start/Men's Team Pursuit
+209,BERNI Tim,SUI,M,Ice Hockey,Men
+210,BERRA Reto,SUI,M,Ice Hockey,Men
+211,BERREITER Anna,GER,F,Luge,Women's Singles
+212,BERSET Stefanie,SUI,F,Curling,Women
+213,BERTRAND Charles,FRA,M,Ice Hockey,Men
+214,BERTSCHLER Daniel,AUT,M,Bobsleigh,2-man/4-man
+215,BERTSCHY Christoph,SUI,M,Ice Hockey,Men
+216,BERULAVA Luka,GEO,M,Figure Skating,Pair Skating/Team Event
+217,BERZINS Gints,LAT,M,Luge,Men's Singles
+218,BERZINS Reinis,LAT,M,Short Track Speed Skating,Men's 1000m
+219,BETTI Chiara,ITA,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+220,BETTI Francesco,ITA,M,Speed Skating,Men's 1000m/Men's 1500m
+221,BEUNE Joy,NED,F,Speed Skating,Women's 1500m/Women's 3000m/Women's Team Pursuit
+222,BEYRAMI BAHER Samaneh,IRI,F,Cross-Country Skiing,Women's 10km Interval Start Free
+223,BI Ye,CHN,M,Snowboard,Men's Parallel Giant Slalom
+224,BICHON Evan,CAN,M,Snowboard,Men's Snowboard Cross
+225,BICKNER Kevin,USA,M,Ski Jumping,Men's NH Individual
+226,BIERI Cyril,SUI,M,Bobsleigh,4-man
+227,BILKA Hannah,USA,F,Ice Hockey,Women
+228,BILOTTI Lorenzo,ITA,M,Bobsleigh,4-man
+229,BINDILATTI Edson Luques,BRA,M,Bobsleigh,2-man/4-man
+230,BINNINGTON Jordan,CAN,M,Ice Hockey,Men
+231,BIRKELAND Giorgia,USA,F,Speed Skating,Women's 1500m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+232,BIRKENTALS Renars,LAT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+233,BJORKSTRAND Oliver,DEN,M,Ice Hockey,Men
+234,BLACKWELL Chase,USA,M,Snowboard,Men's Snowboard Halfpipe
+235,BLAIRON Nils,FRA,M,Bobsleigh,4-man
+236,BLAIS Danae,CAN,F,Short Track Speed Skating,Women's 3000m Relay
+237,BLANC Malorie,SUI,F,Alpine Skiing,Women's Downhill/Women's Super-G
+238,BLICHFELD Joachim,DEN,M,Ice Hockey,Men
+239,BLIZZARD Sarah,AUS,F,Bobsleigh,2-woman
+240,BLOEMEN Ted-Jan,CAN,M,Speed Skating,Men's 5000m/Men's 10000m
+241,BLOIS de Glenn,NED,M,Snowboard,Men's Snowboard Cross
+242,BLONDIN Ivanie,CAN,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+243,BLOUIN Laurie,CAN,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+244,BLUGERS Teodors,LAT,M,Ice Hockey,Men
+245,BOCH Margot,FRA,F,Bobsleigh,2-woman/Women's Monobob
+246,BOCOCK Mary,USA,F,Alpine Skiing,Women's Super-G
+247,BOER Teun,NED,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+248,BOERSMA Anna,NED,F,Speed Skating,Women's 500m/Women's 1000m
+249,BOESCH Fabian,SUI,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+250,BOGDANOVA Kitija,LAT,F,Luge,Women's Doubles/Team Relay
+251,BOHAC Radek,CZE,M,Curling,Men
+252,BOLDY Matt,USA,M,Ice Hockey,Men
+253,BONAFINI Eleonora,ITA,F,Ice Hockey,Women
+254,BONDARE Liene,LAT,F,Alpine Skiing,To be defined
+255,BORGNAES Christian,DEN,M,Alpine Skiing,Men's Giant Slalom
+256,BORGULA Jakub,SVK,M,Biathlon,Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+257,BORKOVSKYI Bohdan,UKR,M,Biathlon,Men's 10km Sprint
+258,BORMOLINI Maurizio,ITA,M,Snowboard,Men's Parallel Giant Slalom
+259,BOS Kimberley,NED,F,Skeleton,Women
+260,BOSCACCI Michele,ITA,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+261,BOSCO Emma,AUS,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+262,BOSCQ Jules,FRA,M,Ice Hockey,Men
+263,BOSIEK Karolina,POL,F,Speed Skating,Women's 500m/Women's 1000m/Women's 1500m
+264,BOSKER Marcel,NED,M,Speed Skating,Men's 1500m/Men's 5000m/Men's 10000m/Men's Team Pursuit
+265,BOSMAN Christian,SVK,M,Luge,Men's Doubles
+266,BOTA Elina,LAT,F,Luge,Women's Singles/Team Relay
+267,BOTN Johan-Olav,NOR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+268,BOTS Martins,LAT,M,Luge,Men's Doubles/Team Relay
+269,BOUCHARD Eli,CAN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+270,BOUDIN Clemence,FRA,F,Ice Hockey,Women
+271,BOUDON Louis,FRA,M,Ice Hockey,Men
+272,BOUFFARD-NESBITT Olivia,CAN,F,Cross- Skiing,Women's Sprint Classic
+273,BOUTIN Kim,CAN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+274,BOUVARD Eve,BEL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+275,BOUVENG Josefin,SWE,F,Ice Hockey,Women
+276,BOWE Brittany,USA,F,Speed Skating,Women's 1000m/Women's 1500m/Women's Team Pursuit
+277,BOYD-CLOWES Mackenzie,CAN,M,Ski Jumping,Men's NH Individual
+278,BOZON Kevin,FRA,M,Ice Hockey,Men
+279,BOZZOLO Loan,FRA,M,Snowboard,Men's Snowboard Cross
+280,BRADLEY Matt,ITA,M,Ice Hockey,Men
+281,BRAENDLI Andrea,SUI,F,Ice Hockey,Women
+282,BRAISAZ-BOUCHET Justine,FRA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+283,BRANDT Viktor,SWE,M,Biathlon,Men's 20km Individual
+284,BRATT Jesper,SWE,M,Ice Hockey,Men
+285,BRAUN Violette,FRA,F,Speed Skating,Women's 3000m
+286,BRAUNHOFER Patrick,ITA,M,Biathlon,Men's 20km Individual
+287,BRECL Gasper,SLO,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+288,BRENNAN Rosie,USA,F,Cross- Skiing,Women's 10km + 10km Skiathlon
+289,BRENNSTEINER Stefan,AUT,M,Alpine Skiing,To be defined
+290,BRESADOLA Giovanni,ITA,M,Ski Jumping,Men's NH Individual/Mixed Team
+291,BRIGNONE Federica,ITA,F,Alpine Skiing,Women's Downhill/Women's Super-G
+292,BRIGUET Robin,SUI,M,Freestyle Skiing,Men's Freeski Halfpipe
+293,BRISSAUD Geoffrey,FRA,M,Figure Skating,Ice Dance/Team Event
+294,BRITCHER Summer,USA,F,Luge,Women's Singles
+295,BRITSCHGI Lukas,SUI,M,Figure Skating,Men Single Skating
+296,BROBERG Philip,SWE,M,Ice Hockey,Men
+297,BROOKES Mia,GBR,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+298,BROWN Axel,TTO,M,Bobsleigh,2-man/4-man
+299,BROWN Indra,AUS,F,Freestyle Skiing,Women's Freeski Halfpipe
+300,BROWN Rachel,CAN,F,Curling,Women
+301,BRUDERMANN Katharina,AUT,F,Cross- Skiing,Women's 10km Interval Start Free
+302,BRUGGELING Keaton,CAN,M,Bobsleigh,4-man
+303,BRUGGER Janosch,GER,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+304,BRUGGISSER Phillip,DEN,M,Ice Hockey,Men
+305,BRUNELLE Florence,CAN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+306,BRUNET Cedrick,CAN,M,Speed Skating,Men's 500m/Men's 1000m
+307,BRUNGA Lisa,ALB,F,Alpine Skiing,To be defined
+308,BRUNNER Blanca,HUN,F,Snowboard,Women's Snowboard Cross
+309,BRUNNER Stephanie,AUT,F,Alpine Skiing,To be defined
+310,BRUSIC Josip,CAN,M,Skeleton,Men
+311,BRYJA Sebastian,POL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+312,BRYKINA Anhelina,UKR,F,Freestyle Skiing,Women's Aerials
+313,BU LUER,CHN,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+314,BUCHER Heidi,AUT,F,Cross- Skiing,Women's Sprint Classic
+315,BUCHI Annic,SUI,F,Ice Hockey,Women
+316,BUCHUKURI Luka,GEO,M,Alpine Skiing,To be defined
+317,BUCIK JOGAN Ana,SLO,F,Alpine Skiing,Women's Team Combined
+318,BUCK Kaylie,CAN,F,Snowboard,Women's Parallel Giant Slalom
+319,BUCKWITZ Lisa,GER,F,Bobsleigh,2-woman/Women's Monobob
+320,BUEHLER Mauro,LIE,M,Bobsleigh,4-man
+321,BUENEMANN de BESCHE Anne,DEN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+322,BUFF Vinzenz,SUI,M,Skeleton,Men
+323,BUKARTS Rihards,LAT,M,Ice Hockey,Men
+324,BUKARTS Roberts,LAT,M,Ice Hockey,Men
+325,BUKI Adam,HUN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+326,BUKOWSKA-CHYC Maria,POL,F,Snowboard,Women's Parallel Giant Slalom
+327,BULINA Sanita,LAT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+328,BURGENER Patrick,BRA,M,Snowboard,Men's Snowboard Halfpipe
+329,BURGER Nicole,RSA,F,Skeleton,Women
+330,BURIC Katarina,CRO,F,Short Track Speed Skating,To be defined
+331,BURKHALTER Joscha,SUI,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+332,BURRI Ariane,SUI,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+333,BURY Dominik,POL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+334,BUTA George,ROU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+335,BUZATOIU Ioana-Corina,ROU,F,Luge,Women's Singles/Team Relay
+336,CABECA Jose,POR,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+337,CABROL Camille,FRA,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+338,CACINA Daniel Andrei,ROU,M,Ski Jumping,Men's NH Individual/Mixed Team
+339,CACKETT Greg,GBR,M,Bobsleigh,4-man
+340,CAFFONT Elisa,ITA,F,Snowboard,Women's Parallel Giant Slalom
+341,CAI Xuetong,CHN,F,Snowboard,Women's Snowboard Halfpipe
+342,CAJANOVA Sara,CZE,F,Ice Hockey,Women
+343,CAKMAKLI Sabrina,GER,F,Freestyle Skiing,Women's Freeski Halfpipe
+344,CAMINAL SANTURE Jordina,AND,F,Alpine Skiing,Women's Downhill/Women's Super-G
+345,CANTAGALLO Enzo,FRA,M,Ice Hockey,Men
+346,CANTER Jake,USA,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+347,CARDONA COLL Oriol,ESP,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+348,CAROLLO Martino,ITA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+349,CARPENTER Alex,USA,F,Ice Hockey,Women
+350,CARRARA Michela,ITA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+351,CARREIRA Christina,USA,F,Figure Skating,Ice Dance/Team Event
+352,CARRILLO Donovan,MEX,M,Figure Skating,Men Single Skating
+353,CARROLL Avital,AUT,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+354,CARTAGENA Alexander,GBR,M,Bobsleigh,To be defined
+355,CASANOVA Gian,SUI,M,Snowboard,Men's Parallel Giant Slalom
+356,CASERMAN Manca,SLO,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+357,CASHMAN Keely,USA,F,Alpine Skiing,Women's Super-G/Women's Team Combined
+358,CASPER Daniel,USA,M,Curling,Men
+359,CASSE Mattia,ITA,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+360,CASSINELLI Andrea,ITA,M,Short Track Speed Skating,Men's 5000m Relay
+361,CASSOL Federica,ITA,F,Cross- Skiing,Women's Sprint Classic
+362,CASTA Lea,FRA,F,Snowboard,Women's Snowboard Cross
+363,CASTELLET IBANEZ Queralt,ESP,F,Snowboard,Women's Snowboard Halfpipe
+364,CATER Martin,SLO,M,Alpine Skiing,Men's Downhill/Men's Super-G
+365,CAUMO Anna,ITA,F,Ice Hockey,Women
+366,CAVALLERI Noemi,ITA,F,Bobsleigh,To be defined
+367,CAVET Benjamin,FRA,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+368,CAVIEZEL Dario,SUI,M,Snowboard,Men's Parallel Giant Slalom
+369,CAVIEZEL Ladina,SUI,F,Snowboard,Women's Parallel Giant Slalom
+370,CECCARELLI Francis,PHI,M,Alpine Skiing,Men's Giant Slalom
+371,CECON Francesco,ITA,M,Ski Jumping,Men's NH Individual
+372,CEHLARIK Peter,SVK,M,Ice Hockey,Men
+373,CELEBRINI Macklin,CAN,M,Ice Hockey,Men
+374,CENEK Tomas,SVK,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+375,CEPURAN Ethan,USA,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Mass Start/Men's Team Pursuit
+376,CERESNAK Peter,SVK,M,Ice Hockey,Men
+377,CERNAK Erik,SVK,M,Ice Hockey,Men
+378,CERNANSKA Viktoria,SVK,F,Bobsleigh,2-woman/Women's Monobob
+379,CERNOVSKY Marek,CZE,M,Curling,Men
+380,CERNY Ondrej,CZE,M,Cross- Skiing,Men's Sprint Classic
+381,CERUTTI Camille,FRA,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+382,CERVENKA Roman,CZE,M,Ice Hockey,Men
+383,CHA Junhwan,KOR,M,Figure Skating,Men Single Skating/Team Event
+384,CHABICOVSKY Vit,CZE,M,Curling,Mixed Doubles
+385,CHAE Byungdo,KOR,M,Bobsleigh,2-man/4-man
+386,CHAKIACHVILI Florian,FRA,M,Ice Hockey,Men
+387,CHALYK Daryna,UKR,F,Biathlon,Women's 15km Individual
+388,CHAN Emily,USA,F,Figure Skating,Pair Skating/Team Event
+389,CHAN Jason,AUS,M,Figure Skating,Ice Dance
+390,CHANAVAT Lucas,FRA,M,Cross- Skiing,Men's Sprint Classic
+391,CHANG Troy Samuel,TPE,M,Alpine Skiing,To be defined
+392,CHANLOUNG Karen,THA,F,Cross- Skiing,Women's 10km Interval Start Free
+393,CHANLOUNG Mark,THA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+394,CHANNELL Jane,CAN,F,Skeleton,Women
+395,CHAPPAZ Jules,FRA,M,Cross- Skiing,Men's Sprint Classic
+396,CHARVATOVA Lucie,CZE,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+397,CHEN Meiting,CHN,F,Freestyle Skiing,Women's Aerials
+398,CHEN Menachem,ISR,M,Bobsleigh,2-man/4-man
+399,CHEN Wenhao,CHN,M,Skeleton,Men
+400,CHEN Ying-Chu,TPE,F,Speed Skating,Women's 500m
+401,CHERVET Emma,FRA,F,Ski Jumping,Women's NH Individual/Mixed Team
+402,CHERVET Jules,FRA,M,Ski Jumping,Men's NH Individual
+403,CHESI Andrea,ITA,F,Freestyle Skiing,Women's Ski Cross
+404,CHEVRIER Marion,FRA,F,Alpine Skiing,Women's Team Combined
+405,CHI Chunxue,CHN,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay/Women's Sprint Classic
+406,CHIBA Mone,JPN,F,Figure Skating,Women Single Skating/Team Event
+407,CHLAPIK Filip,CZE,M,Ice Hockey,Men
+408,CHMIELEWSKI Wojciech,POL,M,Luge,Men's Doubles/Team Relay
+409,CHO Seungmin,KOR,M,Speed Skating,Men's Mass Start
+410,CHO Wanhee,KOR,M,Snowboard,Men's Parallel Giant Slalom
+411,CHOCK Madison,USA,F,Figure Skating,Ice Dance/Team Event
+412,CHOI Dujin,KOR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+413,CHOI Gaon,KOR,F,Snowboard,Women's Snowboard Halfpipe
+414,CHOI Minjeong,KOR,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+415,CHOLENSKA Diana,CZE,F,Freestyle Skiing,Women's Ski Cross
+416,CHOLLET Aidan,FRA,M,Snowboard,Men's Snowboard Cross
+417,CHOLLET Jonas,FRA,M,Snowboard,Men's Snowboard Cross
+418,CHOURA Krystof,CZE,M,Snowboard,Men's Snowboard Cross
+419,CHRISTEN Eliane,SUI,F,Alpine Skiing,Women's Team Combined
+420,CHRISTEN Lara,SUI,F,Ice Hockey,Women
+421,CHRISTIANSEN Vetle Sjaastad,NOR,M,Biathlon,Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+422,CHRISTOF Nina,GER,F,Ice Hockey,Women
+423,CHTCHETININA Ioulia,POL,F,Figure Skating,Pair Skating/Team Event
+424,CHU Yuanmeng,CHN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+425,CHUN Suhyun,KOR,M,Bobsleigh,4-man
+426,CHUNG Jae-Won,KOR,M,Speed Skating,Men's Mass Start
+427,CIBULSKIS Oskars,LAT,M,Ice Hockey,Men
+428,CIDAN YUZHEN,CHN,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+429,CIGAK Nikita,LTU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+430,CINGEL Lukas,SVK,M,Ice Hockey,Men
+431,CIZERON Guillaume,FRA,M,Figure Skating,Ice Dance/Team Event
+432,CLARA Damian,ITA,M,Ice Hockey,Men
+433,CLARK Emily,CAN,F,Ice Hockey,Women
+434,CLARKE Hallie,CAN,F,Skeleton,Women
+435,CLARKE Skye,CAN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+436,CLAUDE Emilien,FRA,M,Biathlon,To be defined
+437,CLAUDE Fabien,FRA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+438,CLAUDE Florent,BEL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+439,CLAUDEL Delphine,FRA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+440,CLAVEAU-LAVIOLETTE Nicolas,VEN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+441,CLERC Mialitiana,MAD,F,Alpine Skiing,To be defined
+442,CLIFT Mia,AUS,F,Snowboard,Women's Snowboard Cross
+443,CLOETENS Maya,BEL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+444,CLUGNET James,GBR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+445,COADY Tess,AUS,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+446,COCHRAN-SIEGLE Ryan,USA,M,Alpine Skiing,Men's Downhill/Men's Super-G
+447,COJOCARU Gabriel,ROU,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+448,COLBY Jason,USA,M,Ski Jumping,Men's NH Individual/Mixed Team
+449,COLELL PANTEBRE Marc,ESP,M,Cross- Skiing,Men's Sprint Classic
+450,COLTEA George,ROU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+451,COLTMAN Amelia,GBR,F,Skeleton,Women
+452,COLTURI Lara,ALB,F,Alpine Skiing,To be defined
+453,COMARELLA Anna,ITA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+454,COMBY Berenice,FRA,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+455,COMERFORD Cormac,IRL,M,Alpine Skiing,Men's Downhill/Men's Super-G
+456,CONFORTOLA Elisa,ITA,F,Short Track Speed Skating,Women's 3000m Relay/Mixed Team Relay
+457,CONIJN Merel,NED,F,Speed Skating,Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+458,CONNELLY Zachary,CAN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+459,CONNOR Kyle,USA,M,Ice Hockey,Men
+460,CONRADT Niels,GER,M,Snowboard,Men's Snowboard Cross
+461,CONSTANTINI Stefania,ITA,F,Curling,Women/Mixed Doubles
+462,CONTI Sara,ITA,F,Figure Skating,Pair Skating/Team Event
+463,CORATTI Jasmin,ITA,F,Snowboard,Women's Parallel Giant Slalom
+464,COREY Brendan,AUS,M,Short Track Speed Skating,Men's 1000m
+465,CORNELL PATO Nora,ESP,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+466,CORNELLA GUITART Xavier,AND,M,Alpine Skiing,To be defined
+467,CORONA Allan,MEX,M,Cross- Skiing,Men's 10km Interval Start Free
+468,COSTA DIEZ Maria,ESP,F,Ski Mountaineering,Women's Sprint
+469,COSTA Samuel,ITA,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+470,COSTELLA Anna,ITA,F,Bobsleigh,2-woman
+471,COUSIN Sixtine,SUI,F,Freestyle Skiing,Women's Ski Cross
+472,COYNE Kendall,USA,F,Ice Hockey,Women
+473,CRACIUN Eduard-Mihai,ROU,M,Luge,Men's Singles
+474,CRAWFORD James,CAN,M,Alpine Skiing,Men's Downhill/Men's Super-G
+475,CRETU Valentin,ROU,M,Luge,Men's Singles/Team Relay
+476,CRIDLAND Phoebe,AUS,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+477,CRINON Pierre,FRA,M,Ice Hockey,Men
+478,CRNKOVIC Kresimir,CRO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+479,CROSBY Sidney,CAN,M,Ice Hockey,Men
+480,CRV Vili,SLO,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+481,CULLY Rebeka,SVK,F,Ski Mountaineering,Women's Sprint
+482,CURL Britta,USA,F,Ice Hockey,Women
+483,CURRAN Connor,USA,M,Freestyle Skiing,Men's Aerials
+484,CURTIS Kelly,USA,F,Skeleton,Women
+485,CURTONI Elena,ITA,F,Alpine Skiing,Women's Super-G
+486,CVETANOVSKA Ana,MKD,F,Cross- Skiing,Women's 10km Interval Start Free
+487,CYR Antoine,CAN,M,Cross- Skiing,Men's 10km + 10km Skiathlon/Men's Sprint Classic
+488,CZERWONKA Natalia,POL,F,Speed Skating,Women's 1000m/Women's 1500m
+489,D'ANTONIO Giada,ITA,F,Alpine Skiing,Women's Team Combined
+490,DACRES Andrae,JAM,M,Bobsleigh,To be defined
+491,DAHLIN Rasmus,SWE,M,Ice Hockey,Men
+492,DAHLQVIST Maja,SWE,F,Cross- Skiing,Women's Sprint Classic
+493,DAINYTE Ieva,LTU,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+494,DAIR Aurelien,FRA,M,Ice Hockey,Men
+495,DAL FARRA Franco,ARG,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+496,DALE-SKJEVDAL Johannes,NOR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+497,DALMASSO Lucia,ITA,F,Snowboard,Women's Parallel Giant Slalom
+498,DANCHA Annamari,UKR,F,Snowboard,Women's Parallel Giant Slalom
+499,DANDJINOU William,CAN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+500,DANIELOVA Maria,SVK,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+501,DANILOVA Daria,NED,F,Figure Skating,Pair Skating
+502,DANKSAGMUELLER Christoph,AUT,M,Freestyle Skiing,Men's Ski Cross
+503,DAPRA Simone,ITA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+504,DAUGAVINS Kaspars,LAT,M,Ice Hockey,Men
+505,DAUTI Semire,ALB,F,Alpine Skiing,To be defined
+506,DAVIDOVA Marketa,CZE,F,Biathlon,Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+507,DAVIES Joe,GBR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+508,DAVIES Oliver,GBR,M,Freestyle Skiing,Men's Ski Cross
+509,DAVIS Diana,GEO,F,Figure Skating,Ice Dance/Team Event
+510,DAWSON Casey,USA,M,Speed Skating,Men's 1500m/Men's 5000m/Men's 10000m/Men's Mass Start/Men's Team Pursuit
+511,DEARBORN Jay,CAN,M,Bobsleigh,2-man/4-man
+512,DECLEMENTE Clayton,USA,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+513,DEFAYET Lucas,FRA,M,Skeleton,Men
+514,DEHLINGER Quinn,USA,M,Freestyle Skiing,Men's Aerials
+515,DEKKER Michelle,NED,F,Snowboard,Women's Parallel Giant Slalom
+516,DELAGO Nadia,ITA,F,Alpine Skiing,Women's Team Combined
+517,DELAGO Nicol,ITA,F,Alpine Skiing,Women's Downhill/Women's Team Combined
+518,DELIPARA Teodora,BIH,F,Cross- Skiing,Women's 10km Interval Start Free
+519,DELKA Kellie,PUR,F,Skeleton,Women
+520,DELLA MEA Lara,ITA,F,Alpine Skiing,Women's Team Combined
+521,DELLA ROVERE Kristin,ITA,F,Ice Hockey,Women
+522,DELTRAP Zoe Florence,NED,F,Short Track Speed Skating,Women's 3000m Relay
+523,DEROMEDIS Simone,ITA,M,Freestyle Skiing,Men's Ski Cross
+524,DERUGO Anna,AIN,F,Freestyle Skiing,Women's Aerials
+525,DESBIENS Ann-Renee,CAN,F,Ice Hockey,Women
+526,DESCHAMPS Dylan,CAN,M,Freestyle Skiing,Men's Freeski Big Air
+527,DESCHAMPS Germain,FRA,M,Speed Skating,Men's Mass Start/Men's Team Pursuit
+528,DESCHAMPS Maxime,CAN,M,Figure Skating,Pair Skating
+529,DESCHWANDEN Gregor,SUI,M,Ski Jumping,Men's NH Individual
+530,DESLOGES Mathis,FRA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+531,DESMARAIS-GILBERT Laurianne,CAN,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+532,DESMET Hanne,BEL,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+533,DESMET Stijn,BEL,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+534,DETRAZ Romain,SUI,M,Freestyle Skiing,Men's Ski Cross
+535,DEWAGTERE Adriaan,BEL,M,Short Track Speed Skating,Men's 5000m Relay/Mixed Team Relay
+536,DHAWORNVEJ Lily,USA,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+537,DHONDT Brooke,CAN,F,Snowboard,Women's Snowboard Halfpipe
+538,DIAZ GONZALEZ Nahiara,ARG,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+539,DICHOW Frederik,DEN,M,Ice Hockey,Men
+540,DIDIERLAURENT Clemence,FRA,F,Cross- Skiing,Women's Sprint Classic
+541,DIECK Tim,ESP,M,Figure Skating,Ice Dance
+542,DIGBY Luke,GBR,M,Figure Skating,Pair Skating/Team Event
+543,DIGGINS Jessie,USA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+544,DIGIACINTO Cristiano,ITA,M,Ice Hockey,Men
+545,DIGREGORIO Zachary,USA,M,Luge,Men's Doubles
+546,DIMITROVA Valentina,BUL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+547,DINESCU Constantin,ROU,M,Bobsleigh,4-man
+548,DING Yunda,CHN,M,Bobsleigh,To be defined
+549,DINIZ Sebas,NED,M,Speed Skating,Men's 500m
+550,DIREZ Clara,FRA,F,Alpine Skiing,To be defined
+551,DMYTRENKO Khrystyna,UKR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+552,DOAK Rikki,CAN,F,Short Track Speed Skating,Women's 3000m Relay
+553,DODDS Jennifer,GBR,F,Curling,Women/Mixed Doubles
+554,DOERIG Anouk,SUI,F,Snowboard,Women's Snowboard Cross
+555,DOHERTY Sean,USA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+556,DOMARADZKA Klaudia,POL,F,Luge,Women's Singles/Team Relay
+557,DOMBEK Hendrik,GER,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m/Men's Team Pursuit
+558,DOMBROVSKI Karol,LTU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+559,DOMOWICZ Nikola,POL,F,Luge,Women's Doubles/Team Relay
+560,DONG Bing,CHN,F,Ski Jumping,Women's NH Individual
+561,DONG Yuyue,CHN,F,Snowboard,Women's Parallel Giant Slalom
+562,DONG Ziqi,CHN,F,Curling,Women
+563,DOSSA Kyra,USA,F,Freestyle Skiing,Women's Aerials
+564,DOSTAL Lukas,CZE,M,Ice Hockey,Men
+565,DOUAY Floran,FRA,M,Ice Hockey,Men
+566,DOUGHTY Drew,CAN,M,Ice Hockey,Men
+567,DOVHAL Sofiia,POL,F,Figure Skating,Team Event
+568,DOVZAN Miha,SLO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+569,DRAHUN Dmytro,UKR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+570,DRAISAITL Leon,GER,M,Ice Hockey,Men
+571,DREMLJUGA Karl Sebastian,EST,M,Cross- Skiing,Men's Sprint Classic
+572,DRION du CHAPOIS Maximilien,BEL,M,Ski Mountaineering,Men's Sprint
+573,DRIVENES Julie Bjervig,NOR,F,Cross- Skiing,Women's Sprint Classic
+574,DROLET Jasmine,CAN,F,Cross- Skiing,Women's 10km + 10km Skiathlon/Women's Sprint Classic
+575,DROLET Remi,CAN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+576,DROPKIN Korey,USA,M,Curling,Mixed Doubles
+577,DRUKAROV Andrej,LTU,M,Alpine Skiing,Men's Super-G
+578,DRURY Kevin,CAN,M,Freestyle Skiing,Men's Ski Cross
+579,DUAUX Marie,FRA,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+580,DUBOIS Steven,CAN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+581,DUBOVSKA Martina,CZE,F,Alpine Skiing,Women's Team Combined
+582,DUBREUIL Laurent,CAN,M,Speed Skating,Men's 500m/Men's 1000m
+583,DUDCHENKO Anton,UKR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+584,DUERR Lena,GER,F,Alpine Skiing,To be defined
+585,DUKACH Anton,UKR,M,Luge,Men's Singles
+586,DUMONT ZANELLA Kim,FRA,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+587,DUNNE Joy,USA,F,Ice Hockey,Women
+588,DUPLESSIS-KERGOMARD Youri,FRA,M,Freestyle Skiing,Men's Ski Cross
+589,DUPONT Denise,DEN,F,Curling,Women
+590,DUPONT Madeleine,DEN,F,Curling,Women
+591,DURANTE Gabriella,ITA,F,Ice Hockey,Women
+592,DURRER Delia,SUI,F,Alpine Skiing,Women's Super-G/Women's Team Combined
+593,DURSUN Irem,TUR,F,Cross- Skiing,Women's 10km Interval Start Free
+594,DUSEK Jakob,AUT,M,Snowboard,Men's Snowboard Cross
+595,DUVIN Estelle,FRA,F,Ice Hockey,Women
+596,DVORSKY Dalibor,SVK,M,Ice Hockey,Men
+597,DYRSET Sigurd Holbo,NOR,M,Speed Skating,Men's 1500m/Men's 10000m/Men's Mass Start/Men's Team Pursuit
+598,DYUSSENOV Asset,KAZ,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+599,DZHIMA Yuliia,UKR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+600,DZIERKALS Martins,LAT,M,Ice Hockey,Men
+601,EDELMAN Adam,ISR,M,Bobsleigh,2-man/4-man
+602,EDER Lisa,AUT,F,Ski Jumping,Women's NH Individual/Mixed Team
+603,EDER Simon,AUT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+604,EDIN Niklas,SWE,M,Curling,Men
+605,EDWARDS Laila,USA,F,Ice Hockey,Women
+606,EFIMOV Simon,AIN,M,Alpine Skiing,To be defined
+607,EGADZE Nika,GEO,M,Figure Skating,Men Single Skating/Team Event
+608,EGGERT Toni,GER,M,Luge,Men's Doubles
+609,EGLE Haralds,LAT,M,Ice Hockey,Men
+610,EGLE Selina,AUT,F,Luge,Women's Doubles/Team Relay
+611,EGUIBAR BRETON Lucas,ESP,M,Snowboard,Men's Snowboard Cross
+612,EHL Alexander,GER,M,Ice Hockey,Men
+613,EHLERS Nikolaj,DEN,M,Ice Hockey,Men
+614,EICHEL Jack,USA,M,Ice Hockey,Men
+615,EIDUKA Patricija,LAT,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+616,EIE Sandra,NOR,F,Freestyle Skiing,Women's Freeski Big Air
+617,EILERS Natalie,CAN,F,Ski Jumping,Women's NH Individual
+618,EITBERGER Dajana,GER,F,Luge,Women's Doubles/Team Relay
+619,EITREM Sander,NOR,M,Speed Skating,Men's 1500m/Men's 5000m/Men's 10000m/Men's Team Pursuit
+620,EKMAN-LARSSON Oliver,SWE,M,Ice Hockey,Men
+621,EL HAYEK Andrea Elie Antoine,LBN,M,Alpine Skiing,To be defined
+622,ELANTKOWSKI Jan,POL,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+623,ELEZI CANNAFERINA Alban,FRA,M,Alpine Skiing,Men's Downhill/Men's Super-G
+624,ELLER Lars,DEN,M,Ice Hockey,Men
+625,ELLIS Trinity,CAN,F,Luge,Women's Singles
+626,EMBACHER Stephan,AUT,M,Ski Jumping,Men's NH Individual/Mixed Team
+627,EMONS Friso,NED,M,Short Track Speed Skating,Men's 1500m/Men's 5000m Relay
+628,EMONTS Marisa,BEL,F,Biathlon,To be defined
+629,ENDRESTAD Sebastian,CHI,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+630,ENKHBAYAR Ariuntungalag,MGL,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+631,ENZLER Rahel,SUI,F,Ice Hockey,Women
+632,ERIC Strahinja,BIH,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+633,ERIKSEN Jenny Axisa,MLT,F,Cross- Skiing,Women's 10km Interval Start Free
+634,ERIKSSON EK Joel,SWE,M,Ice Hockey,Men
+635,ERIKSSON Oskar,SWE,M,Curling,Men
+636,ERMITS Regina,EST,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+637,ERRARD Anouck,FRA,F,Freestyle Skiing,Women's Ski Cross
+638,ESCANE Doriane,FRA,F,Alpine Skiing,To be defined
+639,ESKRICK-PARKINSON Yohan,CAN,M,Bobsleigh,4-man
+640,ESTEVE ALTIMIRAS Ireneu,AND,M,Cross- Skiing,To be defined
+641,ETTEL Kona,GER,F,Snowboard,Women's Snowboard Halfpipe
+642,ETTEL Leilani,GER,F,Snowboard,Women's Snowboard Halfpipe
+643,EURINGER Helena,GER,F,Ski Mountaineering,Women's Sprint
+644,EVELYN Mike,CAN,M,Bobsleigh,2-man/4-man
+645,EYBOG Daniil,UZB,M,Short Track Speed Skating,To be defined
+646,FABBRI Marco,ITA,M,Figure Skating,Ice Dance/Team Event
+647,FABER Brock,USA,M,Ice Hockey,Men
+648,FABRE Dylan,FRA,M,Ice Hockey,Men
+649,FADANI Davide,ITA,M,Ice Hockey,Men
+650,FAEHNDRICH Nadine,SUI,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+651,FAK Jakov,SLO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+652,FAKSA Radek,CZE,M,Ice Hockey,Men
+653,FAN Kexin,CHN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay
+654,FANTAZZINI Eric,ITA,M,Bobsleigh,4-man
+655,FANTIN Matilde,ITA,F,Ice Hockey,Women
+656,FARQUHARSON Ashley,USA,F,Luge,Women's Singles/Team Relay
+657,FARRELL Lyon,NZL,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+658,FARTHOFER Alexander,AUT,M,Speed Skating,Men's 1500m/Men's 5000m
+659,FAST Renata,CAN,F,Ice Hockey,Women
+660,FATTON Marianne,SUI,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+661,FAWARSEH Ward,ISR,M,Bobsleigh,To be defined
+662,FEAR Lilah,GBR,F,Figure Skating,Ice Dance/Team Event
+663,FEARON Joel,JAM,M,Bobsleigh,2-man/4-man
+664,FEDEL Martina,ITA,F,Ice Hockey,Women
+665,FEHERVARY Martin,SVK,M,Ice Hockey,Men
+666,FEI Xueqing,CHN,M,Curling,Men
+667,FEIGIN Alexandra,BUL,F,Figure Skating,Women Single Skating
+668,FELDERER Leon,ITA,M,Luge,Men's Singles
+669,FELDMEIER Franziska,GER,F,Ice Hockey,Women
+670,FELICETTI Mirko,ITA,M,Snowboard,Men's Parallel Giant Slalom
+671,FELLER Manuel,AUT,M,Alpine Skiing,Men's Team Combined
+672,FERCOQ Quentin,FRA,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+673,FERLAZZO Alexander,AUS,M,Luge,Men's Singles
+674,FERNSTAEDT Anna,CZE,F,Skeleton,Women
+675,FERRARI Filippo,ITA,M,Snowboard,Men's Snowboard Cross
+676,FERREIRA Alex,USA,M,Freestyle Skiing,Men's Freeski Halfpipe
+677,FERRER MARTINEZ Ot,ESP,M,Ski Mountaineering,Men's Sprint
+678,FESTIN Victoria,AUT,F,Bobsleigh,2-woman
+679,FEURSTEIN Lukas,AUT,M,Alpine Skiing,To be defined
+680,FEURSTEIN Patrick,AUT,M,Alpine Skiing,To be defined
+681,FIALA Kevin,SUI,M,Ice Hockey,Men
+682,FILIPPOV Nikita,AIN,M,Ski Mountaineering,Men's Sprint
+683,FILLIER Sarah,CAN,F,Ice Hockey,Women
+684,FILLON MAILLET Quentin,FRA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+685,FINELLO Jeremy,SUI,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+686,FINK Pia,GER,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+687,FIRESTONE Jared,ISR,M,Skeleton,Men
+688,FISCHER Florian,GER,M,Freestyle Skiing,Men's Ski Cross
+689,FISCHER Jana,GER,F,Snowboard,Women's Snowboard Cross
+690,FISCHER Lea,SUI,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+691,FISCHNALLER Dominik,ITA,M,Luge,Men's Singles/Team Relay
+692,FISCHNALLER Emily,USA,F,Luge,Women's Singles
+693,FISCHNALLER Roland,ITA,M,Snowboard,Men's Parallel Giant Slalom
+694,FITZSIMONS Sean,USA,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+695,FIVA Alex,SUI,M,Freestyle Skiing,Men's Ski Cross
+696,FLANAGAN Reilly,AUS,M,Freestyle Skiing,Men's Aerials
+697,FLEISCHHAUER Georg,GER,M,Bobsleigh,2-man/4-man
+698,FLEK Jakub,CZE,M,Ice Hockey,Men
+699,FLEMING Jasper,CAN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+700,FLEURY Tracy,CAN,F,Curling,Women
+701,FLOCK Janine,AUT,F,Skeleton,Women
+702,FLORE Raul,ROU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+703,FLORIAN Austin,USA,M,Skeleton,Men
+704,FLURY Jasmine,SUI,F,Alpine Skiing,Women's Downhill/Women's Team Combined
+705,FODSTAD Fredrik,COL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+706,FOEDERMAYR Christina,AUT,F,Freestyle Skiing,Women's Ski Cross
+707,FOETTINGER Michael,AUT,M,Cross- Skiing,Men's Sprint Classic
+708,FOLEA Delia Anamaria,ROU,F,Ski Jumping,Women's NH Individual/Mixed Team
+709,FOLLADOR Cedric,SUI,M,Bobsleigh,2-man/4-man
+710,FOMIN Maksim,LTU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+711,FONTAINE Miha,CAN,M,Freestyle Skiing,Men's Aerials
+712,FONTANA Arianna,ITA,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+713,FORA Michael,SUI,M,Ice Hockey,Men
+714,FORDHAM Rosie,AUS,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+715,FOREHAND Mac,USA,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+716,FORER Julius,AUT,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+717,FORFANG Johann Andre,NOR,M,Ski Jumping,Men's NH Individual
+718,FORGAN Chevonne,USA,F,Luge,Women's Doubles/Team Relay
+719,FORSBERG Filip,SWE,M,Ice Hockey,Men
+720,FORSLING Gustav,SWE,M,Ice Hockey,Men
+721,FORTINO Laura,ITA,F,Ice Hockey,Women
+722,FOSNAES Kristin Austgulen,NOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+723,FOUBERT Valentin,FRA,M,Ski Jumping,Men's NH Individual/Mixed Team
+724,FOURNIER BEAUDRY Laurence,FRA,F,Figure Skating,Ice Dance/Team Event
+725,FRAEBEL Merle Malou,GER,F,Luge,Women's Singles
+726,FRANCESIA BOIRAI Lisa,ITA,F,Snowboard,Women's Snowboard Cross
+727,FRANJIC Janko,NED,M,Bobsleigh,4-man
+728,FRANJIC Jelen,NED,M,Bobsleigh,2-man/4-man
+729,FRANKEL Aerin,USA,F,Ice Hockey,Women
+730,FRANTZ Tate,USA,M,Ski Jumping,Men's NH Individual/Mixed Team
+731,FRANZONI Giovanni,ITA,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+732,FRANZREB Maximilian,GER,M,Ice Hockey,Men
+733,FRASER Amy,CAN,F,Freestyle Skiing,Women's Freeski Halfpipe
+734,FRATZSCHER Lucas,GER,M,Biathlon,Men's 20km Individual
+735,FREED Margie,USA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+736,FREIBERGS Ralfs,LAT,M,Ice Hockey,Men
+737,FREITAG Selina,GER,F,Ski Jumping,Women's NH Individual/Mixed Team
+738,FREY Isak Leknes,NOR,M,Biathlon,To be defined
+739,FRICOVA Nikola,SVK,F,Freestyle Skiing,Women's Ski Cross
+740,FRIEDRICH Francesco,GER,M,Bobsleigh,2-man/4-man
+741,FRIGO Airleigh,AUS,F,Freestyle Skiing,Women's Aerials
+742,FRIGO Luca,ITA,M,Ice Hockey,Men
+743,FROMMELT Robin,LIE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+744,FROSTAD Tormod,NOR,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+745,FRYCKLUND Mats,ITA,M,Ice Hockey,Men
+746,FUERSTENBERG Theresa,GER,F,Cross-Country Skiing,Women's 10km Interval Start Free
+747,FUJIKI Goshin,JPN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+748,FUJIKI Hina,JPN,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+749,FUKADA Mari,JPN,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+750,FUMAGALLI Alessandra,ITA,F,Skeleton,Women
+751,FURNELL Caleb,USA,M,Bobsleigh,4-man
+752,FURUNO Satoshi,JPN,M,Freestyle Skiing,Men's Ski Cross
+753,GAGNON Liliane,CAN,F,Cross- Skiing,Women's 10km Interval Start Free
+754,GAILLARD Justine,FRA,F,Cross- Skiing,Women's Sprint Classic
+755,GAJAN Adam,SVK,M,Ice Hockey,Men
+756,GAL Melissa,FRA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+757,GALBRUN Sehana,FRA,F,Ice Hockey,Women
+758,GALICA Grzegorz,POL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+759,GALLANT Brett,CAN,M,Curling,Men/Mixed Doubles
+760,GALLET Hugo,FRA,M,Ice Hockey,Men
+761,GALLHUBER Katharina,AUT,F,Alpine Skiing,Women's Team Combined
+762,GALLI Jole,ITA,F,Freestyle Skiing,Women's Ski Cross
+763,GALSTYAN Katya,ARM,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+764,GALYSHEVA Yuliya,KAZ,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+765,GANCARCZYK Michal,POL,M,Luge,Men's Doubles/Team Relay
+766,GANDLER Anna,AUT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+767,GANTENBEIN Talina,SUI,F,Freestyle Skiing,Women's Ski Cross
+768,GANZ Caterina,ITA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+769,GAO Tingyu,CHN,M,Speed Skating,Men's 500m
+770,GARDINER Jennifer,CAN,F,Ice Hockey,Women
+771,GASIENICA-DANIEL Maryna,POL,F,Alpine Skiing,Women's Super-G
+772,GASKELL Elena,CAN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+773,GASKILL Stacy,USA,F,Snowboard,Women's Snowboard Cross
+774,GASPARI Mattia,ITA,M,Skeleton,Men
+775,GASPARIN Aita,SUI,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+776,GASSER Anna,AUT,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+777,GASSLITTER Maria,ITA,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+778,GATCLIFFE Emma,TTO,F,Alpine Skiing,To be defined
+779,GATT Juri Thomas,AUT,M,Luge,Men's Doubles
+780,GATTI Alessia,ITA,F,Bobsleigh,2-woman
+781,GAUCHE Laura,FRA,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+782,GAUDET Arnaud,CAN,M,Snowboard,Men's Parallel Giant Slalom
+783,GAWANKE Leon,GER,M,Ice Hockey,Men
+784,GAXIOLA Lasse,MEX,M,Alpine Skiing,To be defined
+785,GAY Paul Andrea,FRA,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+786,GAZLEY Dustin,ITA,M,Ice Hockey,Men
+787,GE Chunyu,CHN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+788,GEIBEL Korbinian,GER,M,Ice Hockey,Men
+789,GEIGER Vinzenz,GER,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+790,GELINAS-BEAULIEU Antoine,CAN,M,Speed Skating,Men's 1500m/Men's Mass Start
+791,GENEVA Milana,KAZ,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+792,GENONI Leonardo,SUI,M,Ice Hockey,Men
+793,GEORGALLI Lucia,NZL,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+794,GERARD Redmond,USA,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+795,GEREMIA Felicity,CAN,F,Snowboard,Women's Snowboard Halfpipe
+796,GERKEN SCHOFIELD Makayla,GBR,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+797,GERMAIN Maxime,USA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+798,GERMANE Dzenifera,LAT,F,Alpine Skiing,To be defined
+799,GERNAT Martin,SVK,M,Ice Hockey,Men
+800,GESTBLOM Linn,SWE,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+801,GEVING Aileen,USA,F,Curling,Women
+802,GHILARDI Rebecca,ITA,F,Figure Skating,Pair Skating/Team Event
+803,GHIOTTO Davide,ITA,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Team Pursuit
+804,GIACCIO Olivia,USA,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+805,GIACOMEL Tommaso,ITA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+806,GIBSON Anna,USA,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+807,GIBSON Lewis,GBR,M,Figure Skating,Ice Dance/Team Event
+808,GIGLER Sonja,AUT,F,Freestyle Skiing,Women's Ski Cross
+809,GILLES Piper,CAN,F,Figure Skating,Ice Dance/Team Event
+810,GIM Eunji,KOR,F,Curling,Women
+811,GIM Sohui,KOR,F,Alpine Skiing,To be defined
+812,GIMMLER Laura,GER,F,Cross-Country Skiing,Women's 4 x 7.5km Relay/Women's Sprint Classic
+813,GINER DALMASSO Pablo,FRA,M,Ski Mountaineering,Men's Sprint
+814,GIOTOPOULOS MOORE Hektor,AUS,M,Figure Skating,Pair Skating
+815,GIOVANELLA Mattia,ITA,M,Curling,Men
+816,GIOVANNINI Andrea,ITA,M,Speed Skating,Men's 5000m/Men's Mass Start/Men's Team Pursuit
+817,GIRGENSONS Zemgus,LAT,M,Ice Hockey,Men
+818,GISMONDI Maria,ITA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+819,GISSELMAN Truls,SWE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+820,GITLAN Vasile-Marian,ROU,M,Luge,Men's Doubles/Team Relay
+821,GLAUSER Andrea,SUI,M,Ice Hockey,Men
+822,GLEIRSCHER Nico,AUT,M,Luge,Men's Singles
+823,GLEISSNER Daria,GER,F,Ice Hockey,Women
+824,GLENN Amber,USA,F,Figure Skating,Women Single Skating/Team Event
+825,GLENNIE Dillan,CAN,F,Freestyle Skiing,Women's Freeski Halfpipe
+826,GLIRA Daniel,ITA,M,Ice Hockey,Men
+827,GOEPPER Nick,USA,M,Freestyle Skiing,Men's Freeski Halfpipe
+828,GOGGIA Sofia,ITA,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+829,GOGOLEV Stephen,CAN,M,Figure Skating,Men Single Skating/Team Event
+830,GOLUBEVA Anastasiia,AUS,F,Figure Skating,Pair Skating
+831,GOLUBEVA Elizaveta,KAZ,F,Speed Skating,Women's 1000m/Women's 1500m/Women's 3000m/Women's Mass Start/Women's Team Pursuit
+832,GONG Li,CHN,F,Short Track Speed Skating,Women's 1000m/Women's 3000m Relay/Mixed Team Relay
+833,GONG Naiying,CHN,F,Snowboard,Women's Parallel Giant Slalom
+834,GORODKO Anastassiya,KAZ,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+835,GOSLING Julia,CAN,F,Ice Hockey,Women
+836,GOUREAU Luna,FRA,F,Bobsleigh,To be defined
+837,GRAHAM Matt,AUS,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+838,GRAHL-MADSEN Hans,NOR,M,Alpine Skiing,To be defined
+839,GRAHN Anton,SWE,M,Cross- Skiing,Men's Sprint Classic
+840,GRAMMEL Anton,GER,M,Alpine Skiing,Men's Giant Slalom/Men's Super-G
+841,GRANCAGNOLO Timon,GER,M,Luge,Men's Singles
+842,GRANLUND Mikael,FIN,M,Ice Hockey,Men
+843,GRANTINS Renars,LAT,M,Bobsleigh,4-man
+844,GRASSL Daniel,ITA,M,Figure Skating,Men Single Skating/Team Event
+845,GRATZ Fabian,GER,M,Alpine Skiing,Men's Giant Slalom
+846,GRAVIER Mathieu,MAD,M,Alpine Skiing,Men's Giant Slalom
+847,GRAVIER Tiziano,ARG,M,Alpine Skiing,Men's Super-G
+848,GRAY Cassidy,CAN,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+849,GRAY Kate,USA,F,Freestyle Skiing,Women's Freeski Halfpipe
+850,GRAZ Davide,ITA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+851,GRBOVIC Aleksandar,MNE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+852,GREENWOOD Leon,GBR,M,Bobsleigh,4-man
+853,GREINER Matthew,USA,M,Luge,Men's Singles
+854,GREMAUD Mathilde,SUI,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+855,GRENIER Valerie,CAN,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+856,GRENOUILLOUX Eva,FRA,F,Short Track Speed Skating,Women's 3000m Relay
+857,GRILLET AUBERT Jade,FRA,F,Freestyle Skiing,Women's Ski Cross
+858,GROBLECHNER Sofia,ITA,F,Snowboard,Women's Snowboard Cross
+859,GROENEWOUD Marijke,NED,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+860,GROETZNER Agustina,ARG,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+861,GROND Valerio,SUI,M,Cross-Country Skiing,Men's Sprint Classic
+862,GRONDIN Eliot,CAN,M,Snowboard,Men's Snowboard Cross
+863,GRONLUND Timo Juhani,BOL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+864,GROSS Gabriel,GER,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Team Pursuit
+865,GROTHEER Christopher,GER,M,Skeleton,Men
+866,GROTIAN Selina,GER,F,Biathlon,Women's 15km Individual
+867,GRUBAUER Philipp,GER,M,Ice Hockey,Men
+868,GSCHWENTNER Ignaz,AUT,M,Speed Skating,Men's 500m/Men's 1000m/Men's Mass Start
+869,GSTREIN Fabio,AUT,M,Alpine Skiing,Men's Team Combined
+870,GU Ailing Eileen,CHN,F,Freestyle Skiing,Women's Freeski Halfpipe/Women's Freeski Slopestyle/Women's Freeski Big Air
+871,GUARINO SABATE Tomas,ESP,M,Figure Skating,Men Single Skating
+872,GUBANOVA Anastasiia,GEO,F,Figure Skating,Women Single Skating/Team Event
+873,GUBSER Kim,SUI,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+874,GUDAS Radko,CZE,M,Ice Hockey,Men
+875,GUDLEVSKIS Kristers,LAT,M,Ice Hockey,Men
+876,GUDNADOTTIR Kristrun,ISL,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+877,GUEBEY Enzo,FRA,M,Ice Hockey,Men
+878,GUENTZEL Jake,USA,M,Ice Hockey,Men
+879,GUERILLOT Emeric,POR,M,Alpine Skiing,Men's Giant Slalom/Men's Super-G
+880,GUERILLOT Vanina,POR,F,Alpine Skiing,To be defined
+881,GUERRIERO Kristen,ITA,F,Ice Hockey,Women
+882,GUFLER Alex,ITA,M,Luge,Men's Singles
+883,GUIGNARD Charlene,ITA,F,Figure Skating,Ice Dance/Team Event
+884,GUILDAY Rory,USA,F,Ice Hockey,Women
+885,GULIJIENAITI Adikeyoumu,CHN,F,Luge,Women's Doubles/Team Relay
+886,GUMENNIK Petr,AIN,M,Figure Skating,Men Single Skating
+887,GUNKA Jan,POL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+888,GUSELI Valentino,AUS,M,Snowboard,Men's Snowboard Halfpipe/Men's Snowboard Big Air
+889,GUSTAFSON Jonathan,USA,M,Luge,Men's Singles/Team Relay
+890,GUSTAVSSON Filip,SWE,M,Ice Hockey,Men
+891,GUTMANN Lara Naki,ITA,F,Figure Skating,Women Single Skating/Team Event
+892,HAAS Andreas,SUI,M,Bobsleigh,4-man
+893,HAASER Raphael,AUT,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+894,HABLUETZEL David,SUI,M,Snowboard,Men's Snowboard Halfpipe
+895,HACKELSMILLER Katharina,GER,F,Ice Hockey,Women
+896,HADRASCHEK Nicola,GER,F,Ice Hockey,Women
+897,HADZIC Tena,CRO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+898,HAECKI-GROSS Lena,SUI,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+899,HAEGGSTROEM Johan,SWE,M,Cross- Skiing,Men's Sprint Classic
+900,HAEMMERLE Alessandro,AUT,M,Snowboard,Men's Snowboard Cross
+901,HAGARA Adam,SVK,M,Figure Skating,Men Single Skating
+902,HAGEL Brandon,CAN,M,Ice Hockey,Men
+903,HAGENBUCH John Steel,USA,M,Cross- Skiing,Men's 10km Interval Start Free
+904,HAGSTROEM Johanna,SWE,F,Cross- Skiing,Women's Sprint Classic
+905,HAIDER Celina,GER,F,Ice Hockey,Women
+906,HAK Petr,CZE,M,Biathlon,Men's 20km Individual
+907,HAKOLA Ristomatti,FIN,M,Cross- Skiing,Men's 10km + 10km Skiathlon
+908,HALFVARSSON Calle,SWE,M,Cross- Skiing,To be defined
+909,HALL Alex,USA,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+910,HALL Brad,GBR,M,Bobsleigh,2-man/4-man
+911,HALL Daniel,CAN,M,Speed Skating,Men's 1500m/Men's 5000m/Men's 10000m/Men's Mass Start
+912,HALL Laura,CAN,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+913,HALL Nicole,SWE,F,Ice Hockey,Women
+914,HALLBERG Eduard,FIN,M,Alpine Skiing,Men's Team Combined
+915,HALLIN Mira,SWE,F,Ice Hockey,Women
+916,HALLORAN Rei,JPN,F,Ice Hockey,Women
+917,HALSE Mathilde,DEN,F,Curling,Women
+918,HALVARSSON Ella,SWE,F,Biathlon,To be defined
+919,HAMALAINEN Inka,FIN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+920,HAMILL Marin,USA,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+921,HAMILTON Lara,AUS,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+922,HAN Cong,CHN,M,Figure Skating,Pair Skating/Team Event
+923,HAN Dasom,KOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+924,HAN Linshan,CHN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+925,HAN Mei,CHN,F,Speed Skating,Women's 1000m/Women's 1500m/Women's Team Pursuit
+926,HAN Yu,CHN,F,Curling,Women
+927,HANDEI Oleh,UKR,M,Short Track Speed Skating,To be defined
+928,HANIFIN Noah,USA,M,Ice Hockey,Men
+929,HARDI Ramona,SUI,F,Speed Skating,Women's 1500m/Women's 3000m/Women's Mass Start
+930,HARDIE Grant,GBR,M,Curling,Men
+931,HARJULA Tuomas,FIN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+932,HARK Ronja,GER,F,Ice Hockey,Women
+933,HARLAUT Henrik,SWE,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+934,HARLEY Thomas,CAN,M,Ice Hockey,Men
+935,HARRINGTON Ben,NZL,M,Freestyle Skiing,Men's Freeski Halfpipe
+936,HARRINGTON Luca,NZL,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+937,HARRIS Holly,AUS,F,Figure Skating,Ice Dance
+938,HARRIS Junior,JAM,M,Bobsleigh,4-man
+939,HARROLD Luke,NZL,M,Freestyle Skiing,Men's Freeski Halfpipe
+940,HARROP Emily,FRA,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+941,HARTWEG Niklas,SUI,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+942,HARUTYUNYAN Harutyun,ARM,M,Alpine Skiing,To be defined
+943,HARVEY Caroline,USA,F,Ice Hockey,Women
+944,HARVEY Jackson,AUS,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+945,HARWOOD Rell,USA,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+946,HASE Minerva Fabienne,GER,F,Figure Skating,Pair Skating
+947,HASEGAWA Taiga,JPN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+948,HASIRCI Ada,TUR,F,Alpine Skiing,To be defined
+949,HASKELL Amelie,AUS,F,Snowboard,Women's Snowboard Halfpipe
+950,HASLER Jonas,SUI,M,Snowboard,Men's Snowboard Halfpipe/Men's Snowboard Slopestyle/Men's Snowboard Big Air
+951,HASLER Melanie,SUI,F,Bobsleigh,2-woman/Women's Monobob
+952,HASLWANTER Lea,AUT,F,Bobsleigh,2-woman
+953,HASSELBORG Anna,SWE,F,Curling,Women
+954,HAUGAN Timon,NOR,M,Alpine Skiing,Men's Team Combined
+955,HAUGHEY Niamh,CAN,F,Bobsleigh,To be defined
+956,HAUGSJAA Ansel,USA,M,Luge,Men's Doubles/Team Relay
+957,HAULA Erik,FIN,M,Ice Hockey,Men
+958,HAUSER Lisa Theresa,AUT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+959,HAUSWIRTH Sandro,SUI,M,Ski Jumping,Men's NH Individual
+960,HAUTERVILLE Dorian,FRA,M,Bobsleigh,2-man/4-man
+961,HAVLICKOVA Barbora,CZE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+962,HAVRIUK Yan,UKR,M,Freestyle Skiing,Men's Aerials
+963,HE Kaile,CHN,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay/Women's Sprint Classic
+964,HEAYDON Phoebe,AUS,F,Alpine Skiing,To be defined
+965,HEBERT Ben,CAN,M,Curling,Men
+966,HECTOR Sara,SWE,F,Alpine Skiing,To be defined
+967,HEDEGART Einar,NOR,M,Cross- Skiing,Men's 10km Interval Start Free
+968,HEDMAN Victor,SWE,M,Ice Hockey,Men
+969,HEDQVIST Ebba,SWE,F,Ice Hockey,Women
+970,HEDRICH Anne,GER,F,Snowboard,Women's Snowboard Halfpipe
+971,HEIDENBERGER Manuela,ITA,F,Ice Hockey,Women
+972,HEIJDENBERG Anna-Karin,SWE,F,Biathlon,To be defined
+973,HEINE Mathilda,GER,F,Ice Hockey,Women
+974,HEINIS Marco,FRA,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+975,HEISE Taylor,USA,F,Ice Hockey,Women
+976,HEISKANEN Miro,FIN,M,Ice Hockey,Men
+977,HELDIN Johanna,SWE,F,Curling,Women
+978,HELDMAN Ben,CAN,M,Snowboard,Men's Parallel Giant Slalom
+979,HELLEBUYCK Connor,USA,M,Ice Hockey,Men
+980,HEMETSBERGER Daniel,AUT,M,Alpine Skiing,Men's Downhill/Men's Team Combined
+981,HEMMERLE Lisa,GER,F,Ice Hockey,Women
+982,HENDERSON Fay,GBR,F,Curling,Women
+983,HENDERSON Grace,USA,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+984,HENDRICKX Loena,BEL,F,Figure Skating,Women Single Skating
+985,HENNIG DOTZLER Katharina,GER,F,Cross-Country Skiing,Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+986,HENRIKSEN Sigurd,NOR,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Team Pursuit
+987,HENSIEN Katie,USA,F,Alpine Skiing,To be defined
+988,HEO Andrew,USA,M,Short Track Speed Skating,Mixed Team Relay
+989,HERASKEVYCH Vladyslav,UKR,M,Skeleton,Men
+990,HERNANDEZ James,GBR,M,Figure Skating,Ice Dance/Team Event
+991,HEROLA Ilkka,FIN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+992,HERSPERGER Mathieu,SUI,M,Bobsleigh,4-man
+993,HERTL Tomas,CZE,M,Ice Hockey,Men
+994,HERZIG Naemi,SUI,F,Ice Hockey,Women
+995,HERZOG Vanessa,AUT,F,Speed Skating,Women's 1000m/Women's 1500m
+996,HESOVA Michaela,CZE,F,Ice Hockey,Women
+997,HESS Hunter,USA,M,Freestyle Skiing,Men's Freeski Halfpipe
+998,HETTICH-WALZ Janina,GER,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+999,HICKMAN Ally,AUS,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1000,HIEMER Johanna,AUT,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+1001,HIIDENSALO Olli,FIN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1002,HIIRIKOSKI Jenni,FIN,F,Ice Hockey,Women
+1003,HILL Azaria,USA,F,Bobsleigh,2-woman
+1004,HILL Maisie,GBR,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1005,HILLER-DONNELLY Carolina,CAN,F,Speed Skating,Women's 500m/Women's 1000m
+1006,HILZINGER Jessica,GER,F,Alpine Skiing,To be defined
+1007,HIMMA Martin,EST,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1008,HINCKFUSS Hugo,AUS,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1009,HINDS Peter,SVK,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1010,HINTERMANN Niels,SUI,M,Alpine Skiing,To be defined
+1011,HINTZ Roope,FIN,M,Ice Hockey,Men
+1012,HIRAI Ami,JPN,F,Short Track Speed Skating,Women's 3000m Relay
+1013,HIRANO Ayumu,JPN,M,Snowboard,Men's Snowboard Halfpipe
+1014,HIRANO Ruka,JPN,M,Snowboard,Men's Snowboard Halfpipe
+1015,HIRNER Lisa,AUT,F,Ski Jumping,Women's NH Individual
+1016,HIROSE Ryo,JPN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1017,HIRVONEN Eero,FIN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1018,HIRVONEN Heta,FIN,F,Ski Jumping,Women's NH Individual/Mixed Team
+1019,HISCHIER Nico,SUI,M,Ice Hockey,Men
+1020,HITOSATO Ayaka,JPN,F,Ice Hockey,Women
+1021,HJALMARSSON Sara,SWE,F,Ice Hockey,Women
+1022,HLAVAJ Samuel,SVK,M,Ice Hockey,Men
+1023,HLUSOVICI Elizaveta,MDA,F,Cross- Skiing,Women's 10km Interval Start Free
+1024,HOCHREITER Melanie,GER,F,Snowboard,Women's Parallel Giant Slalom
+1025,HOCKE Annika,GER,F,Figure Skating,Pair Skating
+1026,HOEFFLIN Sarah,SUI,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1027,HOERHAGER Lisa,AUT,F,Alpine Skiing,Women's Team Combined
+1028,HOERL Jan,AUT,M,Ski Jumping,Men's NH Individual/Mixed Team
+1029,HOESCH Finn,GER,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+1030,HOFER Lukas,ITA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1031,HOFER Verena,ITA,F,Luge,Women's Singles/Team Relay
+1032,HOFFMAN Madison,AUS,F,Alpine Skiing,To be defined
+1033,HOFFMANN Felix,GER,M,Ski Jumping,Men's NH Individual/Mixed Team
+1034,HOFFMANN Helen,GER,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+1035,HOFMANN Josie,GER,F,Speed Skating,Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+1036,HOFMEISTER Ramona Theresia,GER,F,Snowboard,Women's Parallel Giant Slalom
+1037,HOI Ihor,UKR,M,Luge,Men's Doubles/Team Relay
+1038,HOLDENER Wendy,SUI,F,Alpine Skiing,Women's Team Combined
+1039,HOLLANDER Sean,USA,M,Luge,Men's Doubles
+1040,HOLLMANN Maximillian,CAN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1041,HOLM Tindra,SWE,F,Ice Hockey,Women
+1042,HOLMBERG Pontus,SWE,M,Ice Hockey,Men
+1043,HOLMSTEAD Chris,CAN,M,Bobsleigh,To be defined
+1044,HOLOPAINEN Elisa,FIN,F,Ice Hockey,Women
+1045,HOLSCHER Tomas,CHI,M,Alpine Skiing,Men's Giant Slalom
+1046,HOLTERMANN Jasmin,DEN,F,Curling,Women
+1047,HOLTMANN Mina Fuerst,NOR,F,Alpine Skiing,To be defined
+1048,HOMAN Rachel,CAN,F,Curling,Women
+1049,HONG Sujung,KOR,F,Skeleton,Women
+1050,HOOKER Maddie,AUS,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1051,HOPPE Hanna,GER,F,Ice Hockey,Women
+1052,HORIKAWA Momoka,JPN,F,Speed Skating,Women's 1500m/Women's 3000m/Women's Mass Start/Women's Team Pursuit
+1053,HORISHIMA Ikuma,JPN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1054,HORN Kristopher,USA,M,Bobsleigh,4-man
+1055,HORN Philipp,GER,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1056,HORNIG Vitezslav,CZE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1057,HORODNA Olena,UKR,F,Biathlon,Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1058,HORVAT Bo,CAN,M,Ice Hockey,Men
+1059,HOSKING Elizabeth,CAN,F,Snowboard,Women's Snowboard Halfpipe
+1060,HOSOYAMADA Akane,JPN,F,Ice Hockey,Women
+1061,HOU Shuo,CHN,M,Luge,Men's Doubles/Team Relay
+1062,HOUSER Radek,CZE,M,Snowboard,Men's Snowboard Cross
+1063,HOWALD Carole,SUI,F,Curling,Women
+1064,HOWDEN Reece,CAN,M,Freestyle Skiing,Men's Ski Cross
+1065,HOWE Spencer Akira,USA,M,Figure Skating,Pair Skating/Team Event
+1066,HRISTOVA Lora,BUL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1067,HROBAT Miha,SLO,M,Alpine Skiing,Men's Downhill/Men's Super-G
+1068,HRONEK Filip,CZE,M,Ice Hockey,Men
+1069,HRONEK Tim,GER,M,Freestyle Skiing,Men's Ski Cross
+1070,HRONES Jakub,CZE,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1071,HRUSOVA Karolina,CZE,F,Snowboard,Women's Snowboard Cross
+1072,HUAI Mingming,CHN,F,Bobsleigh,2-woman/Women's Monobob
+1073,HUBER Elias,GER,M,Snowboard,Men's Parallel Giant Slalom
+1074,HUBER Katharina,AUT,F,Alpine Skiing,Women's Team Combined
+1075,HUBER Kristian,AUT,M,Bobsleigh,4-man
+1076,HUDACEK Libor,SVK,M,Ice Hockey,Men
+1077,HUETTER Cornelia,AUT,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1078,HUFSCHMID Dominik,SUI,M,Bobsleigh,To be defined
+1079,HUGHES Jack,USA,M,Ice Hockey,Men
+1080,HUGHES Jarryd,AUS,M,Snowboard,Men's Snowboard Cross
+1081,HUGHES Quinn,USA,M,Ice Hockey,Men
+1082,HUIS IN 'T VELD Stephan,NED,M,Bobsleigh,To be defined
+1083,HUIZINGA Chris,NED,M,Speed Skating,Men's 5000m/Men's Mass Start/Men's Team Pursuit
+1084,HUOT-MARCHAND Margot,FRA,F,Ice Hockey,Women
+1085,HURT A J,USA,F,Alpine Skiing,Women's Team Combined
+1086,HUSKOVA Hanna,AIN,F,Freestyle Skiing,Women's Aerials
+1087,HWANG Daeheon,KOR,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1088,HYMAN Ondrej,CZE,M,Luge,Men's Singles
+1089,HYMLAROVA Klara,CZE,F,Ice Hockey,Women
+1090,IAFRATE DANIELSSON Maja-Li,FRA,F,Snowboard,Women's Snowboard Cross
+1091,IGARASHI Haruto,JPN,M,Freestyle Skiing,Men's Aerials
+1092,IGARASHI Runa,JPN,F,Freestyle Skiing,Women's Aerials
+1093,IKPEFAN Samuel Uduigowme,NGR,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1094,ILAR Moa,SWE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1095,ILIC Anja,SRB,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1096,ILIEV Vladimir,BUL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+1097,ILVES Kristjan,EST,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1098,ILYACHSHENKO Arina,KAZ,F,Speed Skating,Women's 500m/Women's Team Pursuit
+1099,INAGAWA Kurumi,JPN,F,Speed Skating,Women's 500m
+1100,INDRACKOVA Anezka,CZE,F,Ski Jumping,Women's NH Individual
+1101,INDRIKSONS Emils,LAT,M,Skeleton,Men
+1102,INNERHOFER Christof,ITA,M,Alpine Skiing,Men's Super-G
+1103,INSAM Alex,ITA,M,Ski Jumping,Men's NH Individual/Mixed Team
+1104,INVENIUS Otto,FIN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1105,IORDACHE George,ROU,M,Bobsleigh,2-man/4-man
+1106,IPCIOGLU Fatih Arda,TUR,M,Ski Jumping,Men's NH Individual
+1107,IRVING Birk,USA,M,Freestyle Skiing,Men's Freeski Halfpipe
+1108,IRVING Lewis,CAN,M,Freestyle Skiing,Men's Aerials
+1109,IRVING Svea,USA,F,Freestyle Skiing,Women's Freeski Halfpipe
+1110,IRWIN Deedra,USA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1111,ITEN Matthias,SUI,M,Alpine Skiing,Men's Team Combined
+1112,ITO Makoto,JPN,F,Ice Hockey,Women
+1113,ITO Yuki,JPN,F,Ski Jumping,Women's NH Individual
+1114,IVAN Michal,SVK,M,Ice Hockey,Men
+1115,IVANOV Roman,KAZ,M,Freestyle Skiing,Men's Aerials
+1116,IVERSEN Emil,NOR,M,Cross- Skiing,To be defined
+1117,IWABUCHI Reira,JPN,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1118,IWASA Dan,JPN,M,Short Track Speed Skating,Men's 5000m Relay
+1119,JACKSON Erin,USA,F,Speed Skating,Women's 500m/Women's 1000m
+1120,JACKSON Sophie,GBR,F,Curling,Women
+1121,JACOBS Brad,CAN,M,Curling,Men
+1122,JACOBS Riley,USA,F,Freestyle Skiing,Women's Freeski Halfpipe
+1123,JADA Stavre,MKD,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1124,JAGER Ken,SUI,M,Ice Hockey,Men
+1125,JAGERCIKOVA Marianna,SVK,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+1126,JAKIELA Joanna,POL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1127,JAKLOVA Anna Marie,CZE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1128,JAKOB Patrick,AUT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1129,JAKOBSEN Kristoffer,SWE,M,Alpine Skiing,To be defined
+1130,JAKS Janis,LAT,M,Ice Hockey,Men
+1131,JAMES Scotty,AUS,M,Snowboard,Men's Snowboard Halfpipe
+1132,JAMIESON Rocco,NZL,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1133,JANATOVA Katerina,CZE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1134,JANCOVA Rebeka,SVK,F,Alpine Skiing,Women's Super-G
+1135,JANECKE Tessa,USA,F,Ice Hockey,Women
+1136,JANEZIC Tia,SLO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+1137,JANSE van RENSBURG Jennifer,GER,F,Figure Skating,Ice Dance
+1138,JANUSZYK Iwona,POL,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+1139,JAQUES Sophie,CAN,F,Ice Hockey,Women
+1140,JARVIS Seth,CAN,M,Ice Hockey,Men
+1141,JARZABEK Kacper,POL,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1142,JASCH Maira,GER,F,Speed Skating,Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+1143,JASICZEK Michal,POL,M,Alpine Skiing,To be defined
+1144,JEANMONNOT Lou,FRA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1145,JEANNESSON Mateo,GBR,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1146,JEFFERIES Jacques,GBR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1147,JENCOVA Veronika,CZE,F,Ski Jumping,Women's NH Individual
+1148,JENNER Brianne,CAN,F,Ice Hockey,Women
+1149,JENSEN AABO Jesper,DEN,M,Ice Hockey,Men
+1150,JENSEN Nicholas B,DEN,M,Ice Hockey,Men
+1151,JENSEN Nicklas,DEN,M,Ice Hockey,Men
+1152,JEON Eunji,KOR,F,Bobsleigh,2-woman
+1153,JEONG Haerim,KOR,F,Snowboard,Women's Parallel Giant Slalom
+1154,JEONG Yeongseok,KOR,M,Curling,Mixed Doubles
+1155,JIANG Jiayi,CHN,F,Curling,Women
+1156,JIANG Maoyuan,CHN,M,Bobsleigh,4-man
+1157,JILEK Metodej,CZE,M,Speed Skating,Men's 1500m/Men's 5000m/Men's 10000m/Men's Mass Start
+1158,JIN Boyang,CHN,M,Figure Skating,Men Single Skating/Team Event
+1159,JISLOVA Jessica,CZE,F,Biathlon,Women's 15km Individual
+1160,JOBIN Francis,CAN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1161,JOBST-SMITH Katarina,GER,F,Ice Hockey,Women
+1162,JOCHER Simon,GER,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+1163,JOENSUU Jasmi,FIN,F,Cross- Skiing,Women's Sprint Classic
+1164,JOFFROY Stephanie,CHI,F,Freestyle Skiing,Women's Ski Cross
+1165,JOHANSEN Marthe Krakstad,NOR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1166,JOHANSEN Nanna,DEN,F,Skeleton,Women
+1167,JOHANSSON Lisa,SWE,F,Ice Hockey,Women
+1168,JOHANSSON Marcus,SWE,M,Ice Hockey,Men
+1169,JOHANSSON Thea,SWE,F,Ice Hockey,Women
+1170,JOHN De Aundre,TTO,M,Bobsleigh,2-man/4-man
+1171,JOHN Shakeel,TTO,M,Bobsleigh,4-man
+1172,JOHNSON Anders,CAN,M,Speed Skating,Men's 500m/Men's 1000m
+1173,JOHNSON Breezy,USA,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1174,JOHNSON Desi,AUS,F,Bobsleigh,2-woman
+1175,JOHNSTONE James,AUS,M,Snowboard,Men's Snowboard Cross
+1176,JOKIHARJU Henri,FIN,M,Ice Hockey,Men
+1177,JOSI Roman,SUI,M,Ice Hockey,Men
+1178,JUBAYI Saikeyi,CHN,M,Luge,Men's Doubles/Team Relay
+1179,JUNG Daeyoon,KOR,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1180,JUNG Donghyun,KOR,M,Alpine Skiing,To be defined
+1181,JUNG Hyesun,KOR,F,Luge,Women's Singles
+1182,JUNG Seunggi,KOR,M,Skeleton,Men
+1183,JUNGAKER Mira,SWE,F,Ice Hockey,Women
+1184,JUNGBLUTH RODRIGUEZ Klaus,ECU,M,Cross- Skiing,Men's 10km Interval Start Free
+1185,JUNGK Axel,GER,M,Skeleton,Men
+1186,JUPPE Anna,AUT,F,Biathlon,Women's 7.5km Sprint
+1187,JURICKOVA Barbora,CZE,F,Ice Hockey,Women
+1188,JURIK Martin,CZE,M,Curling,Men
+1189,KAASIKU Kaidy,EST,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1190,KAASIKU Keidy,EST,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1191,KACHMAR Nazarii,UKR,M,Luge,Men's Doubles/Team Relay
+1192,KAELIN Marina,SUI,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+1193,KAELIN Nadja,SUI,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+1194,KAGIYAMA Yuma,JPN,M,Figure Skating,Men Single Skating/Team Event
+1195,KAHARA Jasmin,FIN,F,Cross- Skiing,Women's Sprint Classic
+1196,KAHUN Dominik,GER,M,Ice Hockey,Men
+1197,KAISER Livia,SUI,F,Figure Skating,Women Single Skating
+1198,KAKKO Kaapo,FIN,M,Ice Hockey,Men
+1199,KALBLE Lukas,GER,M,Ice Hockey,Men
+1200,KALDVEE Marie,EST,F,Curling,Mixed Doubles
+1201,KALENDA Jekabs,LAT,M,Bobsleigh,2-man/4-man
+1202,KALICKI Kim,GER,F,Bobsleigh,2-woman/Women's Monobob
+1203,KALINICHENKO Vitaliy,UKR,M,Ski Jumping,Men's NH Individual
+1204,KALTOUNKOVA Kristyna,CZE,F,Ice Hockey,Women
+1205,KAMBUNDJI Muswama,SUI,F,Bobsleigh,To be defined
+1206,KAMPF David,CZE,M,Ice Hockey,Men
+1207,KANAI Rika,JPN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+1208,KANIA Marek,POL,M,Speed Skating,Men's 500m/Men's 1000m
+1209,KAPANEN Oliver,FIN,M,Ice Hockey,Men
+1210,KAPARKALEJA Linda,LAT,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+1211,KAPARKALEJS Lauris,LAT,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1212,KAPP Benjamin,GER,M,Curling,Men
+1213,KAPPACHER Adam,AUT,M,Freestyle Skiing,Men's Ski Cross
+1214,KAPUSTIK Hektor,SVK,M,Ski Jumping,Men's NH Individual
+1215,KAPUSTIKOVA Kira Maria,SVK,F,Ski Jumping,Women's NH Individual
+1216,KAPUSTOVA Ema,SVK,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1217,KARALIOVA Hanna,AIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1218,KARAVA Anni,FIN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1219,KARHUMAA Wille,FIN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1220,KARHUNEN Iida,FIN,F,Figure Skating,Women Single Skating
+1221,KARIM Muhammad,PAK,M,Alpine Skiing,To be defined
+1222,KARJALAINEN Rasmus,FIN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1223,KARJALAINEN Sini,FIN,F,Ice Hockey,Women
+1224,KARKER Rachael,CAN,F,Freestyle Skiing,Women's Freeski Halfpipe
+1225,KARL Benjamin,AUT,M,Snowboard,Men's Parallel Giant Slalom
+1226,KARLIK Mikulas,CZE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1227,KARLSSON Erik,SWE,M,Ice Hockey,Men
+1228,KARLSSON Frida,SWE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1229,KARLSSON Ida,SWE,F,Ice Hockey,Women
+1230,KARRER Hanna,AUT,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1231,KARVINEN Michelle,FIN,F,Ice Hockey,Women
+1232,KASE Ondrej,CZE,M,Ice Hockey,Men
+1233,KASPER Vanessa,SUI,F,Alpine Skiing,To be defined
+1234,KATZ Omer,ISR,M,Bobsleigh,4-man
+1235,KAUFMANIS Davis,LAT,M,Bobsleigh,4-man
+1236,KAUFMANIS Lauris,LAT,M,Bobsleigh,4-man
+1237,KAWAGUCHI Riko,JPN,F,Ice Hockey,Women
+1238,KAZIMOV Asaf,ESP,M,Figure Skating,Ice Dance
+1239,KEHVA Mark-Markos,EST,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1240,KEISALA Anni,FIN,F,Ice Hockey,Women
+1241,KEISINGER Felix,GER,M,Skeleton,Men
+1242,KELEMEN Milos,SVK,M,Ice Hockey,Men
+1243,KEMMISSA Abderrahim,MAR,M,Cross- Skiing,Men's 10km Interval Start Free
+1244,KEMPE Adrian,SWE,M,Ice Hockey,Men
+1245,KEMPNY Michal,CZE,M,Ice Hockey,Men
+1246,KENNEDY Marc,CAN,M,Curling,Men
+1247,KENWORTHY Gus,GBR,M,Freestyle Skiing,Men's Freeski Halfpipe
+1248,KERANEN Noora,FIN,F,Biathlon,To be defined
+1249,KERKHOFF Bente,NED,F,Speed Skating,Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+1250,KERTESZ Attila Mihaly,ISR,M,Cross- Skiing,Men's 10km Interval Start Free
+1251,KHAN Arif Mohd,IND,M,Alpine Skiing,To be defined
+1252,KHAN Yana,KAZ,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+1253,KHASHIRBAYEV Sherzod,KAZ,M,Freestyle Skiing,Men's Aerials
+1254,KHOKHLOV Rostislav,KAZ,M,Alpine Skiing,To be defined
+1255,KIHARA Ryuichi,JPN,M,Figure Skating,Pair Skating/Team Event
+1256,KIM Daeun,KOR,F,Freestyle Skiing,Women's Freeski Halfpipe
+1257,KIM Geonhui,KOR,M,Snowboard,Men's Snowboard Halfpipe
+1258,KIM Gilli,KOR,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+1259,KIM Hayeong,KOR,F,Bobsleigh,To be defined
+1260,KIM Hyeonggeun,KOR,M,Bobsleigh,2-man/4-man
+1261,KIM Hyungyeom,KOR,M,Figure Skating,Men Single Skating/Team Event
+1262,KIM Jinsu,KOR,M,Bobsleigh,2-man/4-man
+1263,KIM Jisoo,KOR,M,Skeleton,Men
+1264,KIM Jun-Ho,KOR,M,Speed Skating,Men's 500m
+1265,KIM Min-Seok,HUN,M,Speed Skating,Men's 1000m/Men's 1500m
+1266,KIM Min-Sun,KOR,F,Speed Skating,Women's 500m/Women's 1000m
+1267,KIM Minji,KOR,F,Curling,Women
+1268,KIM Sangkyum,KOR,M,Snowboard,Men's Parallel Giant Slalom
+1269,KIM Seonyeong,KOR,F,Curling,Mixed Doubles
+1270,KIM Suji,KOR,F,Curling,Women
+1271,KIM Sunwook,KOR,M,Bobsleigh,4-man
+1272,KIM Yooran,KOR,F,Bobsleigh,2-woman/Women's Monobob
+1273,KIMATA Ryoma,JPN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1274,KIMURA Kira,JPN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1275,KINDL Wolfgang,AUT,M,Luge,Men's Singles/Men's Doubles/Team Relay
+1276,KING Eloise Yung Shih,HKG,F,Alpine Skiing,To be defined
+1277,KINGSBURY Mikael,CAN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1278,KIPP Lara Michaela,AUT,F,Luge,Women's Doubles/Team Relay
+1279,KIREYEV Vladislav,KAZ,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1280,KIRIYAMA Nanaho,JPN,F,Freestyle Skiing,Women's Freeski Halfpipe
+1281,KIRKEEIDE Maren,NOR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1282,KIRKHUS Oyvind,NOR,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1283,KISTLER Jon,SUI,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+1284,KIVIRANTA Joel,FIN,M,Ice Hockey,Men
+1285,KIYADARBANDSARI Mohammad,IRI,M,Alpine Skiing,Men's Giant Slalom
+1286,KJELLBIN Anna,SWE,F,Ice Hockey,Women
+1287,KLAEBO Johannes Hoesflot,NOR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1288,KLAPPROTT Luisa,GER,F,Freestyle Skiing,Women's Ski Cross
+1289,KLAVA Mairis,LAT,M,Bobsleigh,4-man
+1290,KLEE Beda,SUI,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1291,KLEIN Moritz,GER,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m
+1292,KLEMENCIC Polona,SLO,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1293,KLEMETTINEN Jimi,FIN,M,Biathlon,To be defined
+1294,KLETTE Hans-Inge,NOR,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+1295,KLEVELAND Marcus,NOR,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1296,KLIMA Lukas,CZE,M,Curling,Men
+1297,KLIPA Lukas,CZE,M,Curling,Men
+1298,KLUGE Laura,GER,F,Ice Hockey,Women
+1299,KLUWIG Leonie,GER,F,Bobsleigh,To be defined
+1300,KNAK Simon,SUI,M,Ice Hockey,Men
+1301,KNOCHENHAUER Agnes,SWE,F,Curling,Women
+1302,KNOTTEN Karoline Offigstad,NOR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1303,KOBAYASHI Mina,JPN,F,Curling,Women
+1304,KOBAYASHI Ryoyu,JPN,M,Ski Jumping,Men's NH Individual/Mixed Team
+1305,KOBAYASHI Ryuto,JPN,M,Freestyle Skiing,Men's Ski Cross
+1306,KOBAYASHI Seiya,JPN,M,Luge,Men's Singles
+1307,KOBLET Kalle,SUI,M,Snowboard,Men's Snowboard Cross
+1308,KOCERGINA Natalja,LTU,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1309,KOCH Anders,DEN,M,Ice Hockey,Men
+1310,KOCH Patrik,SVK,M,Ice Hockey,Men
+1311,KOEHLER Ashley,CAN,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1312,KOGA Yuna,JPN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1313,KOHALA Svante,SWE,M,Luge,Men's Singles
+1314,KOHALA Tove,SWE,F,Luge,Women's Singles
+1315,KOIKE Shiori,JPN,F,Ice Hockey,Women
+1316,KOIVISTO Kuura,FIN,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1317,KOK Femke,NED,F,Speed Skating,Women's 500m/Women's 1000m/Women's 1500m
+1318,KOKAJ Drin,KOS,M,Alpine Skiing,To be defined
+1319,KOLEGA Samuel,CRO,M,Alpine Skiing,To be defined
+1320,KOLMAKOV Pavel,KAZ,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1321,KOLODZIEJ Aleksandra,POL,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1322,KOMAR Katra,SLO,F,Ski Jumping,Women's NH Individual
+1323,KONDO Kokone,JPN,F,Freestyle Skiing,Women's Freeski Slopestyle
+1324,KONG Fanyu,CHN,F,Freestyle Skiing,Women's Aerials
+1325,KONGSHAUG Peder,NOR,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Team Pursuit
+1326,KONVALINKA Jiri,CZE,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1327,KONYA Adam,HUN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1328,KOO Kyung-Min,KOR,M,Speed Skating,Men's 500m/Men's 1000m
+1329,KORA Salome,SUI,F,Bobsleigh,2-woman
+1330,KORHONEN Minja,FIN,F,Ski Jumping,Women's NH Individual
+1331,KOROSTELEV Savelii,AIN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1332,KORPISALO Joonas,FIN,M,Ice Hockey,Men
+1333,KORZHOVA Kseniia,AIN,F,Speed Skating,Women's 3000m
+1334,KOSHKIN Yevgeniy,KAZ,M,Speed Skating,Men's 500m
+1335,KOSIR Zan,SLO,M,Snowboard,Men's Parallel Giant Slalom
+1336,KOSKINEN Silja,FIN,F,Alpine Skiing,To be defined
+1337,KOSTER Timme,NED,M,Bobsleigh,4-man
+1338,KOTANI Yuna,JPN,F,Curling,Women
+1339,KOTNIK Gloria,SLO,F,Snowboard,Women's Parallel Giant Slalom
+1340,KOTOVSKYI Dmytro,UKR,M,Freestyle Skiing,Men's Aerials
+1341,KOTSAR Kateryna,UKR,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1342,KOUDELKA Roman,CZE,M,Ski Jumping,Men's NH Individual
+1343,KOUYOUMDJIAN Yianno,CYP,M,Alpine Skiing,To be defined
+1344,KOVACIC Maja,SLO,F,Ski Jumping,Women's NH Individual
+1345,KOVALEV Camille,FRA,F,Figure Skating,Pair Skating/Team Event
+1346,KOYAMA Remi,JPN,F,Ice Hockey,Women
+1347,KOZICA Anika,CRO,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1348,KOZOMARA Lina,SUI,F,Freestyle Skiing,Women's Aerials
+1349,KRAFT Stefan,AUT,M,Ski Jumping,Men's NH Individual
+1350,KRAMPE Samanta,LAT,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+1351,KRANJEC Zan,SLO,M,Alpine Skiing,Men's Giant Slalom
+1352,KRANZ Martin,LIE,M,Bobsleigh,2-man/4-man
+1353,KRASHNIAK Alexander,BUL,M,Snowboard,Men's Parallel Giant Slalom
+1354,KRASTENBERGS Renars,LAT,M,Ice Hockey,Men
+1355,KRASTS Lukass,LAT,M,Luge,Men's Doubles
+1356,KRAUSOVA Lucie,CZE,F,Freestyle Skiing,Women's Ski Cross
+1357,KRCMAR Michal,CZE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1358,KREHER Susanne,GER,F,Skeleton,Women
+1359,KREHL Sofie,GER,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1360,KRIECHMAYR Vincent,AUT,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+1361,KRISTINSDOTTIR Sonja Li,ISL,F,Alpine Skiing,To be defined
+1362,KRISTOFFERSEN Henrik,NOR,M,Alpine Skiing,To be defined
+1363,KRIZOVA Denisa,CZE,F,Ice Hockey,Women
+1364,KROL-WALAS Aleksandra,POL,F,Snowboard,Women's Parallel Giant Slalom
+1365,KROUPA Matyas,CZE,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1366,KRUZBERGS Roberts,LAT,M,Short Track Speed Skating,Men's 1000m/Men's 1500m
+1367,KRYEZIU Kiana,KOS,F,Alpine Skiing,Women's Super-G
+1368,KRYLOVA Alena,AIN,F,Short Track Speed Skating,Women's 500m
+1369,KRZEMPEK Milosz,POL,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1370,KUBALIK Dominik,CZE,M,Ice Hockey,Men
+1371,KUDO Rise,JPN,F,Snowboard,Women's Snowboard Halfpipe
+1372,KUEHNHAUSER Max,GER,M,Snowboard,Men's Parallel Giant Slalom
+1373,KUELM Susan,EST,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1374,KUKAN Dean,SUI,M,Ice Hockey,Men
+1375,KULBIN Jakob,EST,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1376,KULESZA Wiktor,POL,M,Figure Skating,Team Event
+1377,KULISS Fedirs,LAT,M,Figure Skating,Men Single Skating
+1378,KUNDRATEK Tomas,CZE,M,Ice Hockey,Men
+1379,KUNKEL Robert,GER,M,Figure Skating,Pair Skating
+1380,KUOPPALA Ida,FIN,F,Ice Hockey,Women
+1381,KURAKOVA Ekaterina,POL,F,Figure Skating,Women Single Skating/Team Event
+1382,KURASHEV Philipp,SUI,M,Ice Hockey,Men
+1383,KURATSUBO Katsuhiro,JPN,M,Speed Skating,Men's 500m
+1384,KUZMINA Anastasiya,SVK,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1385,KUZNIETSOV Maksym,UKR,M,Freestyle Skiing,Men's Aerials
+1386,KVANDAL Eirin Maria,NOR,F,Ski Jumping,Women's NH Individual/Mixed Team
+1387,KWIATKOWSKI Oskar,POL,M,Snowboard,Men's Parallel Giant Slalom
+1388,KYRKKO Emilia,FIN,F,Ice Hockey,Women
+1389,KYTOESAHO Niko,FIN,M,Ski Jumping,Men's NH Individual/Mixed Team
+1390,LABASTOVA Alena,CZE,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1391,LABORDE DIT PERE Issa Gachingiri,KEN,M,Alpine Skiing,To be defined
+1392,LACHAT-COUCHEPIN Pablo,SUI,M,Curling,Men
+1393,LACK Saskja,SUI,F,Freestyle Skiing,Women's Ski Cross
+1394,LACZKO Lara Vanda,HUN,F,Cross- Skiing,Women's 10km Interval Start Free
+1395,LAEGREID Sturla Holm,NOR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1396,LAFFONT Perrine,FRA,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1397,LAIDLAW Harry,AUS,M,Alpine Skiing,To be defined
+1398,LAINE Tormis,EST,M,Alpine Skiing,To be defined
+1399,LAITINEN Nelli,FIN,F,Ice Hockey,Women
+1400,LAJOIE Marjorie,CAN,F,Figure Skating,Ice Dance/Team Event
+1401,LAJUNEN Elias,FIN,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1402,LALIBERTE-ROY Rose,CAN,F,Speed Skating,Women's 500m/Women's 1000m
+1403,LAM Ching Yan,HKG,F,Short Track Speed Skating,To be defined
+1404,LAMARCHE Beatrice,CAN,F,Speed Skating,Women's 500m/Women's 1000m/Women's 1500m/Women's Team Pursuit
+1405,LAMBERT Adam,AUS,M,Snowboard,Men's Snowboard Cross
+1406,LAMMIE Bobby,GBR,M,Curling,Men
+1407,LAMONTAGNE Justine,CAN,F,Alpine Skiing,To be defined
+1408,LAMPARTER Johannes,AUT,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1409,LAMPIC Anamarija,SLO,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1410,LAMURE Marie,FRA,F,Alpine Skiing,Women's Team Combined
+1411,LANDESKOG Gabriel,SWE,M,Ice Hockey,Men
+1412,LANGENHAN Max,GER,M,Luge,Men's Singles/Team Relay
+1413,LANGER Thierry,BEL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Mixed Relay 4 x 6km (M+W)
+1414,LANISEK Anze,SLO,M,Ski Jumping,Men's NH Individual/Mixed Team
+1415,LANKINEN Kevin,FIN,M,Ice Hockey,Men
+1416,LAPANJA Lila,SLO,F,Alpine Skiing,To be defined
+1417,LARSEN My,DEN,F,Curling,Women
+1418,LASKOVA Dominika,CZE,F,Ice Hockey,Women
+1419,LASSEN Matias,DEN,M,Ice Hockey,Men
+1420,LAURIDSEN Markus,DEN,M,Ice Hockey,Men
+1421,LAURIDSEN Oliver,DEN,M,Ice Hockey,Men
+1422,LAWRENCE Taylor,GBR,M,Bobsleigh,2-man/4-man
+1423,LECHNER Christoph,GER,M,Snowboard,Men's Snowboard Halfpipe
+1424,LECHNER Florian,AUT,M,Snowboard,Men's Snowboard Halfpipe
+1425,LECLERC Sophie,FRA,F,Ice Hockey,Women
+1426,LEDECKA Ester,CZE,F,Alpine Skiing/Snowboard,Women's Super-G/Women's Parallel Giant Slalom
+1427,LEE Chaeun,KOR,M,Snowboard,Men's Snowboard Halfpipe
+1428,LEE Chieh-Han,TPE,M,Cross- Skiing,Men's 10km Interval Start Free
+1429,LEE Doyun,KOR,M,Bobsleigh,4-man
+1430,LEE Eui Jin,KOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1431,LEE Geonu,KOR,M,Bobsleigh,4-man
+1432,LEE Haein,KOR,F,Figure Skating,Women Single Skating/Team Event
+1433,LEE Jeongmin,KOR,M,Short Track Speed Skating,Men's 5000m Relay
+1434,LEE Jio,KOR,M,Snowboard,Men's Snowboard Halfpipe
+1435,LEE Joonseo,KOR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1436,LEE Juneseo,KOR,M,Short Track Speed Skating,Men's 5000m Relay
+1437,LEE Kyung Yeon,KOR,M,Bobsleigh,To be defined
+1438,LEE Na-Hyun,KOR,F,Speed Skating,Women's 500m/Women's 1000m
+1439,LEE Nayoon,KOR,F,Snowboard,Women's Snowboard Halfpipe
+1440,LEE Sangho,KOR,M,Snowboard,Men's Parallel Giant Slalom
+1441,LEE Seunghun,KOR,M,Freestyle Skiing,Men's Freeski Halfpipe
+1442,LEE Soyeon,KOR,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay
+1443,LEE Soyoung,KOR,F,Freestyle Skiing,Women's Freeski Halfpipe
+1444,LEE Wen-Yi,TPE,F,Alpine Skiing,To be defined
+1445,LEE Yoonseung,KOR,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1446,LEEMANN Sinja,SUI,F,Ice Hockey,Women
+1447,LEERDAM Jutta,NED,F,Speed Skating,Women's 500m/Women's 1000m
+1448,LEGNAVSKY Gustav,NZL,M,Freestyle Skiing,Men's Freeski Halfpipe
+1449,LEGOVIC Matija,CRO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1450,LEHKONEN Artturi,FIN,M,Ice Hockey,Men
+1451,LEHTO Elian,FIN,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+1452,LEHTONEN Mikko,FIN,M,Ice Hockey,Men
+1453,LEHTONEN Venla,FIN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1454,LEINAMO Sonja,FIN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1455,LENHERR Lorenz,LIE,M,Bobsleigh,4-man
+1456,LESIUK Taras,UKR,M,Biathlon,Men's 20km Individual
+1457,LEVEQUE Aurelie,FRA,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+1458,LEVI Deborah,GER,F,Bobsleigh,2-woman
+1459,LI Chunjian,CHN,M,Bobsleigh,2-man/4-man
+1460,LI Fanghui,CHN,F,Freestyle Skiing,Women's Freeski Halfpipe
+1461,LI Jiaxuan,CHN,F,Speed Skating,Women's 1500m/Women's 3000m/Women's Mass Start/Women's Team Pursuit
+1462,LI Minglin,CHN,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1463,LI Ruilin,CHN,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1464,LI Tianma,CHN,M,Freestyle Skiing,Men's Aerials
+1465,LI Wenhao,CHN,M,Speed Skating,Men's 1500m/Men's Mass Start
+1466,LI Wenlong,CHN,M,Short Track Speed Skating,Men's 5000m Relay
+1467,LI Wenwen,CHN,F,Freestyle Skiing,Women's Ski Cross
+1468,LI Yu-Hsiang,TPE,M,Figure Skating,Men Single Skating
+1469,LI Zhichao,CHN,M,Curling,Men
+1470,LIAN Ziwen,CHN,M,Speed Skating,Men's 500m/Men's 1000m
+1471,LIANG Yu-Chieh,TPE,F,Bobsleigh,To be defined
+1472,LIANG Yuxin,CHN,F,Skeleton,Women
+1473,LIE Ellen Soehol,AUS,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1474,LIE Kajsa Vickhoff,NOR,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1475,LIE Lotte,BEL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1476,LIEKARI Emil,FIN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1477,LIETHA Arno,SUI,M,Ski Mountaineering,Men's Sprint
+1478,LIIKALA Julia,FIN,F,Ice Hockey,Women
+1479,LIIV Marten,EST,M,Speed Skating,Men's 500m/Men's 1000m
+1480,LILL Harri,EST,M,Curling,Mixed Doubles
+1481,LIM Hannah,KOR,F,Figure Skating,Ice Dance/Team Event
+1482,LIM Leewon,KOR,F,Speed Skating,Women's Mass Start
+1483,LIN Qinwei,CHN,M,Skeleton,Men
+1484,LIN Sin-Rong,TPE,F,Bobsleigh,2-woman/Women's Monobob
+1485,LIN Song-En,TPE,F,Bobsleigh,2-woman
+1486,LIN Xiaojun,CHN,M,Short Track Speed Skating,Men's 1000m/Men's 1500m/Men's 5000m Relay/Mixed Team Relay
+1487,LINDELL Esa,FIN,M,Ice Hockey,Men
+1488,LINDHOLM Elias,SWE,M,Ice Hockey,Men
+1489,LINDHOLM Hampus,SWE,M,Ice Hockey,Men
+1490,LINDVIK Marius,NOR,M,Ski Jumping,Men's NH Individual/Mixed Team
+1491,LIPPERHEIDE Kira,GER,F,Bobsleigh,To be defined
+1492,LISKA Adam,SVK,M,Ice Hockey,Men
+1493,LISOHOR Oleksandr,UKR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1494,LITVINTSEV Vladimir,AZE,M,Figure Skating,Men Single Skating
+1495,LIU Hanbin,CHN,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Mass Start/Men's Team Pursuit
+1496,LIU Jiayu,CHN,F,Snowboard,Women's Snowboard Halfpipe
+1497,LIU Mengting,CHN,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1498,LIU Qi,CHN,F,Ski Jumping,Women's NH Individual/Mixed Team
+1499,LIU Shaoang,CHN,M,Short Track Speed Skating,Men's 1000m/Men's 1500m/Men's 5000m Relay/Mixed Team Relay
+1500,LIU Xiaochen,CHN,M,Alpine Skiing,Men's Giant Slalom
+1501,LIU Xinyu,CHN,M,Figure Skating,Ice Dance/Team Event
+1502,LIU Yishan,CHN,F,Freestyle Skiing,Women's Freeski Halfpipe
+1503,LJUNGBLOM Lina,SWE,F,Ice Hockey,Women
+1504,LJUTIC Zrinka,CRO,F,Alpine Skiing,To be defined
+1505,LLOP IZQUIERDO Nil,ESP,M,Speed Skating,Men's 500m/Men's 1000m
+1506,LOCH Felix,GER,M,Luge,Men's Singles
+1507,LOCHNER Johannes,GER,M,Bobsleigh,2-man/4-man
+1508,LOCMELIS Dans,LAT,M,Ice Hockey,Men
+1509,LODOEN Trym Dalset,NOR,M,Ski Mountaineering,Men's Sprint
+1510,LOETSCHER Isabelle,SUI,F,Snowboard,Women's Snowboard Halfpipe
+1511,LOIZIDOU Andrea,CYP,F,Alpine Skiing,To be defined
+1512,LOPAREVA Evgeniia,FRA,F,Figure Skating,Ice Dance/Team Event
+1513,LOVAS Aurora Grinden,NOR,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m/Women's Mass Start
+1514,LOZBERS Rihards,LAT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1515,LUCHIN Iulian,MDA,M,Cross- Skiing,Men's 10km Interval Start Free
+1516,LUNDELL Anton,FIN,M,Ice Hockey,Men
+1517,LUNDHOLM Elis,SWE,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1518,LUNDIN Sofie,SWE,F,Ice Hockey,Women
+1519,LUNDUP Stanzin,IND,M,Cross- Skiing,Men's 10km Interval Start Free
+1520,LUOSTARINEN Eetu,FIN,M,Ice Hockey,Men
+1521,LUSSNIG Nicolas,AUT,M,Freestyle Skiing,Men's Ski Cross
+1522,LUTZ Lena Marie,SUI,F,Ice Hockey,Women
+1523,LYNCH Benjamin,IRL,M,Freestyle Skiing,Men's Freeski Halfpipe
+1524,MAAG Natalie,SUI,F,Luge,Women's Singles
+1525,MAATTA Olli,FIN,M,Ice Hockey,Men
+1526,MACKELS Marek,BEL,M,Biathlon,To be defined
+1527,MADEROVA Zuzana,CZE,F,Snowboard,Women's Parallel Giant Slalom
+1528,MAEDA Suzuka,JPN,F,Ice Hockey,Women
+1529,MAES Sam,BEL,M,Alpine Skiing,To be defined
+1530,MAGAZEEV Pavel,MDA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1531,MAGNUSSEN Bjorn,NOR,M,Speed Skating,Men's 500m/Men's 1000m
+1532,MAGNUSSON Anna,SWE,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1533,MAIER Samuel,AUT,M,Skeleton,Men
+1534,MAJOR Billy,GBR,M,Alpine Skiing,To be defined
+1535,MAJOR Dominik,HUN,M,Short Track Speed Skating,Men's 5000m Relay
+1536,MAJOROV Nikolaj,SWE,M,Figure Skating,Ice Dance
+1537,MAKA Anna,POL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1538,MAKAROV Maksim,MDA,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1539,MAKI Joni,FIN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1540,MALGIN Denis,SUI,M,Ice Hockey,Men
+1541,MALHERBE Malica,RSA,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1542,MALISZEWSKA Natalia,POL,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+1543,MALONEY WESTGAARD Thomas,IRL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1544,MALY Felix,GER,M,Speed Skating,Men's 5000m/Men's Mass Start/Men's Team Pursuit
+1545,MAMCICS Roberts,LAT,M,Ice Hockey,Men
+1546,MAMERI Margaux,FRA,F,Ice Hockey,Women
+1547,MANDEL Kata,ROU,F,Snowboard,Women's Snowboard Cross
+1548,MANDELJC Anja,SLO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay
+1549,MANDLBAUER Jakob,AUT,M,Bobsleigh,2-man/4-man
+1550,MANDZIY Andriy,UKR,M,Luge,Men's Singles/Team Relay
+1551,MANDZYN Vitalii,UKR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1552,MANOLESCU Mihaela-Carmen,ROU,F,Luge,Women's Doubles/Team Relay
+1553,MARCHANT Armand,BEL,M,Alpine Skiing,To be defined
+1554,MARCISZ Izabela,POL,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1555,MARGIS Thorsten,GER,M,Bobsleigh,4-man
+1556,MARGUC Rok,SLO,M,Snowboard,Men's Parallel Giant Slalom
+1557,MARINCIN Martin,SVK,M,Ice Hockey,Men
+1558,MARKSTROM Jacob,SWE,M,Ice Hockey,Men
+1559,MARKTHALER Lara,RSA,F,Alpine Skiing,To be defined
+1560,MARSAK Kyrylo,UKR,M,Figure Skating,Men Single Skating
+1561,MARTI Alina,SUI,F,Ice Hockey,Women
+1562,MARTI Christian,SUI,M,Ice Hockey,Men
+1563,MARTINEZ LORENZO Regina,MEX,F,Cross- Skiing,Women's 10km Interval Start Free
+1564,MARTSINOVSKYI Danyil,UKR,M,Luge,Men's Doubles
+1565,MARUSIAK Yevhen,UKR,M,Ski Jumping,Men's NH Individual
+1566,MARUYAMA Nozomi,JPN,F,Ski Jumping,Women's NH Individual/Mixed Team
+1567,MASTNAK Tim,SLO,M,Snowboard,Men's Parallel Giant Slalom
+1568,MASUHARA Miyuu,JPN,F,Ice Hockey,Women
+1569,MATIKANOV Mario,BUL,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1570,MATINPALO Nikolas,FIN,M,Ice Hockey,Men
+1571,MATINTALO Johanna,FIN,F,Cross- Skiing,Women's Sprint Classic
+1572,MATOSSI Livio,SUI,M,Bobsleigh,To be defined
+1573,MATSUURA Toma,JPN,M,Freestyle Skiing,Men's Freeski Halfpipe
+1574,MATT Michael,AUT,M,Alpine Skiing,Men's Team Combined
+1575,MATTILA Sofia,FIN,F,Ski Jumping,Women's NH Individual
+1576,MAURER Saskia,SUI,F,Ice Hockey,Women
+1577,MAZET BROWN Txema,GBR,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1578,MAZURCHUK Dmytro,UKR,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1579,MEDARD Indra,BEL,M,Speed Skating,Men's Mass Start
+1580,MEDJA Lucija,SLO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 4 x 7.5km Relay/Women's Sprint Classic
+1581,MEENTALO Grete-Mia,EST,F,Freestyle Skiing,Women's Freeski Halfpipe
+1582,MELNIK Anna,KAZ,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1583,MELVILLE IVES Campbell,NZL,M,Snowboard,Men's Snowboard Halfpipe
+1584,MELVILLE IVES Finley,NZL,M,Freestyle Skiing,Men's Freeski Halfpipe
+1585,MENG Fanqi,CHN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1586,MENZIES Dane,NZL,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1587,MERKOVA Adela,CZE,F,Freestyle Skiing,Women's Aerials
+1588,MERKUSHYNA Oleksandra,UKR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1589,MERZLIKINS Elvis,LAT,M,Ice Hockey,Men
+1590,MESPLEDE Julia,FRA,F,Ice Hockey,Women
+1591,MESSENZEHL Felix,GER,M,Curling,Men
+1592,METELKINA Anastasiia,GEO,F,Figure Skating,Pair Skating/Team Event
+1593,MEYLEMANS Kim,BEL,F,Skeleton,Women
+1594,MICHAELIS Marc,GER,M,Ice Hockey,Men
+1595,MICHALSKI Piotr,POL,M,Speed Skating,Men's 500m/Men's 1000m
+1596,MICHELON Oceane,FRA,F,Biathlon,Women's 7.5km Sprint
+1597,MICK Bruno,SVK,M,Luge,Men's Doubles
+1598,MIJARES RUF Carla,AND,F,Alpine Skiing,To be defined
+1599,MIKAYELYAN Mikayel,ARM,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1600,MIKI Tsubaki,JPN,F,Snowboard,Women's Parallel Giant Slalom
+1601,MIKKOLA Niko,FIN,M,Ice Hockey,Men
+1602,MIKNIS Matiss,LAT,M,Bobsleigh,2-man/4-man
+1603,MIKUTINA Olga,AUT,F,Figure Skating,Women Single Skating
+1604,MIKYSKA Tomas,CZE,M,Biathlon,Men's 10km Sprint/Men's 12.5km Pursuit
+1605,MILAGROS Daniel,ESP,M,Speed Skating,Men's 500m/Men's 1000m
+1606,MILERSKA Anna,CZE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1607,MILLAUER Clemens,AUT,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1608,MILOSAVLJEVIC Milos,SRB,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1609,MINARIK Krystof,CZE,M,Snowboard,Men's Parallel Giant Slalom
+1610,MINI Rafael,SMR,M,Alpine Skiing,To be defined
+1611,MINKKINEN Suvi,FIN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1612,MIRADOLI Romane,FRA,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1613,MISE Edgars,LAT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1614,MITTERER Sebastian,AUT,M,Bobsleigh,4-man
+1615,MIURA Kao,JPN,M,Figure Skating,Men Single Skating/Team Event
+1616,MIURA Mei,JPN,F,Ice Hockey,Women
+1617,MIURA Riku,JPN,F,Figure Skating,Pair Skating/Team Event
+1618,MIYATA Shogo,JPN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1619,MIZERNYKH Ilya,KAZ,M,Ski Jumping,Men's NH Individual
+1620,MLYNKOVA Natalie,CZE,F,Ice Hockey,Women
+1621,MOBAERG David,SWE,M,Freestyle Skiing,Men's Ski Cross
+1622,MOBAERG Erik,SWE,M,Freestyle Skiing,Men's Ski Cross
+1623,MOBAERG Linnea,SWE,F,Freestyle Skiing,Women's Ski Cross
+1624,MOCH Friedrich,GER,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1625,MOELGAARD Oscar,DEN,M,Ice Hockey,Men
+1626,MOELLER Fredrik,NOR,M,Alpine Skiing,Men's Super-G
+1627,MOILANEN Niilo,FIN,M,Cross- Skiing,Men's Sprint Classic
+1628,MOKH Oleksandra,UKR,F,Luge,Women's Doubles/Team Relay
+1629,MOKRASOVA Lucia,SVK,F,Bobsleigh,2-woman
+1630,MOLDOVAN Sofia Maria,ROU,F,Alpine Skiing,To be defined
+1631,MOLNAR Anna,AUT,F,Speed Skating,Women's 3000m/Women's Mass Start
+1632,MONSEN Marte,NOR,F,Alpine Skiing,To be defined
+1633,MOON Heesung,KOR,M,Freestyle Skiing,Men's Freeski Halfpipe
+1634,MOON Wonjun,HUN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1635,MOORE Mica,JAM,F,Bobsleigh,Women's Monobob
+1636,MOORE Micah,TTO,M,Bobsleigh,To be defined
+1637,MORENO Cande,AND,F,Alpine Skiing,Women's Downhill
+1638,MORIGUCHI Sumitada,JPN,M,Figure Skating,Pair Skating/Team Event
+1639,MORISHIGE Wataru,JPN,M,Speed Skating,Men's 500m/Men's 1000m/Men's Team Pursuit
+1640,MORITA Masaya,JPN,M,Figure Skating,Team Event
+1641,MOROZOVA Nadezhda,KAZ,F,Speed Skating,Women's 1000m/Women's 1500m/Women's 3000m/Women's 5000m/Women's Team Pursuit
+1642,MORRISON Rebecca,GBR,F,Curling,Women
+1643,MORTON Darcie,AUS,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1644,MOSER Benjamin,AUT,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1645,MOUAT Bruce,GBR,M,Curling,Men/Mixed Doubles
+1646,MOURA Bruna,BRA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1647,MRAZEK Daniel,CZE,M,Figure Skating,Ice Dance
+1648,MRAZKOVA Katerina,CZE,F,Figure Skating,Ice Dance
+1649,MRAZOVA Katerina,CZE,F,Ice Hockey,Women
+1650,MUEHLBACHER Julia,AUT,F,Ski Jumping,Women's NH Individual/Mixed Team
+1651,MUELLAUER Fabian,AUT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1652,MUELLER Jonas,AUT,M,Luge,Men's Singles/Team Relay
+1653,MUIR Kirsty,GBR,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+1654,MUKOGAWA Sakurako,JPN,F,Freestyle Skiing,Women's Ski Cross
+1655,MULLER Marek,CZE,M,Alpine Skiing,Men's Team Combined
+1656,MURASE Kokomo,JPN,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1657,MURATBEKOV Amirgali,KAZ,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1658,MURPHY George,AUS,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1659,MUSGRAVE Andrew,GBR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1660,MUZAFERIJA Elvedina,BIH,F,Alpine Skiing,Women's Downhill/Women's Super-G
+1661,MYHAL Daryna,UKR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1662,MYHLBACK Alvar,SWE,M,Cross- Skiing,Men's Sprint Classic
+1663,McCORMICK Chris,GBR,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1664,McFARLANE Caitlin,FRA,F,Alpine Skiing,Women's Team Combined
+1665,McGRATH Atle Lie,NOR,M,Alpine Skiing,Men's Team Combined
+1666,McGREGOR Kaitlyn,SUI,F,Speed Skating,Women's 1000m/Women's 1500m/Women's 3000m/Women's Mass Start
+1667,McMANUS Sara,SWE,F,Curling,Women
+1668,McMILLAN Hammy,GBR,M,Curling,Men
+1669,NAESLUND Sandra,SWE,F,Freestyle Skiing,Women's Ski Cross
+1670,NAESS Wilhelm,NOR,M,Curling,Men
+1671,NAGAMORI Haruna,JPN,F,Short Track Speed Skating,Women's 3000m Relay/Mixed Team Relay
+1672,NAGAOKA Yuna,JPN,F,Figure Skating,Pair Skating/Team Event
+1673,NAKAI Ami,JPN,F,Figure Skating,Women Single Skating/Team Event
+1674,NAKAMURA Naoki,JPN,M,Ski Jumping,Men's NH Individual
+1675,NAKANISHI Lin,JPN,F,Freestyle Skiing,Women's Ski Cross
+1676,NAKAO Haruka,JPN,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1677,NAKASHIMA Mirei,JPN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+1678,NAZAROV Medet,UZB,M,Alpine Skiing,To be defined
+1679,NECAS Martin,CZE,M,Ice Hockey,Men
+1680,NEDREGOTTEN Magnus,NOR,M,Curling,Mixed Doubles
+1681,NEDYALKOVA Kalina,BUL,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1682,NEGRI Elisa Maria,CZE,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1683,NELIN Jesper,SWE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1684,NELSON Ashleigh,GBR,F,Bobsleigh,2-woman
+1685,NEMEC Simon,SVK,M,Ice Hockey,Men
+1686,NEMME Edgars,LAT,M,Bobsleigh,To be defined
+1687,NEPRYAEVA Dariya,AIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1688,NEPSTAD Gaute,NOR,M,Curling,Men
+1689,NEUBAUEROVA Noemi,CZE,F,Ice Hockey,Women
+1690,NICA Andrei,ROU,M,Bobsleigh,To be defined
+1691,NICHOLS-BARDI Daiyehan,AUT,M,Bobsleigh,2-man/4-man
+1692,NICOLL Adele,GBR,F,Bobsleigh,2-woman/Women's Monobob
+1693,NIEMINEN Petra,FIN,F,Ice Hockey,Women
+1694,NIEWINSKI Michal,POL,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+1695,NIGHTINGALE Huw,GBR,M,Snowboard,Men's Snowboard Cross
+1696,NIKAIDO Ren,JPN,M,Ski Jumping,Men's NH Individual/Mixed Team
+1697,NIKISHA Denis,KAZ,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+1698,NIKON Anastasiia,UKR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1699,NING Zhongyan,CHN,M,Speed Skating,Men's 1000m/Men's 1500m/Men's Mass Start/Men's Team Pursuit
+1700,NINIS Jozef,SVK,M,Luge,Men's Singles
+1701,NISHIZAWA Taketo,JPN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1702,NISKANEN Iivo,FIN,M,Cross- Skiing,Men's 10km + 10km Skiathlon
+1703,NISKANEN Kerttu,FIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1704,NISSINEN Vilma,FIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1705,NOAKE Hana,JPN,F,Speed Skating,Women's 1500m/Women's Mass Start/Women's Team Pursuit
+1706,NOGRADI Bence,HUN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1707,NOH Dohee,KOR,F,Short Track Speed Skating,Women's 3000m Relay/Mixed Team Relay
+1708,NONOMURA Taiyo,JPN,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m/Men's Team Pursuit
+1709,NOPRIIENKO Yelizaveta,UKR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1710,NORDEBACK Andreas,SWE,M,Figure Skating,Men Single Skating
+1711,NORDQVIST Martin,SWE,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1712,NORO Rio,JPN,F,Ice Hockey,Women
+1713,NORO Riri,JPN,F,Ice Hockey,Women
+1714,NOVAK Michal,CZE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1715,NOVAK Nicholas,CZE,M,Freestyle Skiing,Men's Aerials
+1716,NOVAKOVA Barbora,CZE,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1717,NOWACZYK Michal,POL,M,Snowboard,Men's Parallel Giant Slalom
+1718,NUIS Kjeld,NED,M,Speed Skating,Men's 1000m/Men's 1500m
+1719,NUUTINEN Emma,FIN,F,Ice Hockey,Women
+1720,NYENGET Martin Loewstroem,NOR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1721,NYLANDER William,SWE,M,Ice Hockey,Men
+1722,NYLEN PERSSON Maja,SWE,F,Ice Hockey,Women
+1723,NYLUND Jenniina,FIN,F,Ice Hockey,Women
+1724,OBMANN Fabian,AUT,M,Snowboard,Men's Parallel Giant Slalom
+1725,ODAIRA Umeka,JPN,F,Ice Hockey,Women
+1726,ODOR Gabriel,AUT,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m/Men's 5000m/Men's Mass Start
+1727,OEBERG Elvira,SWE,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1728,OEBERG Hanna,SWE,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1729,OEHLUND Cornelia,SWE,F,Alpine Skiing,To be defined
+1730,OFNER Katrin,AUT,F,Freestyle Skiing,Women's Ski Cross
+1731,OFTEBRO Einar Luraas,NOR,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1732,OFTEBRO Jens Luraas,NOR,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1733,OGIWARA Hiroto,JPN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1734,OHMIYA Anna,JPN,F,Curling,Women
+1735,OJASTE Teiloora,EST,F,Cross- Skiing,Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1736,OKIPNIUK Oleksandr,UKR,M,Freestyle Skiing,Men's Aerials
+1737,OKULIAR Oliver,SVK,M,Ice Hockey,Men
+1738,OLESEN Nick,DEN,M,Ice Hockey,Men
+1739,OLESIK Daria,AIN,F,Luge,Women's Singles
+1740,OLOFSSON Simon,SWE,M,Curling,Men
+1741,OLSSON Hanna,SWE,F,Ice Hockey,Women
+1742,ONGARO Giovanni,BRA,M,Alpine Skiing,To be defined
+1743,ONO Mitsuki,JPN,F,Snowboard,Women's Snowboard Halfpipe
+1744,ONODERA Kaho,JPN,F,Curling,Women
+1745,ONOL LANG Thomas Kaan,TUR,M,Alpine Skiing,To be defined
+1746,OPHOFF Mike,CZE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1747,OPMANIS Elvis,LAT,M,Alpine Skiing,Men's Downhill/Men's Giant Slalom/Men's Super-G
+1748,OPSETH Silje,NOR,F,Ski Jumping,Women's NH Individual
+1749,ORS Denis,TUR,M,Short Track Speed Skating,To be defined
+1750,ORTLIEB Nina,AUT,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1751,OSCH Matthieu,LUX,M,Alpine Skiing,To be defined
+1752,PACHNER Lukas,AUT,M,Snowboard,Men's Snowboard Cross
+1753,PACIOIANU Mihai Daniel,ROU,M,Bobsleigh,4-man
+1754,PADILHA Alice,BRA,F,Alpine Skiing,To be defined
+1755,PALAT Ondrej,CZE,M,Ice Hockey,Men
+1756,PALOSAARI Vilho,FIN,M,Ski Jumping,Men's NH Individual/Mixed Team
+1757,PANG Chuyuan,CHN,F,Snowboard,Women's Snowboard Cross
+1758,PAPATHOMA PARASKEVAIDOU A.A.,AZE,F,Alpine Skiing,To be defined
+1759,PARK Ji-Woo,KOR,F,Speed Skating,Women's 1500m/Women's Mass Start
+1760,PARK Seoyun,KOR,F,Alpine Skiing,To be defined
+1761,PARMAKOSKI Krista,FIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1762,PARMANTIER Sam,BEL,M,Biathlon,To be defined
+1763,PASTRNAK David,CZE,M,Ice Hockey,Men
+1764,PAULUS Daniel,CZE,M,Freestyle Skiing,Men's Ski Cross
+1765,PAVLOVA Maria,HUN,F,Figure Skating,Pair Skating
+1766,PAYER Alexander,AUT,M,Snowboard,Men's Parallel Giant Slalom
+1767,PAYER Sabine,AUT,F,Snowboard,Women's Parallel Giant Slalom
+1768,PEEL Laura,AUS,F,Freestyle Skiing,Women's Aerials
+1769,PEJSOVA Daniela,CZE,F,Ice Hockey,Women
+1770,PEJSOVA Julie,CZE,F,Ice Hockey,Women
+1771,PEJZLOVA Michaela,CZE,F,Ice Hockey,Women
+1772,PEKOVIC Branislav,MNE,M,Alpine Skiing,To be defined
+1773,PENDRY Shawna,GBR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1774,PENTTALA Olli,FIN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1775,PEPENE Paul Constantin,ROU,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1776,PEPERKAMP Melissa,NED,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1777,PESHKOV Daniel,BUL,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1778,PESLAROVA Klara,CZE,F,Ice Hockey,Women
+1779,PETKOV Viktor,MKD,M,Alpine Skiing,To be defined
+1780,PETRE Ward,BEL,M,Short Track Speed Skating,Men's 5000m Relay/Mixed Team Relay
+1781,PETROKINA Niina,EST,F,Figure Skating,Women Single Skating
+1782,PETROSIAN Adeliia,AIN,F,Figure Skating,Women Single Skating
+1783,PETTERSSON Elias,SWE,M,Ice Hockey,Men
+1784,PFIFFNER Marco,LIE,M,Alpine Skiing,Men's Downhill/Men's Super-G
+1785,PICHLER Nicola,AUT,F,Bobsleigh,To be defined
+1786,PICKL David,AUT,M,Snowboard,Men's Snowboard Cross
+1787,PIDRUCHNYI Dmytro,UKR,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1788,PIGEON Felix,POL,M,Short Track Speed Skating,Men's 1000m/Mixed Team Relay
+1789,PINHEIRO BRAATHEN Lucas,BRA,M,Alpine Skiing,To be defined
+1790,PINZARRONE Nina,BEL,F,Figure Skating,Women Single Skating
+1791,PIROZZI MAYER Nicolas,URU,M,Alpine Skiing,Men's Giant Slalom
+1792,PISTEKOVA Tereza,CZE,F,Ice Hockey,Women
+1793,PITTER Shane,JAM,M,Bobsleigh,2-man/4-man
+1794,PIWKOWSKA Dominika,POL,F,Luge,Women's Doubles/Team Relay
+1795,PLACIDE Kya,GBR,F,Bobsleigh,To be defined
+1796,PLANKO Lovro,SLO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1797,PLESHKOVA Julia,AIN,F,Alpine Skiing,Women's Downhill/Women's Super-G
+1798,PLOSOVA Tereza,CZE,F,Ice Hockey,Women
+1799,PLUME Roberts,LAT,M,Luge,Men's Doubles/Team Relay
+1800,POHJOLAINEN Jesper,FIN,M,Alpine Skiing,To be defined
+1801,POHJOLAINEN Rosa,FIN,F,Alpine Skiing,Women's Downhill/Women's Super-G
+1802,PONSILUOMA Martin,SWE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1803,PONYA Sara,HUN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1804,POPOV Albert,BUL,M,Alpine Skiing,To be defined
+1805,POPOVIC Leona,CRO,F,Alpine Skiing,To be defined
+1806,POPOVICOVA Lea,SVK,F,Short Track Speed Skating,Women's 500m
+1807,POPOVYCH Nelli,UKR,F,Freestyle Skiing,Women's Aerials
+1808,POPPE Evy,BEL,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1809,POROMAA William,SWE,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1810,POSASHKOV Ivan,AIN,M,Short Track Speed Skating,Men's 1000m
+1811,POSPISIL Martin,SVK,M,Ice Hockey,Men
+1812,POULSEN Morten,DEN,M,Ice Hockey,Men
+1813,POUTSMA Selma,NED,F,Short Track Speed Skating,Women's 500m/Women's 1000m/Women's 3000m Relay/Mixed Team Relay
+1814,PRAXOVA Viktoria,SVK,F,Luge,Women's Doubles
+1815,PREVC Domen,SLO,M,Ski Jumping,Men's NH Individual/Mixed Team
+1816,PREVC Nika,SLO,F,Ski Jumping,Women's NH Individual/Mixed Team
+1817,PRIBYLOVA Vendula,CZE,F,Ice Hockey,Women
+1818,PROCK Hannah,AUT,F,Luge,Women's Singles
+1819,PROMMEGGER Andreas,AUT,M,Snowboard,Men's Parallel Giant Slalom
+1820,PROULX Tallulah,PHI,F,Alpine Skiing,To be defined
+1821,PRYCE Anna,GBR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1822,PUCHNER Mirjam,AUT,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1823,PUEYO Jaume,ESP,M,Cross- Skiing,Men's Sprint Classic
+1824,PUKHKALO Vitaliy,KAZ,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1825,PULLES Mariel Merlii,EST,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1826,PYKALAINEN Erika,FIN,F,Alpine Skiing,To be defined
+1827,Piera Hudson,UAE,F,Alpine skiing,Women's giant slalom/Women's slalom
+1828,QI Guangpu,CHN,M,Freestyle Skiing,Men's Aerials
+1829,QUAN Ye,KOR,M,Figure Skating,Ice Dance/Team Event
+1830,RAEDLER Ariane,AUT,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+1831,RAIMKULOV Dinmukhammed,KAZ,M,Freestyle Skiing,Men's Aerials
+1832,RAKELL Rickard,SWE,M,Ice Hockey,Men
+1833,RAKHMANIN Nikita,ARM,M,Figure Skating,Pair Skating
+1834,RAKISHEVA Aisha,KAZ,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1835,RAKPAROV Chingiz,KAZ,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1836,RAMSAUER Katharina,AUT,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+1837,RAMSFJELL Bendik,NOR,M,Curling,Men
+1838,RAMSFJELL Magnus,NOR,M,Curling,Men
+1839,RANTALA Sanni,FIN,F,Ice Hockey,Women
+1840,RANTANEN Mikko,FIN,M,Ice Hockey,Men
+1841,RASTORGUJEVS Andrejs,LAT,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1842,RAUNIO Jenna,SWE,F,Ice Hockey,Women
+1843,RAUTIONAHO Jenny,FIN,F,Ski Jumping,Women's NH Individual/Mixed Team
+1844,RAVENNA Veronica Maria,ARG,F,Luge,Women's Singles
+1845,RAVINSKIS Anri,LAT,M,Ice Hockey,Men
+1846,RAYMOND Lucas,SWE,M,Ice Hockey,Men
+1847,REDDINGIUS Kiara,AUS,F,Bobsleigh,2-woman
+1848,REED Allison,LTU,F,Figure Skating,Ice Dance
+1849,REGENDA Pavol,SVK,M,Ice Hockey,Men
+1850,REIT Delia Ioana,ROU,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1851,REITAN Milla Ruud,SWE,F,Figure Skating,Ice Dance
+1852,REMANS Sky,BEL,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1853,REMENOVA Maria,SVK,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1854,REN Chongshuo,CHN,M,Snowboard,Men's Snowboard Halfpipe
+1855,REN Jianzhang,CHN,M,Bobsleigh,4-man
+1856,REPILOV Pavel,AIN,M,Luge,Men's Singles
+1857,REPINC Lena,SLO,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1858,REPNIK Matic,SLO,M,Biathlon,To be defined
+1859,RIBERA Eduarda,BRA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1860,RIBOM Emma,SWE,F,Cross- Skiing,Women's 10km Interval Start Free
+1861,RICHARDS Liam,GBR,M,Freestyle Skiing,Men's Freeski Halfpipe
+1862,RIEGLER Claudia,AUT,F,Snowboard,Women's Parallel Giant Slalom
+1863,RIJPMA-de JONG Antoinette,NED,F,Speed Skating,Women's 1500m/Women's Team Pursuit
+1864,RIM Jongun,KOR,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1865,RINNEKANGAS Rene,FIN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1866,RISTOLAINEN Rasmus,FIN,M,Ice Hockey,Men
+1867,RIVERS IV Henri,JAM,M,Alpine Skiing,To be defined
+1868,ROBEZNIECE Marta,LAT,F,Luge,Women's Doubles/Team Relay
+1869,ROBINSON Alice,NZL,F,Alpine Skiing,Women's Super-G
+1870,RODES Istok,CRO,M,Alpine Skiing,To be defined
+1871,RODRIGUEZ ELOSEGUI Arrieta,ESP,F,Alpine Skiing,To be defined
+1872,ROISLAND Mons,NOR,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+1873,ROMERO VILLANUEVA Alvaro,ESP,M,Snowboard,Men's Snowboard Cross
+1874,ROSNER Jeannine,AUT,F,Speed Skating,Women's 1000m/Women's 1500m/Women's 3000m/Women's Mass Start
+1875,RUBINS Kristians,LAT,M,Ice Hockey,Men
+1876,RUCKA-MICHALEK Eliza,POL,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1877,RUKKE Henrik Fagerli,NOR,M,Speed Skating,Men's 500m/Men's 1000m
+1878,RUSSELL Patrick,DEN,M,Ice Hockey,Men
+1879,RUTTA Jan,CZE,M,Ice Hockey,Men
+1880,RUUD Birk,NOR,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1881,RUUSKANEN Arsi,FIN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+1882,RUZICKA Adam,SVK,M,Ice Hockey,Men
+1883,RYAZHKO Darya,KAZ,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1884,RYDING Dave,GBR,M,Alpine Skiing,To be defined
+1885,RYYTTY Vilma,FIN,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1886,SAARI Amanda,FIN,F,Cross- Skiing,Women's Sprint Classic
+1887,SABLIKOVA Martina,CZE,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m
+1888,SABULE Annija Keita,LAT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1889,SADOWSKI SYNNOTT Zoi,NZL,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+1890,SAFONOVA Viktoriia,AIN,F,Figure Skating,Women Single Skating
+1891,SAKAMOTO Kaori,JPN,F,Figure Skating,Women Single Skating/Team Event
+1892,SALARICH BAUCELLS Joaquim,ESP,M,Alpine Skiing,To be defined
+1893,SALEHHUDDIN Aruwin,MAS,F,Alpine Skiing,To be defined
+1894,SAMNOEY Ulrik,NOR,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1895,SAMODELKINA Sofia,KAZ,F,Figure Skating,Women Single Skating
+1896,SAMOILOV Vladimir,POL,M,Figure Skating,Men Single Skating/Team Event
+1897,SAMSONSEN Julie Nistad,NOR,F,Speed Skating,Women's 500m
+1898,SAMUELSSON Sebastian,SWE,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1899,SANDVIK Oscar Andreas,NOR,M,Alpine Skiing,To be defined
+1900,SAPARBEKOV Artur,KGZ,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1901,SAPOVALIVOVA Adela,CZE,F,Ice Hockey,Women
+1902,SAROS Juuse,FIN,M,Ice Hockey,Men
+1903,SASAKI Shomu,JPN,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Mass Start/Men's Team Pursuit
+1904,SATO Ayano,JPN,F,Speed Skating,Women's 1000m/Women's 1500m/Women's 3000m/Women's Mass Start/Women's Team Pursuit
+1905,SATO Kohane,JPN,F,Ice Hockey,Women
+1906,SATO Shun,JPN,M,Figure Skating,Men Single Skating/Team Event
+1907,SAULITIS Niks,LAT,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1908,SAUMA Mateo Lorenzo,ARG,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1909,SAUTER Julia,ROU,F,Figure Skating,Women Single Skating
+1910,SAVART Stevenson,HAI,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+1911,SAVEH SHEMSHAKI Danyal,IRI,M,Cross-Country Skiing,Men's 10km Interval Start Free
+1912,SAVEHSHEMSHAKI Sadaf,IRI,F,Alpine Skiing,To be defined
+1913,SAVICKAITE Egle,LTU,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1914,SAVOLAINEN Ronja,FIN,F,Ice Hockey,Women
+1915,SAWICKA Aniela,POL,F,Alpine Skiing,To be defined
+1916,SCHALIN Julia,FIN,F,Ice Hockey,Women
+1917,SCHARBACK Sofia,SWE,F,Curling,Women
+1918,SCHEIB Julia,AUT,F,Alpine Skiing,To be defined
+1919,SCHERZ Magdalena,AUT,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+1920,SCHJERVE Sebastian,NOR,M,Freestyle Skiing,Men's Freeski Slopestyle/Men's Freeski Big Air
+1921,SCHLEPER Sarah,MEX,F,Alpine Skiing,Women's Super-G
+1922,SCHUETZOVA Sandra,CZE,F,Cross- Skiing,Women's 10km + 10km Skiathlon
+1923,SCHULTE Lisa,AUT,F,Luge,Women's Singles/Team Relay
+1924,SCHULTING Suzanne,NED,F,Short Track/Speed Skating/Speed Skating,Women's 3000m Relay/Women's 500m/Women's 1000m
+1925,SCHWARZ Dorothea,AUT,F,Luge,Women's Singles
+1926,SCHWENCKE Matilde,CHI,F,Alpine Skiing,Women's Downhill/Women's Super-G
+1927,SCOTT Danielle,AUS,F,Freestyle Skiing,Women's Aerials
+1928,SEDLAK Lukas,CZE,M,Ice Hockey,Men
+1929,SEJERSTED Adrian Smiseth,NOR,M,Alpine Skiing,Men's Downhill/Men's Super-G/Men's Team Combined
+1930,SELEVKO Aleksandr,EST,M,Figure Skating,Men Single Skating
+1931,SELLAEG Simen,NOR,M,Alpine Skiing,Men's Super-G/Men's Team Combined
+1932,SELLES GASCH Bernat,ESP,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1933,SELLIER Kamila,POL,F,Short Track Speed Skating,Mixed Team Relay
+1934,SEMENOVA Anastasiia,AIN,F,Speed Skating,Women's Mass Start
+1935,SEMIRUNNIY Vladimir,POL,M,Speed Skating,Men's 1500m/Men's 10000m
+1936,SENIUK Mariia,ISR,F,Figure Skating,Women Single Skating
+1937,SEOL Yeeun,KOR,F,Curling,Women
+1938,SEOL Yeji,KOR,F,Curling,Women
+1939,SEPPALA Tero,FIN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1940,SERBAN Darius-Lucian,ROU,M,Luge,Men's Doubles/Team Relay
+1941,SEROISZKOVA Klara,CZE,F,Ice Hockey,Women
+1942,SESAKER Martin,NOR,M,Curling,Men
+1943,SETKOV Malte,DEN,M,Ice Hockey,Men
+1944,SEVICS-MIKELSEVICS Eduards,LAT,M,Luge,Men's Doubles
+1945,SHAIDOROV Mikhail,KAZ,M,Figure Skating,Men Single Skating
+1946,SHAKIROV Timur,KGZ,M,Alpine Skiing,To be defined
+1947,SHALYGINA Xeniya,KAZ,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1948,SHAMAEV Dmitrii,ROU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1949,SHAO Qi,CHN,F,Freestyle Skiing,Women's Aerials
+1950,SHENG Haipeng,CHN,M,Freestyle Skiing,Men's Freeski Halfpipe
+1951,SHEPILENKO Anastasiia,UKR,F,Alpine Skiing,Women's Downhill/Women's Super-G
+1952,SHEPIUK Dmytro,UKR,M,Alpine Skiing,Men's Downhill/Men's Super-G
+1953,SHI Yaolong,CHN,M,Bobsleigh,4-man
+1954,SHIBA Masaki,JPN,M,Snowboard,Men's Parallel Giant Slalom
+1955,SHIM Sukhee,KOR,F,Short Track Speed Skating,Women's 3000m Relay
+1956,SHIMAKAWA Takuya,JPN,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+1957,SHIN Dong Min,KOR,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+1958,SHIN Jia,KOR,F,Figure Skating,Women Single Skating/Team Event
+1959,SHINHAMA Tatsuya,JPN,M,Speed Skating,Men's 500m/Men's 1000m
+1960,SHKANOVA Maria,AIN,F,Alpine Skiing,To be defined
+1961,SHKATULA Sofiia,UKR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1962,SHUMBARETS Oleksandr,UKR,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1963,SIARNIK Jakub,SVK,M,Ski Mountaineering,Men's Sprint/Mixed Relay
+1964,SIDOROWICZ Natalia,POL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+1965,SIGURDSSON Jon Erik,ISL,M,Alpine Skiing,To be defined
+1966,SIIMER Kristo,EST,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+1967,SILAEVA Kristina,KAZ,F,Speed Skating,Women's 500m/Women's 1000m
+1968,SILDARU Henry,EST,M,Freestyle Skiing,Men's Freeski Halfpipe/Men's Freeski Slopestyle/Men's Freeski Big Air
+1969,SILDARU Kelly,EST,F,Freestyle Skiing,Women's Freeski Halfpipe
+1970,SILOVS Arturs,LAT,M,Ice Hockey,Men
+1971,SILVA Manex,BRA,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1972,SILVEIRA Nicole Rocha,BRA,F,Skeleton,Women
+1973,SILVESTER Hayley,AUS,F,Bobsleigh,To be defined
+1974,SIMEK Radim,CZE,M,Ice Hockey,Men
+1975,SIMENC Miha,SLO,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1976,SIMPSON-LARSEN Karoline,NOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1977,SINAPOV Anton,BUL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+1978,SINCLAIR Sophie,GBR,F,Curling,Women
+1979,SINIGOI Caterina,SLO,F,Alpine Skiing,To be defined
+1980,SJOKVIST Henning,SWE,M,Biathlon,To be defined
+1981,SKASLIEN Kristin,NOR,F,Curling,Mixed Doubles
+1982,SKENDER Marko,CRO,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+1983,SKINDER Monika,POL,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+1984,SKISTAD Kristine Stavaas,NOR,F,Cross- Skiing,Women's Sprint Classic
+1985,SKOGLUND Andreas,NOR,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+1986,SKOROKHODOVA Alexandra,KAZ,F,Alpine Skiing,Women's Super-G
+1987,SKORVANEK Stanislav,SVK,M,Ice Hockey,Men
+1988,SLAFKOVSKY Juraj,SVK,M,Ice Hockey,Men
+1989,SLETTEMARK Sondre,DEN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+1990,SLETTEMARK Ukaleq Astri,DEN,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+1991,SLIND Astrid Oeyre,NOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+1992,SLJIVIC Marko,BIH,M,Alpine Skiing,To be defined
+1993,SMAHA Olena,UKR,F,Luge,Women's Singles
+1994,SMART Olivia,ESP,F,Figure Skating,Ice Dance
+1995,SMEDING Ellia,GBR,F,Speed Skating,Women's 500m/Women's 1000m/Women's 1500m
+1996,SMITH Matthew,RSA,M,Cross-Country Skiing,Men's 10km Interval Start Free
+1997,SMITS Alberts,LAT,M,Ice Hockey,Men
+1998,SMOLKIN Gleb,GEO,M,Figure Skating,Ice Dance/Team Event
+1999,SNEL Tijmen,NED,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m
+2000,SOBOL Ema,CRO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+2001,SOCHOWICZ Mateusz,POL,M,Luge,Men's Singles/Team Relay
+2002,SODERBERG Emma,SWE,F,Ice Hockey,Women
+2003,SOEVIK Christian Oliveira,BRA,M,Alpine Skiing,To be defined
+2004,SOGAARD Mads,DEN,M,Ice Hockey,Men
+2005,SOLBERG Eirik Hystad,NOR,M,Alpine Skiing,To be defined
+2006,SOMMEROVA Celine,CZE,F,Alpine Skiing,To be defined
+2007,SOMODI Maja Dora,HUN,F,Short Track Speed Skating,Mixed Team Relay
+2008,SONG Qiwu,CHN,M,Ski Jumping,Men's NH Individual/Mixed Team
+2009,SOUZA da SILVA Rafael,BRA,M,Bobsleigh,4-man
+2010,SPACEK David,CZE,M,Ice Hockey,Men
+2011,SPITZOVA Desana,SVK,F,Luge,Women's Doubles
+2012,SPOURS Kristen,GBR,F,Figure Skating,Women Single Skating/Team Event
+2013,SPULBER Mihnea Alexandru,ROU,M,Ski Jumping,Men's NH Individual/Mixed Team
+2014,SROBOVA Katarina,SVK,F,Alpine Skiing,Women's Team Combined
+2015,STADLOBER Teresa,AUT,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+2016,STALKER Meila,AUS,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+2017,STAREGA Maciej,POL,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+2018,STEFANESCU Alexandru Stefan,ROU,M,Alpine Skiing,To be defined
+2019,STEFANSSON Malte,SWE,M,Biathlon,Men's 10km Sprint/Men's 12.5km Pursuit
+2020,STEGFELDT Rasmus,SWE,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+2021,STEINER Tamara,AUT,F,Biathlon,Women's 15km Individual
+2022,STENSHAGEN Mattis,NOR,M,Cross- Skiing,Men's 10km + 10km Skiathlon
+2023,STEPANAUSKAITE Neringa,LTU,F,Alpine Skiing,To be defined
+2024,STEPASHKINA Nadezhda,KAZ,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+2025,STERN Nejc,SLO,M,Cross-Country Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+2026,STETSKIV Olena,UKR,F,Luge,Women's Doubles/Team Relay
+2027,STJERNESUND Thea Louise,NOR,F,Alpine Skiing,To be defined
+2028,STOCH Kamil,POL,M,Ski Jumping,Men's NH Individual
+2029,STOECKER Tabitha,GBR,F,Skeleton,Women
+2030,STORM Frederik,DEN,M,Ice Hockey,Men
+2031,STRAMATURARU Raluca,ROU,F,Luge,Women's Doubles/Team Relay
+2032,STRAND Didrik Eng,NOR,M,Speed Skating,Men's 1500m/Men's 5000m/Men's Mass Start/Men's Team Pursuit
+2033,STRANSKY Matej,CZE,M,Ice Hockey,Men
+2034,STREMOUS Alina,MDA,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2035,STROEM Anna Odine,NOR,F,Ski Jumping,Women's NH Individual/Mixed Team
+2036,STROLIA Tautvydas,LTU,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon/Men's Sprint Classic
+2037,STROLIA Vytautas,LTU,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+2038,STUHEC Ilka,SLO,F,Alpine Skiing,Women's Downhill/Women's Super-G/Women's Team Combined
+2039,SU Shuaibing,CHN,M,Freestyle Skiing,Men's Freeski Halfpipe
+2040,SU Tingyu,CHN,F,Curling,Women
+2041,SU Yiming,CHN,M,Snowboard,Men's Snowboard Slopestyle/Men's Snowboard Big Air
+2042,SUGAI Ryo,JPN,M,Freestyle Skiing,Men's Ski Cross
+2043,SUI Wenjing,CHN,F,Figure Skating,Pair Skating/Team Event
+2044,SUK Youngjin,KOR,M,Bobsleigh,2-man/4-man
+2045,SUKEL Matus,SVK,M,Ice Hockey,Men
+2046,SUN Jiaxu,CHN,M,Freestyle Skiing,Men's Aerials
+2047,SUN Jingbo,CHN,M,Freestyle Skiing,Men's Freeski Halfpipe
+2048,SUN Kaizhi,CHN,M,Bobsleigh,2-man/4-man
+2049,SUN Long,CHN,M,Short Track Speed Skating,Men's 1000m/Men's 1500m/Men's 5000m Relay/Mixed Team Relay
+2050,SUNDAL Kristoffer Eriksen,NOR,M,Ski Jumping,Men's NH Individual/Mixed Team
+2051,SUNDGREN Christoffer,SWE,M,Curling,Men
+2052,SUNDLING Jonna,SWE,F,Cross- Skiing,Women's 10km + 10km Skiathlon/Women's Sprint Classic
+2053,SUORANTA Elli,FIN,F,Ice Hockey,Women
+2054,SVAHN Linn,SWE,F,Cross- Skiing,Women's Sprint Classic
+2055,SVENSSON Hilda,SWE,F,Ice Hockey,Women
+2056,SVENSSON TRAFF Ebba,SWE,F,Ice Hockey,Women
+2057,SVIATCHENKO Alexei,HUN,M,Figure Skating,Pair Skating
+2058,SWENN LARSSON Anna,SWE,F,Alpine Skiing,To be defined
+2059,SWINGS Bart,BEL,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Mass Start
+2060,SYDORKO Yelyzaveta,UKR,F,Short Track Speed Skating,Women's 500m
+2061,SYLVESTER-DAVIK Madeleine,NOR,F,Alpine Skiing,To be defined
+2062,SZOLLOS Barnabas,ISR,M,Alpine Skiing,Men's Downhill/Men's Super-G
+2063,SZOLLOS Noa,ISR,F,Alpine Skiing,To be defined
+2064,TAI Zhien,CHN,F,Speed Skating,Women's 5000m
+2065,TAKA Eveliina,FIN,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+2066,TAKAC Samuel,SVK,M,Ice Hockey,Men
+2067,TAKAHASHI Hiroatsu,JPN,M,Skeleton,Men
+2068,TALIHAERM Johanna,EST,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2069,TANDREVOLD Ingrid Landmark,NOR,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2070,TANG Winston,GBS,M,Alpine Skiing,To be defined
+2071,TAPANI Susanna,FIN,F,Ice Hockey,Women
+2072,TARBIT Freya,GBR,F,Skeleton,Women
+2073,TAS Sandrine,BEL,F,Speed Skating,Women's 3000m/Women's 5000m/Women's Mass Start/Women's Team Pursuit
+2074,TASCHLER Filip,CZE,M,Figure Skating,Ice Dance
+2075,TASCHLEROVA Natalie,CZE,F,Figure Skating,Ice Dance
+2076,TATAR Tomas,SVK,M,Ice Hockey,Men
+2077,TAWK Samer,LBN,M,Cross-Country Skiing,Men's 10km Interval Start Free
+2078,TAYLOR Laurie,GBR,M,Alpine Skiing,To be defined
+2079,TCHIBOZO Nathan,BEN,M,Alpine Skiing,To be defined
+2080,TEDER Mai Brit,EST,F,Snowboard,Women's Snowboard Cross
+2081,TEDER Ruubert,EST,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+2082,TEIXEIRA Augustinho,BRA,M,Snowboard,Men's Snowboard Halfpipe
+2083,TEJRALOVA Aneta,CZE,F,Ice Hockey,Women
+2084,TEN RAA Gwyneth,LUX,F,Alpine Skiing,To be defined
+2085,TENTEA Mihai Cristian,ROU,M,Bobsleigh,2-man/4-man
+2086,THOMAS Daisy,AUS,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+2087,THOMAS Mischa,NZL,F,Freestyle Skiing,Women's Freeski Halfpipe
+2088,THORUP Viktor Hald,DEN,M,Speed Skating,Men's 10000m/Men's Mass Start
+2089,TIAN Ruining,CHN,F,Speed Skating,Women's 500m/Women's 1000m
+2090,TIBORCZ Daniel,HUN,M,Short Track Speed Skating,Men's 5000m Relay/Mixed Team Relay
+2091,TIKHONOVA Olga,KAZ,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+2092,TIMMINGS Nicholas,AUS,M,Skeleton,Men
+2093,TODEV Blagoy,BUL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+2094,TODOROVA Milena,BUL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+2095,TOLMACHEVA Anastasia,ROU,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2096,TOMASIAK Kacper,POL,M,Ski Jumping,Men's NH Individual/Mixed Team
+2097,TOMINGAS Tuuli,EST,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2098,TOMOVIC Aleksa,SRB,M,Alpine Skiing,To be defined
+2099,TOMSIC Nika,SLO,F,Alpine Skiing,To be defined
+2100,TOPOLSKA Gabriela,POL,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+2101,TOTH Daniela Vasilica,ROU,F,Ski Jumping,Women's NH Individual/Mixed Team
+2102,TOTH Zita,HUN,F,Alpine Skiing,To be defined
+2103,TOTSUKA Yuto,JPN,M,Snowboard,Men's Snowboard Halfpipe
+2104,TRAASERUD Heidi Dyhre,NOR,F,Ski Jumping,Women's NH Individual
+2105,TRACEY Tyquendo,JAM,M,Bobsleigh,4-man
+2106,TRALMAKS Eduards,LAT,M,Ice Hockey,Men
+2107,TRANCHINA Pietro,MAR,M,Alpine Skiing,To be defined
+2108,TRAUBAITE Judita,LTU,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+2109,TREACY Niall,GBR,M,Short Track Speed Skating,Men's 1000m
+2110,TRNKOVA Andrea,CZE,F,Ice Hockey,Women
+2111,TROTTER Sylvia,NZL,F,Freestyle Skiing,Women's Freeski Slopestyle/Women's Freeski Big Air
+2112,TRUE Alexander,DEN,M,Ice Hockey,Men
+2113,TRUPPE Katharina,AUT,F,Alpine Skiing,Women's Team Combined
+2114,TSCHOFEN David,LIE,M,Bobsleigh,2-man/4-man
+2115,TSIBA Michel,NED,M,Figure Skating,Pair Skating
+2116,TSIKLAURI Nino,GEO,F,Alpine Skiing,To be defined
+2117,TULUS Noora,FIN,F,Ice Hockey,Women
+2118,TUNYTSKA Yulianna,UKR,F,Luge,Women's Singles/Team Relay
+2119,TURKKILA Juulia,FIN,F,Figure Skating,Ice Dance
+2120,TUUL Teesi,EST,F,Cross- Skiing,Women's 10km Interval Start Free/Women's Sprint Classic
+2121,TWARDOSZ Anna,POL,F,Ski Jumping,Women's NH Individual/Mixed Team
+2122,ULDAL Martin,NOR,M,Biathlon,Men's 20km Individual/Mixed Relay 4 x 6km (M+W)
+2123,ULRICHOVA Klara,CZE,F,Ski Jumping,Women's NH Individual
+2124,UNGURS Edgars,LAT,M,Bobsleigh,4-man
+2125,URUMOVA Sara,LTU,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2126,URY Balint,HUN,M,Alpine Skiing,To be defined
+2127,VAGUL Kaimar,EST,M,Ski Jumping,Men's NH Individual
+2128,VAICIULIS Modestas,LTU,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+2129,VAINIKKA Viivi,FIN,F,Ice Hockey,Women
+2130,VAIPAN-LAW Anastasia,GBR,F,Figure Skating,Pair Skating/Team Event
+2131,VAL Sofia,ESP,F,Figure Skating,Ice Dance
+2132,VALNES Erik,NOR,M,Cross- Skiing,Men's Sprint Classic
+2133,VANHANEN Sanni,FIN,F,Ice Hockey,Women
+2134,VANHOUTTE Fran,BEL,F,Speed Skating,Women's 500m/Women's 1000m/Women's Mass Start/Women's Team Pursuit
+2135,VANREUSEL Kim,BEL,F,Alpine Skiing,To be defined
+2136,VARIAKOJYTE Meda,LTU,F,Figure Skating,Women Single Skating
+2137,VASILEV Konstantin,BUL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit
+2138,VASILJEVS Deniss,LAT,M,Figure Skating,Men Single Skating
+2139,VASSILYEV Danil,KAZ,M,Ski Jumping,Men's NH Individual
+2140,VEGI Diana Laura,HUN,F,Short Track Speed Skating,Women's 500m/Mixed Team Relay
+2141,VELICER Sophia Tsu,TPE,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+2142,VELZEBOER Michelle,NED,F,Short Track Speed Skating,Women's 500m/Women's 1000m/Women's 3000m Relay/Mixed Team Relay
+2143,VELZEBOER Xandra,NED,F,Short Track Speed Skating,Women's 500m/Women's 1000m/Women's 3000m Relay/Mixed Team Relay
+2144,VERDU Joan,AND,M,Alpine Skiing,To be defined
+2145,VESA Emilia,FIN,F,Ice Hockey,Women
+2146,VESTERGAARD JOHANSEN Rasmus,DEN,M,Skeleton,Men
+2147,VIANO Richardson,HAI,M,Alpine Skiing,Men's Giant Slalom
+2148,VIDMAR Anton,SLO,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+2149,VIK Lars Young,AUS,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+2150,VLHOVA Petra,SVK,F,Alpine Skiing,Women's Team Combined
+2151,VODAN Nika,SLO,F,Ski Jumping,Women's NH Individual/Mixed Team
+2152,VOIGT Maja,DEN,F,Bobsleigh,Women's Monobob
+2153,VOLFA Estere,LAT,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+2154,VORRE Clara-Marie Holmer,DEN,F,Alpine Skiing,To be defined
+2155,VOSTE Mathias,BEL,M,Speed Skating,Men's 1000m/Men's 1500m
+2156,VRHOVNIK Vid,SLO,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+2157,VUCINIC Pia,CRO,F,Alpine Skiing,To be defined
+2158,WADDELL Kyle,GBR,M,Curling,Men
+2159,WADSAK Meghann,AUT,F,Ski Jumping,Women's NH Individual
+2160,WALDAL Ida,NOR,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+2161,WALKER Bree,AUS,F,Bobsleigh,2-woman/Women's Monobob
+2162,WANG Jingziqian,CHN,F,Speed Skating,Women's 500m
+2163,WANG Peixuan,CHN,F,Luge,Women's Singles/Team Relay
+2164,WANG Qiang,CHN,M,Cross-Country Skiing,Men's Sprint Classic
+2165,WANG Rui,CHN,F,Curling,Women
+2166,WANG Shiyue,CHN,F,Figure Skating,Ice Dance/Team Event
+2167,WANG Xindi,CHN,M,Freestyle Skiing,Men's Aerials
+2168,WANG Xinran,CHN,F,Short Track Speed Skating,Women's 500m/Women's 3000m Relay/Mixed Team Relay
+2169,WANG Xinyi,CHN,F,Bobsleigh,To be defined
+2170,WANG Xuan,CHN,F,Bobsleigh,2-woman
+2171,WANG Yu,CHN,F,Bobsleigh,2-woman
+2172,WANG Yundi,CHN,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay/Women's Sprint Classic
+2173,WANG Zhenhao,CHN,M,Curling,Men
+2174,WANG Ziyang,CHN,M,Snowboard,Men's Snowboard Halfpipe
+2175,WASEK Pawel,POL,M,Ski Jumping,Men's NH Individual/Mixed Team
+2176,WATABE Akito,JPN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+2177,WATANABE Keita,JPN,M,Short Track Speed Skating,Men's 5000m Relay/Mixed Team Relay
+2178,WEIR Thomas,RSA,M,Alpine Skiing,Men's Giant Slalom
+2179,WEISZEWSKI Linda,POL,F,Bobsleigh,2-woman/Women's Monobob
+2180,WEJSE Christian,DEN,M,Ice Hockey,Men
+2181,WENG Heidi,NOR,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+2182,WENG Yangning,CHN,F,Ski Jumping,Women's NH Individual
+2183,WENNEMARS Joep,NED,M,Speed Skating,Men's 500m/Men's 1000m/Men's 1500m
+2184,WESSELINK Dave,NED,M,Bobsleigh,2-man/4-man
+2185,WESTHOFF Bianca Bakke,NOR,F,Alpine Skiing,Women's Team Combined
+2186,WESTON Matt,GBR,M,Skeleton,Men
+2187,WHEATLEY Kyra,AUS,F,Freestyle Skiing,Women's Ski Cross
+2188,WIEST Fabian,THA,M,Alpine Skiing,To be defined
+2189,WIKLUND Ragne,NOR,F,Speed Skating,Women's 1500m/Women's 3000m/Women's 5000m/Women's Mass Start
+2190,WILLCOX Abbey,AUS,F,Freestyle Skiing,Women's Aerials
+2191,WILLIAMS Xaverri,TTO,M,Bobsleigh,4-man
+2192,WILSON Abbey,AUS,F,Snowboard,Women's Snowboard Cross
+2193,WILSON Charlotte,AUS,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+2194,WOJCIK Andzelika,POL,F,Speed Skating,Women's 500m
+2195,WOO Subeen,KOR,F,Snowboard,Women's Snowboard Cross
+2196,WOODS Cooper,AUS,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+2197,WOZNIAK Michal,POL,M,Figure Skating,Pair Skating/Team Event
+2198,WU Shaotong,CHN,F,Snowboard,Women's Snowboard Halfpipe
+2199,WU Yu,CHN,M,Speed Skating,Men's 5000m/Men's Mass Start/Men's Team Pursuit
+2200,WYATT Marcus,GBR,M,Skeleton,Men
+2201,XHEPA Denni,ALB,M,Alpine Skiing,Men's Super-G
+2202,XU Jingtao,CHN,M,Curling,Men
+2203,XU Mengtao,CHN,F,Freestyle Skiing,Women's Aerials
+2204,XU Xiaoming,CHN,M,Curling,Men
+2205,XUE Zhiwen,CHN,M,Speed Skating,Men's 500m/Men's Team Pursuit
+2206,YABLONSKA Diana,UKR,F,Freestyle Skiing,Women's Aerials
+2207,YACHI Sora,JPN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+2208,YAMADA Kazuya,JPN,M,Speed Skating,Men's 1000m/Men's 1500m/Men's Team Pursuit
+2209,YAMADA Ryusei,JPN,M,Snowboard,Men's Snowboard Halfpipe
+2210,YAMAMOTO Ryota,JPN,M,Nordic Combined,Individual Gundersen Normal Hill/10km
+2211,YAMAZAKI Daito,JPN,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+2212,YAN Xingyuan,CHN,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+2213,YANKOV Radoslav,BUL,M,Snowboard,Men's Parallel Giant Slalom
+2214,YATSIUK Oksana,UKR,F,Freestyle Skiing,Women's Aerials
+2215,YILMAZ Abdullah,TUR,M,Cross- Skiing,Men's 10km Interval Start Free/Men's Sprint Classic
+2216,YOSHINAGA Kazuki,JPN,M,Short Track Speed Skating,Men's 1000m/Men's 5000m Relay/Mixed Team Relay
+2217,YRJOLA Siiri,FIN,F,Ice Hockey,Women
+2218,YU Seungeun,KOR,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+2219,YUN Shin-Ee,KOR,F,Freestyle Skiing,Women's Moguls/Women's Dual Moguls
+2220,ZAHKNA Rene,EST,M,Biathlon,Men's 20km Individual/Men's 10km Sprint/Men's 12.5km Pursuit/Mixed Relay 4 x 6km (M+W)
+2221,ZAJC Timi,SLO,M,Ski Jumping,Men's NH Individual
+2222,ZAMFIROV Tervel,BUL,M,Snowboard,Men's Parallel Giant Slalom
+2223,ZAMFIROVA Malena,BUL,F,Snowboard,Women's Parallel Giant Slalom
+2224,ZAMPA Andreas,SVK,M,Alpine Skiing,To be defined
+2225,ZANDECKA Marika,POL,F,Bobsleigh,To be defined
+2226,ZAWOL Marcin,POL,M,Biathlon,Men's 20km Individual/Men's 10km Sprint
+2227,ZDRAVKOVA Maria,BUL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint
+2228,ZERJAV Neza,SLO,F,Cross-Country Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's 4 x 7.5km Relay
+2229,ZHOLDAS Ayana,KAZ,F,Freestyle Skiing,Women's Aerials
+2230,ZHURAUSKAITE Lidiia,LTU,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+2231,ZIOMEK-NOGAL Kaja,POL,F,Speed Skating,Women's 500m/Women's 1000m
+2232,ZISMAN Uri,ISR,M,Bobsleigh,4-man
+2233,ZLATKOV Kalin,BUL,M,Alpine Skiing,Men's Giant Slalom
+2234,ZOGRAFSKI Vladimir,BUL,M,Ski Jumping,Men's NH Individual
+2235,ZUBCIC Filip,CRO,M,Alpine Skiing,Men's Giant Slalom
+2236,ZUEVA Marina,AIN,F,Speed Skating,Women's 3000m/Women's 5000m
+2237,ZUK Kamila,POL,F,Biathlon,Women's 15km Individual/Women's 7.5km Sprint/Mixed Relay 4 x 6km (M+W)
+2238,ZUNTE Darta,EST,F,Skeleton,Women
+2239,ZURBAY Anabelle,IRL,F,Alpine Skiing,To be defined
+2240,ZURBRIGGEN Anina,BUL,F,Alpine Skiing,To be defined
+2241,ZUREK Damian,POL,M,Speed Skating,Men's 500m/Men's 1000m
+2242,da COSTA Stephane,FRA,M,Ice Hockey,Men
+2243,de ALIPRANDINI Luca,ITA,M,Alpine Skiing,To be defined
+2244,de BOO Jenning,NED,M,Speed Skating,Men's 500m/Men's 1000m
+2245,de CAMPO Seve,AUS,M,Cross- Skiing,Men's 10km Interval Start Free/Men's 10km + 10km Skiathlon
+2246,de LAAT Itzhak,NED,M,Short Track Speed Skating,Men's 1500m/Men's 5000m Relay
+2247,de LUCA Tommaso,ITA,M,Ice Hockey,Men
+2248,de MARTIN PINTER Iris,ITA,F,Cross- Skiing,Women's Sprint Classic
+2249,de SERRES Gabrielle,FRA,F,Ice Hockey,Women
+2250,de SILVESTRO Alba,ITA,F,Ski Mountaineering,Women's Sprint/Mixed Relay
+2251,de SILVESTRO Simona,ITA,F,Bobsleigh,2-woman/Women's Monobob
+2252,de SOUZA Davidson Henrique,BRA,M,Bobsleigh,4-man
+2253,de VILLAUCOURT Arthur,FRA,M,Freestyle Skiing,Men's Moguls/Men's Dual Moguls
+2254,del DUCA Frankie,USA,M,Bobsleigh,2-man/4-man
+2255,del RIO ROCA Gina,AND,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon/Women's Sprint Classic
+2256,den DULK Tineke,BEL,F,Short Track Speed Skating,Mixed Team Relay
+2257,di CENTA Martina,ITA,F,Cross- Skiing,Women's 10km Interval Start Free/Women's 10km + 10km Skiathlon
+2258,di PERNA Dylan,ITA,M,Ice Hockey,Men
+2259,di STEFANO Daniele,ITA,M,Speed Skating,Men's 1000m/Men's 1500m/Men's Mass Start/Men's Team Pursuit
+2260,di TOMASO Gregory,ITA,M,Ice Hockey,Men
+2261,dos SANTOS FERREIRA Gustavo,BRA,M,Bobsleigh,To be defined
+2262,le SCODAN Manon,FRA,F,Ice Hockey,Women
+2263,name,country_code,gender,sport,events
+2264,van 'T WOUT Jens,NED,M,Short Track Speed Skating,Men's 1000m/Men's 1500m/Men's 5000m Relay/Mixed Team Relay
+2265,van 'T WOUT Melle,NED,M,Short Track Speed Skating,Men's 5000m Relay/Mixed Team Relay
+2266,van DAMME Warre,BEL,M,Short Track Speed Skating,Men's 5000m Relay
+2267,van ELST Isabelle,BEL,F,Speed Skating,Women's 500m/Women's 1000m/Women's 1500m/Women's Team Pursuit
+2268,van PELT Elin,ISL,F,Alpine Skiing,To be defined
+2269,van PETEGEM Kelly,BEL,F,Bobsleigh,Women's Monobob
+2270,van VREDEN Romy,NED,F,Snowboard,Women's Snowboard Slopestyle/Women's Snowboard Big Air
+2271,van de BUNT Stijn,NED,M,Speed Skating,Men's 5000m/Men's 10000m/Men's Mass Start/Men's Team Pursuit
