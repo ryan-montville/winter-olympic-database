@@ -1,0 +1,34 @@
+date,time,sport,event,gender,country_code,team_name,position
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,FRA,France,1
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,ITA,Italy,2
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,GER,Germany,3
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,USA,United States Men,1
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,JPN,Japan Men,2
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,ITA,Italy Men,3
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,SUI,Switzerland Men 1,1
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,AUT,Australia Men 1,2
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,SUI,Switzerland Men 2,2
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,ITA,Italy,1
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,CAN,Canada,2
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,BEL,Belgium,2
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,AUT,Austria Women 2,1
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,GER,Germany Women,2
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,USA,United States 2,3
+02/10/2026,7:05,Curling,Mixed Doubles,Mixed,ITA,Italy,3
+02/10/2026,11:05,Curling,Mixed Doubles,Mixed,SWE,Sweden,1
+02/10/2026,11:05,Curling,Mixed Doubles,Mixed,USA,United States,2
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,SLO,Slovenia,1
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,NOR,Norway,2
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,JPN,Japan,3
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,ITA,VOETTER A/OBERHOFER M,1
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,GER,EITBERGER D/MATSCHINA M,2
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,AUT,EGLE S/KIPP LM,3
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,FRA,FOURNIER BEAUDRY L/CIZERON G,1
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,USA,CHOCK M/BATES E,2
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,CAN,GILLES P/POIRIER P,3
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,ITA,RIEDER E/KAINZWALDNER S,1
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,AUT,STEU T/KINDL W,2
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,GER,WENDL T/ARLT T,3
+02/12/2026,11:30,Luge,Team Relay,Mixed,GER,Germany,1
+02/12/2026,11:30,Luge,Team Relay,Mixed,AUT,Austria,2
+02/12/2026,11:30,Luge,Team Relay,Mixed,ITA,Italy,3

@@ -1,0 +1,122 @@
+date,time,sport,event,gender,country_code,athlete_name,position
+02/07/2026,4:30,Alpine Skiing,Men's Downhill,Men,SUI,von ALLMEN F,1
+02/07/2026,4:30,Alpine Skiing,Men's Downhill,Men,ITA,FRANZONI G,2
+02/07/2026,4:30,Alpine Skiing,Men's Downhill,Men,ITA,PARIS D,3
+02/07/2026,6:00,Cross-Country Skiing,Women's 10km + 10km Skiathlon,Women,SWE,KARLSSON F,1
+02/07/2026,6:00,Cross-Country Skiing,Women's 10km + 10km Skiathlon,Women,SWE,ANDERSSON E,2
+02/07/2026,6:00,Cross-Country Skiing,Women's 10km + 10km Skiathlon,Women,SWE,WENG H,3
+02/07/2026,9:00,Speed Skating,Women's 300m,Women,ITA,LOLLOBRIGIDA F,1
+02/07/2026,9:00,Speed Skating,Women's 300m,Women,NOR,WIKLUND R,2
+02/07/2026,9:00,Speed Skating,Women's 300m,Women,CAN,MALTAIS V,3
+02/07/2026,12:57,Ski Jumping,Women's NH Individual,Women,NOR,STROEM AO,1
+02/07/2026,12:57,Ski Jumping,Women's NH Individual,Women,SLO,PREVC N,2
+02/07/2026,12:57,Ski Jumping,Women's NH Individual,Women,JPN,MARUYAMA N,3
+02/07/2026,12:30,Snowboard,Men's Snowboarding Big Air,Men,JPN,KIMURA K,1
+02/07/2026,12:30,Snowboard,Men's Snowboarding Big Air,Men,JPN,KIMATA R,2
+02/07/2026,12:30,Snowboard,Men's Snowboarding Big Air,Men,CHN,SU Y,3
+02/08/2026,4:30,Alpine Skiing,Women's Downhill,Women,USA,JOHNSON B,1
+02/08/2026,4:30,Alpine Skiing,Women's Downhill,Women,GER,AICHER E,2
+02/08/2026,4:30,Alpine Skiing,Women's Downhill,Women,ITA,GOGGIA S,3
+02/08/2026,5:30,Cross-Country Skiing,Men's 10km + 10km Skiathion,Men,NOR,KLAEBO JH,1
+02/08/2026,5:30,Cross-Country Skiing,Men's 10km + 10km Skiathion,Men,FRA,DESLOGES M,2
+02/08/2026,5:30,Cross-Country Skiing,Men's 10km + 10km Skiathion,Men,NOR,NYENGET ML,3
+02/08/2026,7:26,Snowboard,Women's Parallel Giant Slalom,Women,ITA,DALMASSO L,3
+02/08/2026,7:29,Snowboard,Women's Parallel Giant Slalom,Women,CZE,MADEROVA Z,1
+02/08/2026,7:29,Snowboard,Women's Parallel Giant Slalom,Women,AUT,PAYER S,2
+02/08/2026,7:36,Snowboard,Men's Parallel Giant Slalom,Men,BUL,ZAMFIROV T,3
+02/08/2026,7:39,Snowboard,Men's Parallel Giant Slalom,Men,AUT,KARL B,1
+02/08/2026,7:39,Snowboard,Men's Parallel Giant Slalom,Men,KOR,KIM S,2
+02/08/2026,9:00,Speed Skating,Men's 5000m,Men,NOR,EITREM S,1
+02/08/2026,9:00,Speed Skating,Men's 5000m,Men,CZE,JILEK M,2
+02/08/2026,9:00,Speed Skating,Men's 5000m,Men,ITA,LORELLO R,3
+02/08/2026,11:34,Luge,Men's Singles Run 4,Men,GER,LANGENHAN M,1
+02/08/2026,11:34,Luge,Men's Singles Run 4,Men,AUT,MUELLER J,2
+02/08/2026,11:34,Luge,Men's Singles Run 4,Men,ITA,FISCHNALLER D,3
+02/09/2026,6:28,Freestyle Skiing,Women's Freeski Slopestyle Final Run 3,Women,SUI,GREMAUD M,1
+02/09/2026,6:28,Freestyle Skiing,Women's Freeski Slopestyle Final Run 3,Women,CHN,GU Ailing E,2
+02/09/2026,6:28,Freestyle Skiing,Women's Freeski Slopestyle Final Run 3,Women,CAN,OLDHAM M,3
+02/09/2026,10:30,Speed Skating,Women's 1000m,Women,NED,LEERDAM J,1
+02/09/2026,10:30,Speed Skating,Women's 1000m,Women,NED,KOK F,2
+02/09/2026,10:30,Speed Skating,Women's 1000m,Women,JPN,TAKAGI M,3
+02/09/2026,13:12,Ski Jumping,Men's NH Individual,Men,GER,RAIMUND P,1
+02/09/2026,13:12,Ski Jumping,Men's NH Individual,Men,POL,TOMASIAK K,2
+02/09/2026,13:12,Ski Jumping,Men's NH Individual,Men,JPN,NIKAIDO R,3
+02/09/2026,13:12,Ski Jumping,Men's NH Individual,Men,SUI,DESCHWANDEN G,3
+02/09/2026,12:30,Snowboard,Women's Snowboarding Big Air,Women,JPN,MURASE K,1
+02/09/2026,12:30,Snowboard,Women's Snowboarding Big Air,Women,NZL,SADOWSKI S,2
+02/09/2026,12:30,Snowboard,Women's Snowboarding Big Air,Women,KOR,YU S,3
+02/10/2026,6:24,Cross-Country Skiing,Women's Sprint Classic,Women,SWE,SVAHN L,1
+02/10/2026,6:24,Cross-Country Skiing,Women's Sprint Classic,Women,SWE,SUNDLING J,2
+02/10/2026,6:24,Cross-Country Skiing,Women's Sprint Classic,Women,SWE,DAHLQVIST M,3
+02/10/2026,6:28,Freestyle Skiing,Men's Freeski Slopestyle Final Run 3,Men,NOR,RUUD B,1
+02/10/2026,6:28,Freestyle Skiing,Men's Freeski Slopestyle Final Run 3,Men,USA,HALL A,2
+02/10/2026,6:28,Freestyle Skiing,Men's Freeski Slopestyle Final Run 3,Men,NZL,HARRINGTON L,3
+02/10/2026,6:30,Biathlon,Men's 20km Individual,Men,NOR,BOTN J,1
+02/10/2026,6:30,Biathlon,Men's 20km Individual,Men,FRA,PERROT E,2
+02/10/2026,6:30,Biathlon,Men's 20km Individual,Men,NOR,LAEGREID S,3
+02/10/2026,6:38,Cross-Country Skiing,Men's Sprint Classic,Men,NOR,KLAEBO J,1
+02/10/2026,6:38,Cross-Country Skiing,Men's Sprint Classic,Men,USA,OGDEN B,2
+02/10/2026,6:38,Cross-Country Skiing,Men's Sprint Classic,Men,NOR,VIKE O,3
+02/10/2026,11:34,Luge,Women's Singles Run 4,Women,GER,TAUBITZ J,1
+02/10/2026,11:34,Luge,Women's Singles Run 4,Women,LAT,BOTA E,2
+02/10/2026,11:34,Luge,Women's Singles Run 4,Women,USA,FARQUHARSON A,3
+02/11/2026,4:30,Alpine Skiing,Men's Super-G,Men,SUI,VAN ALLMEN F,1
+02/11/2026,4:30,Alpine Skiing,Men's Super-G,Men,USA,COCHRAN-SIEGLE R,2
+02/11/2026,4:30,Alpine Skiing,Men's Super-G,Men,SUI,ODERMATT M,3
+02/11/2026,6:45,Nordic Combined, Individual Gund. NH/10km Cross-Country,Men,NOR,OFTEBRO Jens L,1
+02/11/2026,6:45,Nordic Combined, Individual Gund. NH/10km Cross-Country,Men,AUT,LAMPARTER J,2
+02/11/2026,6:45,Nordic Combined, Individual Gund. NH/10km Cross-Country,Men,FIN,HIRVONEN E,3
+02/11/2026,7:15,Biathlon,Women's 15km Individual,Women,FRA,SIMON J,1
+02/11/2026,7:15,Biathlon,Women's 15km Individual,Women,FRA,JEANMONNOT L,2
+02/11/2026,7:15,Biathlon,Women's 15km Individual,Women,BUL,HRISTOVA L,3
+02/11/2026,7:55,Freestyle Skiing,Women's Moguls Final 2,Women,USA,LEMLEY E,1
+02/11/2026,7:55,Freestyle Skiing,Women's Moguls Final 2,Women,USA,KAUF J,2
+02/11/2026,7:55,Freestyle Skiing,Women's Moguls Final 2,Women,FRA,LAFFONT P,3
+02/11/2026,11:30,Speed Skating,Men's 1000m,Men,USA,STOLZ,J,1
+02/11/2026,11:30,Speed Skating,Men's 1000m,Men,NED,de BOO J,2
+02/11/2026,11:30,Speed Skating,Men's 1000m,Men,CHN,NING Z,3
+02/12/2026,4:30,Alpine Skiing,Women's Super-G,Women,ITA,BRIGNONE F,1
+02/12/2026,4:30,Alpine Skiing,Women's Super-G,Women,FRA,MIRADOLI R,2
+02/12/2026,4:30,Alpine Skiing,Women's Super-G,Women,AUT,HUETTER C,3
+02/12/2026,5:55,Freestyle Skiing,Men's Moguls Finals,Men,AUS,WOODS C,1
+02/12/2026,5:55,Freestyle Skiing,Men's Moguls Finals,Men,CAN,KINGSBURY M,2
+02/12/2026,5:55,Freestyle Skiing,Men's Moguls Finals,Men,JPN,HORISHIMA I,3
+02/12/2026,6:00,Cross-Country Skiing,Women's 10km Interval Start Free,Women,SWE,KARLSSON F,1
+02/12/2026,6:00,Cross-Country Skiing,Women's 10km Interval Start Free,Women,SWE,ANDERSSON E,2
+02/12/2026,6:00,Cross-Country Skiing,Women's 10km Interval Start Free,Women,USA,DIGGINS J,3
+02/12/2026,7:56,Snowboard,Men's Snowboard Cross Big Final,Men,AUT,HAEMMERLE A,1
+02/12/2026,7:56,Snowboard,Men's Snowboard Cross Big Final,Men,CAN,GRONDIN E,2
+02/12/2026,7:56,Snowboard,Men's Snowboard Cross Big Final,Men,AUT,DUSEK J,3
+02/12/2026,9:30,Speed Skating,Women's 5000m,Women,ITA,LOLLOBRIGIDA F,1
+02/12/2026,9:30,Speed Skating,Women's 5000m,Women,NED,CONIJN M,2
+02/12/2026,9:30,Speed Skating,Women's 5000m,Women,NOR,WIKLUND R,3
+02/12/2026,13:28,Snowboard,Women's Snowboard Halfpipe Final Run 3,Women,KOR,CHOI G,1
+02/12/2026,13:28,Snowboard,Women's Snowboard Halfpipe Final Run 3,Women,USA,KIM C,2
+02/12/2026,13:28,Snowboard,Women's Snowboard Halfpipe Final Run 3,Women,JPN,ONO M,3
+02/12/2026,14:32,Short Track Speed Skating,Women's 500m - Final A,Women,NED,VELZEBOER X,1
+02/12/2026,14:32,Short Track Speed Skating,Women's 500m - Final A,Women,ITA,FONTANA A,2
+02/12/2026,14:32,Short Track Speed Skating,Women's 500m - Final A,Women,CAN,SARAULT C,3
+02/12/206,14:48,Short Track Speed Skating,Men's 1000m - Final A,Men,NED,van T WOUT J,1
+02/12/206,14:48,Short Track Speed Skating,Men's 1000m - Final A,Men,CHN,SUN L,2
+02/12/206,14:48,Short Track Speed Skating,Men's 1000m - Final A,Men,KOR,RIM J,3
+02/13/2026,4:45,Cross-Country Skiing,Men's 10km Interval Start Free,Men,NOR,KLAEBO J,1
+02/13/2026,4:45,Cross-Country Skiing,Men's 10km Interval Start Free,Men,FRA,DESLOGES M,2
+02/13/2026,4:45,Cross-Country Skiing,Men's 10km Interval Start Free,Men,NOR,HEDEGART E,3
+02/13/2026,7:00,Biathlon,Men's 10km Sprint,Men,FRA,FILLON MAILLET Q,1
+02/13/2026,7:00,Biathlon,Men's 10km Sprint,Men,NOR,CHRISTIANSEN Vetle S,2
+02/13/2026,7:00,Biathlon,Men's 10km Sprint,Men,NOR,LAEGREID Sturia H,3
+02/13/2026,7:46,Snowboard,Women's Snowboard Cross Big Final,Women,AUS,BAFF J,1
+02/13/2026,7:46,Snowboard,Women's Snowboard Cross Big Final,Women,CZE,ADAMCZYKOVA E,2
+02/13/2026,7:46,Snowboard,Women's Snowboard Cross Big Final,Women,ITA,MOIOLI M,3
+02/13/2026,9:00,Speed Skating,Men's 1000m,Men,CZE,JILEK M,1
+02/13/2026,9:00,Speed Skating,Men's 1000m,Men,POL,SEMIRUNNIY V,2
+02/13/2026,9:00,Speed Skating,Men's 1000m,Men,NED,BERGSMA J,3
+02/13/2026,12:00,Figure Skating,Men's Single Skating,Men,KAZ,SHAIDOROV M,1
+02/13/2026,12:00,Figure Skating,Men's Single Skating,Men,JPN,KAGIYAMA Y,2
+02/13/2026,12:00,Figure Skating,Men's Single Skating,Men,JPN,SATO S,3
+02/13/2026,13:28,Snowboard,Men's SBD HP Final Run 3,Men,JPN,TOTSUKA Y,1
+02/13/2026,13:28,Snowboard,Men's SBD HP Final Run 3,Men,AUS,JAMES S,2
+02/13/2026,13:28,Snowboard,Men's SBD HP Final Run 3,Men,JPN,YAMADA R,3
+02/13/2026,14:05,Skeleton,Men Heat 4,Men,GBR,WESTON M,1
+02/13/2026,14:05,Skeleton,Men Heat 4,Men,GER,JUNGK A,2
+02/13/2026,14:05,Skeleton,Men Heat 4,Men,GER,GROTHEER C,3

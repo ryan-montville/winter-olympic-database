@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 from playwright_stealth import Stealth
 from bs4 import BeautifulSoup
 
-COUNTRY_CODES = ['ALB', 'AND', 'ARG', 'ARM', 'AUS', 'AUT', 'AZE', 'BEL', 'BEN', 'BOL', 'BIH', 'BRA', 'BGR', 'CAN', 'CHL', 'ChN', 'COL', 'HRV', 'CYP', 'CZE', 'DNK', 'ECU', 'ERI', 'EST', 'FIN', 'FRA', 'GEO', 'DEU', '', 'GBR', 'GNB', 'HTI', 'HKG', 'HUN', 'ISL', 'IND', 'AIN', 'IRN', 'IRL', 'ISR', 'ITA', 'JAM', 'JPN', 'KAZ', 'KEN', 'KOR', 'XKX', 'KGZ', 'LVA', 'LBM', 'LIE', 'LTU', 'LUX', 'MDG', 'MYS', 'MLT', 'MEX', 'MDA', 'MCO', 'MNG', 'MNE', 'MAR', 'NLD', 'NZL', 'NGA', 'MKD', 'NOR', 'PAK', 'PHL', 'POL', 'PRT', 'PRI', 'ROU', 'SMR', 'SAU', 'SRB', 'SGP', 'SVK', 'SVN', 'ZAF', 'ESP', 'SWE', 'CHE', 'TPE', 'THA', 'TTO', 'TUR', 'UKR', 'ARE', 'USA', 'URY', 'UZB', 'VEN']
+COUNTRY_CODES = ['ALB', 'AND', 'ARG', 'ARM', 'AUS', 'AUT', 'AZE', 'BEL', 'BEN', 'BOL', 'BIH', 'BRA', 'BUL', 'CAN', 'CHI', 'CHN', 'TPE', 'COL', 'CRO', 'CYP', 'CZE', 'DEN', 'ECU', 'ERI', 'EST', 'FIN', 'FRA', 'GEO', 'GER', 'GBR', 'GRE', 'GBS', 'HAI', 'HKG', 'HUN', 'ISL', 'IND', 'AIN', 'IRI', 'IRL', 'ISR', 'ITA', 'JAM', 'JPN', 'KAZ', 'KEN', 'KOS', 'KGZ', 'LAT', 'LBN', 'LIE', 'LTU', 'LUX', 'MAD', 'MAS', 'MLT', 'MEX', 'MDA', 'MON', 'MGL', 'MNE', 'MAR', 'NED', 'NZL', 'NGR', 'MKD', 'NOR', 'PAK', 'PHI', 'POL', 'POR', 'PUR', 'ROU', 'SMR', 'KSA', 'SRB', 'SGP', 'SVK', 'SLO', 'RSA', 'KOR', 'ESP', 'SWE', 'SUI', 'THA', 'TTO', 'TUR', 'UKR', 'UAE', 'USA', 'URU', 'UZB', 'VEN']
 BASE_URL = "https://www.olympics.com/en/milano-cortina-2026/results/hubs/individuals?perPage=50"
 error_log = open("error_log.txt", "a")
 
