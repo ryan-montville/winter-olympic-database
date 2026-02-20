@@ -1,51 +1,51 @@
-name,country_code,sport,genders
-BOUCHARD Eric,ITA,Ice Hockey,Women
-CERNOVSKY Vladimir,CZE,Curling,Mixed Doubles
-CHARETTE Pierre,SUI,Curling,Women
-COOPER Jon,CAN,Ice Hockey,Men
-de CRUZ Peter,SUI,Curling,Mixed Doubles
-FISCHER Patrick,SUI,Ice Hockey,Men
-FRY Ryan,ITA,Curling,Men
-FUNAYAMA Yumie,JPN,Curling,Women
-GATH Mikael,DEN,Ice Hockey,Men
-GOODFELLOW Michael,GBR,Curling,Men
-GRAN Soeren,ITA,Curling,Women/Mixed Doubles
-GRANDY Clancy,GBR,Curling,Mixed Doubles
-HALLAM Sam,SWE,Ice Hockey,Men
-HELDIN LINDSTROM Kristian,SWE,Curling,Women
-HEMMINGS Guy,KOR,Curling,Women
-IIZUKA Yuji,JPN,Ice Hockey,Women
-JALONEN Jukka,ITA,Ice Hockey,Men
-KREIS Harold,GER,Ice Hockey,Men
-LANGE Joachim,NOR,Curling,Mixed Doubles
-LEHTERA Tero,FIN,Ice Hockey,Women
-LINDSTROM Alexander,SWE,Curling,Men
-LOEVOLD Thomas,NOR,Curling,Men/Mixed Doubles
-LUNDBERG Ulf,SWE,Ice Hockey,Women
-MACLEOD Carla Rae,CZE,Ice Hockey,Women
-MACLEOD Jeff,GER,Ice Hockey,Women
-MOULTON Jordan,USA,Curling,Men
-MULLER Colin,SUI,Ice Hockey,Women
-ORSZAGH Vladimir,SVK,Ice Hockey,Men
-OVERTON CLAPHAM Cathy,USA,Curling,Women/Mixed Doubles
-PATERSON Ross,GBR,Curling,Women
-PENNANEN Antti,FIN,Ice Hockey,Men
-PETERS Laine,CAN,Curling,Mixed Doubles
-PETERSSON Havard Vad,SUI,Curling,Men
-PRYTZ Andreas,SWE,Curling,Mixed Doubles
-RAJALA Howard,KOR,Curling,Mixed Doubles
-RULIK Radim,CZE,Ice Hockey,Men
-RYAN Troy,CAN,Ice Hockey,Women
-SAVILL Craig,CZE,Curling,Men
-SCHMIDT Ulrik,DEN,Curling,Women
-SHERRARD Ryan,GER,Curling,Men
-SONNENBERG Renee,CAN,Curling,MenWomen
-SULLIVAN Mike,USA,Ice Hockey,Men
-TAN Weidong,CHN,Curling,Men/Women
-TARLE Gregory,FRA,Ice Hockey,Women
-TREILLE Yorick,FRA,Ice Hockey,Men
-VITOLINS Harijs,LAT,Ice Hockey,Men
-WALSTAD Steffen,EST,Curling,Mixed Doubles
-WEBSTER Paul,CAN,Curling,Men
-WROBLEWSKI John,USA,Ice Hockey,Women
-ZANG Jialiang,CHN,Curling,Women 
+coach_id,coach_name,country_code,sport_id,genders
+1,BOUCHARD Eric,ITA,8,Female
+2,CERNOVSKY Vladimir,CZE,5,Mixed
+3,CHARETTE Pierre,SUI,5,Female
+4,COOPER Jon,CAN,8,Male
+5,de CRUZ Peter,SUI,5,Mixed
+6,FISCHER Patrick,SUI,8,Male
+7,FRY Ryan,ITA,5,Male
+8,FUNAYAMA Yumie,JPN,5,Female
+9,GATH Mikael,DEN,8,Male
+10,GOODFELLOW Michael,GBR,5,Male
+11,GRAN Soeren,ITA,5,Female/Mixed
+12,GRANDY Clancy,GBR,5,Mixed
+13,HALLAM Sam,SWE,8,Male
+14,HELDIN LINDSTROM Kristian,SWE,5,Female
+15,HEMMINGS Guy,KOR,5,Female
+16,IIZUKA Yuji,JPN,8,Female
+17,JALONEN Jukka,ITA,8,Male
+18,KREIS Harold,GER,8,Male
+19,LANGE Joachim,NOR,5,Mixed
+20,LEHTERA Tero,FIN,8,Female
+21,LINDSTROM Alexander,SWE,5,Male
+22,LOEVOLD Thomas,NOR,5,Male/Mixed
+23,LUNDBERG Ulf,SWE,8,Female
+24,MACLEOD Carla Rae,CZE,8,Female
+25,MACLEOD Jeff,GER,8,Female
+26,MOULTON Jordan,USA,5,Male
+27,MULLER Colin,SUI,8,Female
+28,ORSZAGH Vladimir,SVK,8,Male
+29,OVERTON CLAPHAM Cathy,USA,5,Female/Mixed
+30,PATERSON Ross,GBR,5,Female
+31,PENNANEN Antti,FIN,8,Male
+32,PETERS Laine,CAN,5,Mixed
+33,PETERSSON Havard Vad,SUI,5,Male
+34,PRYTZ Andreas,SWE,5,Mixed
+35,RAJALA Howard,KOR,5,Mixed
+36,RULIK Radim,CZE,8,Male
+37,RYAN Troy,CAN,8,Female
+38,SAVILL Craig,CZE,5,Male
+39,SCHMIDT Ulrik,DEN,5,Female
+40,SHERRARD Ryan,GER,5,Male
+41,SONNENBERG Renee,CAN,5,Male/Female
+42,SULLIVAN Mike,USA,8,Male
+43,TAN Weidong,CHN,5,Male/Female
+44,TARLE Gregory,FRA,8,Female
+45,TREILLE Yorick,FRA,8,Male
+46,VITOLINS Harijs,LAT,8,Male
+47,WALSTAD Steffen,EST,5,Mixed
+48,WEBSTER Paul,CAN,5,Male
+49,WROBLEWSKI John,USA,8,Female
+50,ZANG Jialiang,CHN,5,Female
