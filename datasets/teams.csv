@@ -1,0 +1,545 @@
+team_id,team_name,country_code,sport_id,event_id,gender
+1,Argentina,ARG,1,3,Women
+2,Argentina,ARG,4,33,Women
+3,Argentina,ARG,4,34,Men
+4,AKOPOVA Karina/RAKHMANIN Nikita,ARM,6,42,Mixed
+5,Australia,AUS,4,33,Women
+6,Australia,AUS,4,31,Women
+7,Australia,AUS,4,34,Men
+8,Australia,AUS,14,90,Mixed
+9,Australia 1,AUS,15,99,Mixed
+10,Australia 2,AUS,15,99,Mixed
+11,BLIZZARD Sarah,AUS,3,23,Womwn
+12,GOLUBEVA Anastasiia/GIOTOPOULOS MOORE Hektor,AUS,6,42,Mixed
+13,HARRIS Holly/CHAN Jason,AUS,6,43,Mixed
+14,WALKER Bree,AUS,3,23,Womwn
+15,Austria,AUT,13,87,Men
+16,Austria,AUT,13,84,Mixed
+17,Austria,AUT,10,68,Men
+18,Austria,AUT,14,90,Mixed
+19,Austria,AUT,4,34,Men
+20,Austria,AUT,9,66,Mixed
+21,Austria,AUT,4,31,Women
+22,Austria,AUT,4,33,Women
+23,Austria,AUT,2,17,Men
+24,Austria,AUT,2,18,Women
+25,Austria,AUT,2,10,Mixed
+26,Austria 1,AUT,1,3,Women
+27,Austria 1,AUT,1,2,Men
+28,Austria 1,AUT,15,99,Mixed
+29,Austria 2,AUT,1,2,Men
+30,Austria 2,AUT,1,3,Women
+31,Austria 3,AUT,1,3,Women
+32,Austria 3,AUT,1,2,Men
+33,Austria 4,AUT,1,2,Men
+34,Austria 4,AUT,1,3,Women
+35,BEIERL Katrin,AUT,3,23,Womwn
+36,EGLE Selina/KIPP Lara Michaela,AUT,9,65,Women
+37,FLOCK Janine/MAIER Samuel,AUT,12,81,Mixed
+38,GATT Juri Thomas/SCHOEPF Riccardo Martin,AUT,9,64,Men
+39,HASLWANTER Lea,AUT,3,23,Womwn
+40,MANDLBAUER Jakob,AUT,3,22,Men
+41,MANDLBAUER Jakob,AUT,3,24,Men
+42,STEU Thomas/KINDL Wolfgang,AUT,9,64,Men
+43,TREICHL Markus,AUT,3,24,Men
+44,TREICHL Markus,AUT,3,22,Men
+45,Belgium,BEL,16,111,Women
+46,Belgium,BEL,11,78,Men
+47,Belgium,BEL,11,70,Mixed
+48,Belgium,BEL,2,10,Mixed
+49,Belgium,BEL,2,18,Women
+50,Belgium,BEL,2,17,Men
+51,BINDILATTI Edson Luques,BRA,3,22,Men
+52,BINDILATTI Edson Luques,BRA,3,24,Men
+53,Brazil,BRA,4,33,Women
+54,Bulgaria,BUL,2,10,Mixed
+55,Bulgaria,BUL,2,17,Men
+56,Bulgaria,BUL,2,18,Women
+57,Bulgaria,BUL,4,34,Men
+58,APPIAH Cynthia,CAN,3,23,Womwn
+59,AUSTIN Taylor,CAN,3,24,Men
+60,AUSTIN Taylor,CAN,3,22,Men
+61,Canada,CAN,4,34,Men
+62,Canada,CAN,4,17,Men
+63,Canada,CAN,5,38,Men
+64,Canada,CAN,5,37,Women
+65,Canada,CAN,5,39,Mixed
+66,Canada,CAN,6,44,Mixed
+67,Canada,CAN,8,60,Men
+68,Canada,CAN,8,61,Women
+69,Canada,CAN,11,70,Mixed
+70,Canada,CAN,11,78,Men
+71,Canada,CAN,11,76,Women
+72,Canada,CAN,16,111,Women
+73,Canada,CAN,2,18,Women
+74,Canada,CAN,2,17,Men
+75,Canada,CAN,4,33,Women
+76,Canada,CAN,4,31,Women
+77,Canada,CAN,2,10,Mixed
+78,Canada 1,CAN,1,3,Women
+79,Canada 1,CAN,15,99,Mixed
+80,Canada 2,CAN,1,3,Women
+81,CHANNELL Jane/BRUSIC Josip,CAN,12,81,Mixed
+82,DEARBORN Jay,CAN,3,22,Men
+83,DEARBORN Jay,CAN,3,24,Men
+84,GILLES Piper/POIRIER Paul,CAN,6,43,Mixed
+85,LAJOIE Marjorie/LAGHA Zachary,CAN,6,43,Mixed
+86,LAURIAULT Marie-Jade/le GAC Romain,CAN,6,43,Mixed
+87,LOTHOLZ Melissa,CAN,3,23,Womwn
+88,PEREIRA Lia/MICHAUD Trennt,CAN,6,42,Mixed
+89,PODULSKY Beattie/ALLAN Kailey,CAN,9,65,Women
+90,RIBI Bianca,CAN,3,23,Womwn
+91,STELLATO-DUDEK Deanna/DESCHAMPS Maxime,CAN,6,42,Mixed
+92,WARDROPE Devin/ZAJANSKI Cole,CAN,9,64,Men
+93,GULIJIENAITI Adikeyoumu/ZHAO Jiaying,CHN,9,65,Women
+94,HUAI Mingming,CHN,3,23,Womwn
+95,JUBAYI Saikeyi/HOU Shuo,CHN,9,64,Men
+96,LI Chunjian,CHN,3,22,Men
+97,LI Chunjian,CHN,3,24,Men
+98,LIANG Yuxin/LIN Qinwei,CHN,12,81,Mixed
+99,People's Republic of China,CHN,6,44,Mixed
+100,People's Republic of China,CHN,9,66,Mixed
+101,People's Republic of China,CHN,5,38,Men
+102,People's Republic of China,CHN,5,37,Women
+103,People's Republic of China,CHN,4,34,Men
+104,People's Republic of China,CHN,13,84,Mixed
+105,People's Republic of China,CHN,13,87,Men
+106,People's Republic of China,CHN,10,68,Men
+107,People's Republic of China,CHN,14,90,Mixed
+108,People's Republic of China,CHN,16,111,Women
+109,People's Republic of China,CHN,16,110,Men
+110,People's Republic of China,CHN,11,70,Mixed
+111,People's Republic of China,CHN,11,76,Women
+112,People's Republic of China,CHN,11,78,Men
+113,People's Republic of China,CHN,4,31,Women
+114,People's Republic of China,CHN,4,33,Women
+115,SUI Wenjing/HAN Cong,CHN,6,42,Mixed
+116,SUN Kaizhi,CHN,3,24,Men
+117,SUN Kaizhi,CHN,3,22,Men
+118,WANG Shiyue/LIU Xinyu,CHN,6,43,Mixed
+119,YING Qing,CHN,3,23,Womwn
+120,ZHAO Dan/CHEN Wenhao,CHN,12,81,Mixed
+121,Croatia,CRO,4,33,Women
+122,Czechia,CZE,10,68,Men
+123,Czechia,CZE,8,61,Women
+124,Czechia,CZE,8,60,Men
+125,Czechia,CZE,5,39,Mixed
+126,Czechia,CZE,5,38,Men
+127,Czechia,CZE,4,17,Men
+128,Czechia,CZE,4,34,Men
+129,Czechia,CZE,4,33,Women
+130,Czechia,CZE,4,31,Women
+131,Czechia,CZE,2,17,Men
+132,Czechia,CZE,2,18,Women
+133,Czechia,CZE,2,10,Mixed
+134,Czechia,CZE,1,2,Men
+135,Czechia 1,CZE,1,3,Women
+136,Czechia 1,CZE,15,99,Mixed
+137,Czechia 2,CZE,15,99,Mixed
+138,Czechia 2,CZE,1,3,Women
+139,MRAZKOVA Katerina/MRAZEK Daniel,CZE,6,43,Mixed
+140,TASCHLEROVA Natalie/TASCHLER Filip,CZE,6,43,Mixed
+141,Denmark,DEN,8,60,Men
+142,Denmark,DEN,5,37,Women
+143,JOHANSEN Nanna/VESTERGAARD JOHANSEN Rasmus,DEN,12,81,Mixed
+144,Estonia,EST,10,68,Men
+145,Estonia,EST,13,87,Men
+146,Estonia,EST,5,39,Mixed
+147,Estonia,EST,4,34,Men
+148,Estonia,EST,2,10,Mixed
+149,Estonia,EST,2,18,Women
+150,Estonia,EST,2,17,Men
+151,Estonia,EST,4,31,Women
+152,Estonia,EST,4,33,Women
+153,Finland,FIN,8,60,Men
+154,Finland,FIN,8,61,Women
+155,Finland,FIN,4,34,Men
+156,Finland,FIN,4,17,Men
+157,Finland,FIN,13,87,Men
+158,Finland,FIN,10,68,Men
+159,Finland,FIN,13,84,Mixed
+160,Finland,FIN,4,33,Women
+161,Finland,FIN,4,31,Women
+162,Finland,FIN,2,17,Men
+163,Finland,FIN,2,18,Women
+164,Finland,FIN,2,10,Mixed
+165,Finland,FIN,1,2,Men
+166,TURKKILA Juulia/VERSLUIS Matthias,FIN,6,43,Mixed
+167,BOCH Margot,FRA,3,23,Womwn
+168,FOURNIER BEAUDRY Laurence/CIZERON Guillaume,FRA,6,43,Mixed
+169,France,FRA,8,61,Women
+170,France,FRA,8,60,Men
+171,France,FRA,6,44,Mixed
+172,France,FRA,4,17,Men
+173,France,FRA,4,34,Men
+174,France,FRA,13,84,Mixed
+175,France,FRA,10,68,Men
+176,France,FRA,13,87,Men
+177,France,FRA,14,90,Mixed
+178,France,FRA,11,76,Women
+179,France,FRA,11,70,Mixed
+180,France,FRA,16,110,Men
+181,France,FRA,2,10,Mixed
+182,France,FRA,2,18,Women
+183,France,FRA,2,17,Men
+184,France,FRA,4,31,Women
+185,France,FRA,4,33,Women
+186,France 1,FRA,1,2,Men
+187,France 1,FRA,1,3,Women
+188,France 1,FRA,15,99,Mixed
+189,France 2,FRA,15,99,Mixed
+190,France 2,FRA,1,3,Women
+191,France 2,FRA,1,2,Men
+192,France 3,FRA,1,2,Men
+193,France 3,FRA,1,3,Women
+194,France 3,FRA,15,99,Mixed
+195,HEINRICH Romain,FRA,3,22,Men
+196,HEINRICH Romain,FRA,3,24,Men
+197,KOVALEV Camille/KOVALEV Pavel,FRA,6,42,Mixed
+198,LOPAREVA Evgeniia/BRISSAUD Geoffrey,FRA,6,43,Mixed
+199,DAVIS Diana/SMOLKIN Gleb,GEO,6,43,Mixed
+200,Georgia,GEO,6,44,Mixed
+201,METELKINA Anastasiia/BERULAVA Luka,GEO,6,42,Mixed
+202,AMMOUR Adam,GER,3,22,Men
+203,AMMOUR Adam,GER,3,24,Men
+204,BUCKWITZ Lisa,GER,3,23,Womwn
+205,EGGERT Toni/MUELLER Florian,GER,9,64,Men
+206,EITBERGER Dajana/MATSCHINA Magdalena,GER,9,65,Women
+207,FRIEDRICH Francesco,GER,3,24,Men
+208,FRIEDRICH Francesco,GER,3,22,Men
+209,Germany,GER,5,38,Men
+210,Germany,GER,4,34,Men
+211,Germany,GER,4,17,Men
+212,Germany,GER,8,60,Men
+213,Germany,GER,8,61,Women
+214,Germany,GER,9,66,Mixed
+215,Germany,GER,13,84,Mixed
+216,Germany,GER,10,68,Men
+217,Germany,GER,13,87,Men
+218,Germany,GER,14,90,Mixed
+219,Germany,GER,16,110,Men
+220,Germany,GER,16,111,Women
+221,Germany,GER,2,10,Mixed
+222,Germany,GER,4,33,Women
+223,Germany,GER,4,31,Women
+224,Germany,GER,2,17,Men
+225,Germany,GER,2,18,Women
+226,Germany,GER,1,3,Women
+227,Germany,GER,1,2,Men
+228,Germany 1,GER,15,99,Mixed
+229,HASE Minerva Fabienne/VOLODIN Nikita,GER,6,42,Mixed
+230,HOCKE Annika/KUNKEL Robert,GER,6,42,Mixed
+231,JANSE van RENSBURG Jennifer/STEFFAN Benjamin,GER,6,43,Mixed
+232,KALICKI Kim,GER,3,23,Womwn
+233,KREHER Susanne/JUNGK Axel,GER,12,81,Mixed
+234,LOCHNER Johannes,GER,3,24,Men
+235,LOCHNER Johannes,GER,3,22,Men
+236,NOLTE Laura,GER,3,23,Womwn
+237,PFEIFER Jacqueline/GROTHEER Christopher,GER,12,81,Mixed
+238,WENDL Tobias/ARLT Tobias,GER,9,64,Men
+239,BEKKER Phebe/HERNANDEZ James,GBR,6,43,Mixed
+240,FEAR Lilah/GIBSON Lewis,GBR,6,43,Mixed
+241,Great Britain,GBR,6,44,Mixed
+242,Great Britain,GBR,4,34,Men
+243,Great Britain,GBR,5,38,Men
+244,Great Britain,GBR,5,39,Mixed
+245,Great Britain,GBR,5,37,Women
+246,Great Britain 1,GBR,15,99,Mixed
+247,HALL Brad,GBR,3,22,Men
+248,HALL Brad,GBR,3,24,Men
+249,NICOLL Adele,GBR,3,23,Womwn
+250,STOECKER Tabitha/WESTON Matt,GBR,12,81,Mixed
+251,TARBIT Freya/WYATT Marcus,GBR,12,81,Mixed
+252,VAIPAN-LAW Anastasia/DIGBY Luke,GBR,6,42,Mixed
+253,Greece,GRE,4,33,Women
+254,Hungary,HUN,4,33,Women
+255,Hungary,HUN,11,70,Mixed
+256,Hungary,HUN,11,78,Men
+257,Hungary,HUN,4,34,Men
+258,PAVLOVA Maria/SVIATCHENKO Alexei,HUN,6,42,Mixed
+259,EDELMAN Adam,ISR,3,24,Men
+260,EDELMAN Adam,ISR,3,22,Men
+261,ANDREUTTI Giada,ITA,3,23,Womwn
+262,BAUMGARTNER Patrick,ITA,3,24,Men
+263,BAUMGARTNER Patrick,ITA,3,22,Men
+264,CONTI Sara/MACII Niccolo,ITA,6,42,Mixed
+265,de SILVESTRO Simona,ITA,3,23,Womwn
+266,FUMAGALLI Alessandra/BAGNIS Amedeo,ITA,12,81,Mixed
+267,GHILARDI Rebecca/AMBROSINI Filippo,ITA,6,42,Mixed
+268,GUIGNARD Charlene/FABBRI Marco,ITA,6,43,Mixed
+269,Italy,ITA,4,34,Men
+270,Italy,ITA,4,17,Men
+271,Italy,ITA,5,37,Women
+272,Italy,ITA,5,39,Mixed
+273,Italy,ITA,5,38,Men
+274,Italy,ITA,6,44,Mixed
+275,Italy,ITA,8,61,Women
+276,Italy,ITA,8,60,Men
+277,Italy,ITA,11,78,Men
+278,Italy,ITA,11,76,Women
+279,Italy,ITA,11,70,Mixed
+280,Italy,ITA,16,110,Men
+281,Italy,ITA,13,87,Men
+282,Italy,ITA,14,90,Mixed
+283,Italy,ITA,9,66,Mixed
+284,Italy,ITA,13,84,Mixed
+285,Italy,ITA,10,68,Men
+286,Italy,ITA,4,33,Women
+287,Italy,ITA,4,31,Women
+288,Italy,ITA,2,18,Women
+289,Italy,ITA,2,17,Men
+290,Italy,ITA,2,10,Mixed
+291,Italy 1,ITA,1,2,Men
+292,Italy 1,ITA,1,3,Women
+293,Italy 1,ITA,15,99,Mixed
+294,Italy 2,ITA,15,99,Mixed
+295,Italy 2,ITA,1,3,Women
+296,Italy 2,ITA,1,2,Men
+297,Italy 3,ITA,1,2,Men
+298,Italy 3,ITA,1,3,Women
+299,Italy 4,ITA,1,3,Women
+300,Italy 4,ITA,1,2,Men
+301,MARGAGLIO Valentina/GASPARI Mattia,ITA,12,81,Mixed
+302,NAGLER Ivan/MALLEIER Fabian,ITA,9,64,Men
+303,RIEDER Emanuel/KAINZWALDNER Simon,ITA,9,64,Men
+304,VOETTER Andrea/OBERHOFER Marion,ITA,9,65,Women
+305,PITTER Shane,JAM,3,24,Men
+306,PITTER Shane,JAM,3,22,Men
+307,Japan,JPN,8,61,Women
+308,Japan,JPN,6,44,Mixed
+309,Japan,JPN,5,37,Women
+310,Japan,JPN,10,68,Men
+311,Japan,JPN,13,84,Mixed
+312,Japan,JPN,13,87,Men
+313,Japan,JPN,16,110,Men
+314,Japan,JPN,16,111,Women
+315,Japan,JPN,11,70,Mixed
+316,Japan,JPN,11,76,Women
+317,Japan,JPN,11,78,Men
+318,MIURA Riku/KIHARA Ryuichi,JPN,6,42,Mixed
+319,NAGAOKA Yuna/MORIGUCHI Sumitada,JPN,6,42,Mixed
+320,YOSHIDA Utana/MORITA Masaya,JPN,6,44,Mixed
+321,Kazakhstan,KAZ,4,34,Men
+322,Kazakhstan,KAZ,13,87,Men
+323,Kazakhstan,KAZ,11,70,Mixed
+324,Kazakhstan,KAZ,16,111,Women
+325,Kazakhstan,KAZ,2,10,Mixed
+326,Kazakhstan,KAZ,4,31,Women
+327,Kazakhstan,KAZ,4,33,Women
+328,HONG Sujung/JUNG Seunggi,KOR,12,81,Mixed
+329,KIM Jinsu,KOR,3,22,Men
+330,KIM Jinsu,KOR,3,24,Men
+331,KIM Yooran,KOR,3,23,Womwn
+332,LIM Hannah/QUAN Ye,KOR,6,43,Mixed
+333,Republic of Korea,KOR,6,44,Mixed
+334,Republic of Korea,KOR,5,37,Women
+335,Republic of Korea,KOR,5,39,Mixed
+336,Republic of Korea,KOR,11,70,Mixed
+337,Republic of Korea,KOR,11,78,Men
+338,Republic of Korea,KOR,11,76,Women
+339,Republic of Korea,KOR,4,33,Women
+340,SUK Youngjin,KOR,3,22,Men
+341,SUK Youngjin,KOR,3,24,Men
+342,ANDZANE Marta/INDRIKSONS Emils,LAT,12,81,Mixed
+343,BOTS Martins/PLUME Roberts,LAT,9,64,Men
+344,GRANTINS Renars,LAT,3,24,Men
+345,KALENDA Jekabs,LAT,3,24,Men
+346,KALENDA Jekabs,LAT,3,22,Men
+347,Latvia,LAT,8,60,Men
+348,Latvia,LAT,4,34,Men
+349,Latvia,LAT,9,66,Mixed
+350,Latvia,LAT,2,10,Mixed
+351,Latvia,LAT,4,33,Women
+352,Latvia,LAT,4,31,Women
+353,Latvia,LAT,2,17,Men
+354,Latvia,LAT,2,18,Women
+355,ROBEZNIECE Marta/BOGDANOVA Kitija,LAT,9,65,Women
+356,SEVICS-MIKELSEVICS Eduards/KRASTS Lukass,LAT,9,64,Men
+357,KRANZ Martin,LIE,3,24,Men
+358,KRANZ Martin,LIE,3,22,Men
+359,Lithuania,LTU,2,10,Mixed
+360,Lithuania,LTU,2,18,Women
+361,Lithuania,LTU,2,17,Men
+362,Lithuania,LTU,4,33,Women
+363,Lithuania,LTU,4,34,Men
+364,REED Allison/AMBRULEVICIUS Saulius,LTU,6,43,Mixed
+365,DANILOVA Daria/TSIBA Michel,NED,6,42,Mixed
+366,Netherlands,NED,16,111,Women
+367,Netherlands,NED,16,110,Men
+368,Netherlands,NED,11,70,Mixed
+369,Netherlands,NED,11,78,Men
+370,Netherlands,NED,11,76,Women
+371,WESSELINK Dave,NED,3,24,Men
+372,WESSELINK Dave,NED,3,22,Men
+373,Norway,NOR,1,3,Women
+374,Norway,NOR,2,10,Mixed
+375,Norway,NOR,4,33,Women
+376,Norway,NOR,4,31,Women
+377,Norway,NOR,2,17,Men
+378,Norway,NOR,2,18,Women
+379,Norway,NOR,16,110,Men
+380,Norway,NOR,13,87,Men
+381,Norway,NOR,14,90,Mixed
+382,Norway,NOR,13,84,Mixed
+383,Norway,NOR,10,68,Men
+384,Norway,NOR,4,34,Men
+385,Norway,NOR,4,17,Men
+386,Norway,NOR,5,39,Mixed
+387,Norway,NOR,5,38,Men
+388,Norway 1,NOR,1,2,Men
+389,Norway 2,NOR,1,2,Men
+390,CHMIELEWSKI Wojciech/GANCARCZYK Michal,POL,9,64,Men
+391,CHTCHETININA Ioulia/WOZNIAK Michal,POL,6,42,Mixed
+392,DOMOWICZ Nikola/PIWKOWSKA Dominika,POL,9,65,Women
+393,DOVHAL Sofiia/KULESZA Wiktor,POL,6,44,Mixed
+394,Poland,POL,9,66,Mixed
+395,Poland,POL,10,68,Men
+396,Poland,POL,13,84,Mixed
+397,Poland,POL,11,70,Mixed
+398,Poland,POL,14,90,Mixed
+399,Poland,POL,13,87,Men
+400,Poland,POL,4,34,Men
+401,Poland,POL,6,44,Mixed
+402,Poland,POL,2,10,Mixed
+403,Poland,POL,4,31,Women
+404,Poland,POL,4,33,Women
+405,Poland,POL,2,18,Women
+406,Poland,POL,2,17,Men
+407,WEISZEWSKI Linda,POL,3,23,Womwn
+408,GITLAN Vasile-Marian/SERBAN Darius-Lucian,ROU,9,64,Men
+409,Romania,ROU,2,17,Men
+410,Romania,ROU,9,66,Mixed
+411,Romania,ROU,13,84,Mixed
+412,Romania,ROU,13,87,Men
+413,Romania,ROU,4,34,Men
+414,STRAMATURARU Raluca/MANOLESCU Mihaela-Carmen,ROU,9,65,Women
+415,TENTEA Mihai Cristian,ROU,3,24,Men
+416,TENTEA Mihai Cristian,ROU,3,22,Men
+417,BOSMAN Christian/MICK Bruno,SVK,9,64,Men
+418,CERNANSKA Viktoria,SVK,3,23,Womwn
+419,PRAXOVA Viktoria/SPITZOVA Desana,SVK,9,65,Women
+420,Slovakia,SVK,14,90,Mixed
+421,Slovakia,SVK,4,34,Men
+422,Slovakia,SVK,8,60,Men
+423,Slovakia,SVK,2,18,Women
+424,Slovakia,SVK,2,10,Mixed
+425,Slovakia,SVK,1,3,Women
+426,Slovenia,SLO,1,3,Women
+427,Slovenia,SLO,2,10,Mixed
+428,Slovenia,SLO,2,17,Men
+429,Slovenia,SLO,2,18,Women
+430,Slovenia,SLO,4,33,Women
+431,Slovenia,SLO,4,31,Women
+432,Slovenia,SLO,4,34,Men
+433,Slovenia,SLO,13,87,Men
+434,Slovenia,SLO,13,84,Mixed
+435,Slovenia,SLO,10,68,Men
+436,SMART Olivia/DIECK Tim,ESP,6,43,Mixed
+437,Spain,ESP,4,34,Men
+438,Spain,ESP,14,90,Mixed
+439,VAL Sofia/KAZIMOV Asaf,ESP,6,43,Mixed
+440,REITAN Milla Ruud/MAJOROV Nikolaj,SWE,6,43,Mixed
+441,Sweden,SWE,2,17,Men
+442,Sweden,SWE,2,10,Mixed
+443,Sweden,SWE,2,18,Women
+444,Sweden,SWE,4,31,Women
+445,Sweden,SWE,4,33,Women
+446,Sweden,SWE,8,61,Women
+447,Sweden,SWE,8,60,Men
+448,Sweden,SWE,4,17,Men
+449,Sweden,SWE,4,34,Men
+450,Sweden,SWE,5,39,Mixed
+451,Sweden,SWE,5,37,Women
+452,Sweden,SWE,5,38,Men
+453,ANNEN Debora,SUI,3,23,Womwn
+454,FOLLADOR Cedric,SUI,3,24,Men
+455,FOLLADOR Cedric,SUI,3,22,Men
+456,HASLER Melanie,SUI,3,23,Womwn
+457,ROHNER Timo,SUI,3,24,Men
+458,ROHNER Timo,SUI,3,22,Men
+459,Switzerland,SUI,5,38,Men
+460,Switzerland,SUI,5,37,Women
+461,Switzerland,SUI,5,39,Mixed
+462,Switzerland,SUI,4,34,Men
+463,Switzerland,SUI,4,17,Men
+464,Switzerland,SUI,8,60,Men
+465,Switzerland,SUI,8,61,Women
+466,Switzerland,SUI,13,87,Men
+467,Switzerland,SUI,14,90,Mixed
+468,Switzerland,SUI,4,33,Women
+469,Switzerland,SUI,4,31,Women
+470,Switzerland,SUI,2,18,Women
+471,Switzerland,SUI,2,17,Men
+472,Switzerland,SUI,2,10,Mixed
+473,Switzerland 1,SUI,1,3,Women
+474,Switzerland 1,SUI,1,2,Men
+475,Switzerland 1,SUI,15,99,Mixed
+476,Switzerland 2,SUI,1,2,Men
+477,Switzerland 2,SUI,1,3,Women
+478,Switzerland 3,SUI,1,3,Women
+479,Switzerland 3,SUI,1,2,Men
+480,Switzerland 4,SUI,1,2,Men
+481,Switzerland 4,SUI,1,3,Women
+482,VOGT Michael,SUI,3,24,Men
+483,VOGT Michael,SUI,3,22,Men
+484,LIN Sin-Rong,TPE,3,23,Womwn
+485,BROWN Axel,TTO,3,22,Men
+486,BROWN Axel,TTO,3,24,Men
+487,Türkiye,TUR,13,87,Men
+488,HOI Ihor/KACHMAR Nazarii,UKR,9,64,Men
+489,MARTSINOVSKYI Danyil/BABURA Bohdan,UKR,9,64,Men
+490,STETSKIV Olena/MOKH Oleksandra,UKR,9,65,Women
+491,Ukraine,UKR,4,34,Men
+492,Ukraine,UKR,13,87,Men
+493,Ukraine,UKR,10,68,Men
+494,Ukraine,UKR,9,66,Mixed
+495,Ukraine,UKR,2,17,Men
+496,Ukraine,UKR,2,18,Women
+497,Ukraine,UKR,2,10,Mixed
+498,Ukraine,UKR,4,33,Women
+499,Ukraine,UKR,4,31,Women
+500,ARMBRUSTER HUMPHRIES Kaillie,USA,3,23,Womwn
+501,CARREIRA Christina/PONOMARENKO Anthony,USA,6,43,Mixed
+502,CHAN Emily/HOWE Spencer Akira,USA,6,42,Mixed
+503,CHOCK Madison/BATES Evan,USA,6,43,Mixed
+504,CURTIS Kelly/BAREFOOT Daniel,USA,12,81,Mixed
+505,del DUCA Frankie,USA,3,22,Men
+506,del DUCA Frankie,USA,3,24,Men
+507,DIGREGORIO Zachary/HOLLANDER Sean,USA,9,64,Men
+508,FORGAN Chevonne/KIRKBY Sophia,USA,9,65,Women
+509,HORN Kristopher,USA,3,24,Men
+510,KAM Ellie/O'SHEA Danny,USA,6,42,Mixed
+511,LOVE Kaysha,USA,3,23,Womwn
+512,MEYERS TAYLOR Elana,USA,3,23,Womwn
+513,MUELLER Marcus/HAUGSJAA Ansel,USA,9,64,Men
+514,RO Mystique/FLORIAN Austin,USA,12,81,Mixed
+515,United States of America,USA,4,31,Women
+516,United States of America,USA,4,33,Women
+517,United States of America,USA,2,10,Mixed
+518,United States of America,USA,2,18,Women
+519,United States of America,USA,2,17,Men
+520,United States of America,USA,1,2,Men
+521,United States of America,USA,9,66,Mixed
+522,United States of America,USA,10,68,Men
+523,United States of America,USA,13,84,Mixed
+524,United States of America,USA,13,87,Men
+525,United States of America,USA,14,90,Mixed
+526,United States of America,USA,11,76,Women
+527,United States of America,USA,11,70,Mixed
+528,United States of America,USA,16,110,Men
+529,United States of America,USA,16,111,Women
+530,United States of America,USA,4,34,Men
+531,United States of America,USA,4,17,Men
+532,United States of America,USA,5,39,Mixed
+533,United States of America,USA,5,37,Women
+534,United States of America,USA,5,38,Men
+535,United States of America,USA,6,44,Mixed
+536,United States of America,USA,8,61,Women
+537,United States of America,USA,8,60,Men
+538,United States of America 1,USA,15,99,Mixed
+539,United States of America 1,USA,1,3,Women
+540,United States of America 2,USA,1,3,Women
+541,United States of America 2,USA,15,99,Mixed
+542,United States of America 3,USA,1,3,Women
+543,United States of America 4,USA,1,3,Women
+544,ZINGAS Emilea/KOLESNIK Vadym,USA,6,43,Mixed
