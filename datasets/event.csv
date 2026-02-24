@@ -1,123 +1,123 @@
 event_id,sport_id,event_name,gender_category,date,time,event_type,venue_id
-1,Women's Downhill,11:30,02/08/2026,Individual,Women,1,6
-2,Men's Team Combined,10:30,02/09/2026,Team,Men,1,10
-3,Women's Team Combined,10:30,02/10/2026,Team,Women,1,10
-4,Men's Super-G,11:30,02/11/2026,Individual,Men,1,10
-5,Women's Super-G,11:30,02/12/2026,Individual,Women,1,6
-6,Men's Giant Slalom,10:00,02/14/2026,Individual,Men,1,10
-7,Women's Giant Slalom,10:00,02/15/2026,Individual,Women,1,6
-8,Men's Slalom,10:00,02/16/2026,Individual,Men,1,10
-9,Women's slalom,10:00,02/18/2026,Individual,Women,1,6
-10,Mixed 4 X 6 km Relay,14:05,02/08/2026,Team,Mixed,2,7
-11,Men's 20 km Individual,13:30,02/10/2026,Individual,Men,2,7
-12,Women's 15 km Individual,14:00,02/11/2026,Individual,Women,2,7
-13,Men's 10 km Sprint,14:00,02/13/2026,Individual,Men,2,7
-14,Women's 7.5 km Sprint,14:45,02/14/2026,Individual,Women,2,7
-15,Men's 12.5 km Pursuit,11:15,02/15/2026,Individual,Men,2,7
-16,Women's 10 km Pursuit,14:45,02/15/2026,Individual,Women,2,7
-17,Men's 4 X 7.5 km Relay,14:30,02/17/2026,Team,Men,2,7
-18,Women's 4 X 6 km Relay,14:45,02/18/2026,Team,Women,2,7
-19,Men's 15 km Mass Start,14:15,02/20/2026,Individual,Men,2,7
-20,Women's 12.5 km Mass Start,14:15,02/21/2026,Individual,Women,2,7
-21,Women's monobob,10:00,02/15/2026,Individual,Women,3,9
-22,Two-man,10:00,02/16/2026,Team,Men,3,9
-23,Two-woman,18:00,02/20/2026,Team,Women,3,9
-24,Four-man,10:00,02/22/2026,Team,Men,3,9
-25,Women's Skiathlon,13:00,02/07/2026,Individual,Women,4,14
-26,Men's Skiathlon,12:30,02/08/2026,Individual,Men,4,14
-27,Men's Individual Sprint Classical,09:15,02/10/2026,Individual,Men,4,14
-28,Women's Individual Sprint Classical,09:15,02/10/2026,Individual,Women,4,14
-29,Women's 10 km Freestyle,13:00,02/12/2026,Individual,Women,4,14
-30,Men's 10 km Freestyle,11:45,02/13/2026,Individual,Men,4,14
-31,Women's 4 X 7.5 km Relay,12:00,02/14/2026,Team,Women,4,14
-32,Men's 4 X 7.5 km Relay,12:00,02/15/2026,Team,Men,4,14
-33,Women's Team Sprint Freestyle,09:45,02/18/2026,Team,Women,4,14
-34,Men's Team Sprint Freestyle,09:45,02/18/2026,Team,Men,4,14
-35,Men's 50 km Mass Start Classical,11:00,02/21/2026,Individual,Men,4,14
-36,Women's 50 km Mass Start Classical,10:00,02/22/2026,Individual,Women,4,14
-37,Women,10:00,02/04/2026,Team,Women,5,8
-38,Men,10:00,02/04/2026,Team,Men,5,8
-39,Mixed Doubles,10:00,02/04/2026,Team,Mixed,5,8
-40,Men's Singles,19:00,02/13/2026,Individual,Men,6,5
-41,Women's Singles,19:00,02/19/2026,Individual,Women,6,5
-42,Pair Skating,20:00,02/16/2026,Team,Mixed,6,5
-43,Ice Dance,22:05,02/07/2026,Team,Mixed,6,5
-44,Team Event,9:55,02/06/2026,Team,Mixed,6,5
-45,Women's Ski Slopestyle,12:30,02/09/2026,Individual,Women,7,11
-46,Men's ski slopestyle,12:30,02/10/2026,Individual,Men,7,11
-47,Women's Moguls,11:00,02/11/2026,Individual,Women,7,11
-48,Men's Moguls,10:00,02/12/2026,Individual,Men,7,11
-49,Women's Dual Moguls,10:30,02/14/2026,Individual,Women,7,11
-50,Men's Dual Moguls,10:30,02/15/2026,Individual,Men,7,11
-51,Women's Big Air,19:30,02/16/2026,Individual,Women,7,11
-52,Men's Big Air,19:30,02/17/2026,Individual,Men,7,11
-53,Women's Aerials,13:00,02/18/2026,Individual,Women,7,11
-54,Women's Ski Cross,10:00,02/20/2026,Individual,Women,7,11
-55,Men's Aerials,13:30,02/20/2026,Individual,Men,7,11
-56,Men's Ski Halfpipe,19:30,02/20/2026,Individual,Men,7,11
-57,Men's Ski Cross,10:00,02/21/2026,Individual,Men,7,11
-58,Mixed Team Aerials,10:45,02/21/2026,Team,Mixed,7,11
-59,Women's Ski Halfpipe,19:30,02/21/2026,Individual,Women,7,11
-60,Men,10:00,02/05/2026,Team,Men,8,2
-61,Women,10:00,02/05/2026,Team,Women,8,3
-62,Women's Singles,17:00,02/10/2026,Individual,Women,9,9
-63,Men's Singles,17:00,02/08/2026,Individual,Men,9,9
-64,Men's Doubles,17:00,02/11/2026,Team,Men,9,9
-65,women's Doubles,17:00,02/11/2026,Team,Women,9,9
-66,Team Relay,18:30,02/12/2026,Team,Mixed,9,9
-67,Men's individual 10 km Normal Hill,13:45,02/11/2026,Individual,Men,10,13
-68,Men's Team Relay 2 x 7.5 km,14:00,02/19/2026,Team,Men,10,13
-69,Men's Individual 10 km Large Hill,13:45,02/17/2026,Individual,Men,10,13
-70,Mixed Team Relay,11:53,02/10/2026,Team,Mixed,11,5
-71,Women's 500 Metres,20:15,02/12/2026,Individual,Women,11,5
-72,Men's 1000 Metres,20:29,02/12/2026,Individual,Men,11,5
-73,Men's 1500 Metres,21:44,02/14/2026,Individual,Men,11,5
-74,Women's 1000 Metres,11:55,02/16/2026,Individual,Women,11,5
-75,Men's 500 Metres,20:15,02/18/2026,Individual,Men,11,5
-76,Women's 3000 Metre Relay,20:50,02/18/2026,Team,Women,11,5
-77,Women's 1500 Metres,21:00,02/20/2026,Individual,Women,11,5
-78, Men's 5000 Metre Relay,21:17,02/20/2026,Team,Men,11,5
-79,Men's Singles,09:30,02/12/2026,Individual,Men,12,9
-80,Women's Singles,16:00,02/13/2026,Individual,Women,12,9
-81,Mixed Team,18:00,02/15/2026,Team,Mixed,12,9
-82,Women's Normal Hill Individual,18:45,02/07/2026,Individual,Women,13,13
-83,Men's Normal Hill Individual,19:00,02/09/2026,Individual,Men,13,13
-84,Mixed Team Normal Hill,18:45,02/10/2026,Team,Mixed,13,13
-85,Men's Large Hill Individual,18:45,02/14/2026,Individual,Men,13,13
-86,Women's Large Hill Individual,18:45,02/15/2026,Individual,Women,13,13
-87,Men's Large Hill Super Team,19:00,02/16/2026,Team,Men,13,13
-88,Men's Sprint,09:50,02/19/2026,Individual,Men,14,10
-89,Women's Sprint,09:50,02/19/2026,Individual,Women,14,10
-90,Mixed Relay,13:30,02/21/2026,Team,Mixed,14,10
-91,Men's Big Air,19:30,02/05/2026,Individual,Men,15,11
-92,Men's Parallel Giant Slalom,09:30,02/08/2026,Individual,Men,15,11
-93,Women's Parallel Giant slalom,09:30,02/08/2026,Individual,Women,15,11
-94,Women's Big Air,19:30,02/08/2026,Individual,Women,15,11
-95,Men's Snowboard Cross,10:00,02/12/2026,Individual,Men,15,11
-96,Women's Halfpipe,19:30,02/12/2026,Individual,Women,15,11
-97,Women's Snowboard Cross,10:00,02/13/2026,Individual,Women,15,11
-98,Men's Halfpipe,19:30,02/13/2026,Individual,Men,15,11
-99,Mixed Team Snowboard Cross,13:45,02/15/2026,Team,Mixed,15,11
-100,Women's Slopestyle,14:30,02/18/2026,Individual,Women,15,11
-101,Men's Slopestyle,12:30,02/18/2026,Individual,Men,15,11
-102,Women's 3000 Metres,16:00,02/07/2026,Individual,Women,16,4
-103,Men's 5000 Metres,16:00,02/08/2026,Individual,Men,16,4
-104,Women's 1000 Metres,17:30,02/09/2026,Individual,Women,16,4
-105,Men's 1000 Metres,18:30,02/11/2026,Individual,Men,16,4
-106,Women's 5000 Metres,16:30,02/12/2026,Individual,Women,16,4
-107,Men's 10000 Metres,16:00,02/13/2026,Individual,Men,16,4
-108,Men's 500 Metres,16:00,02/14/2026,Individual,Men,16,4
-109,Women's 500 Metres,16:00,02/15/2026,Individual,Women,16,4
-110,Men's Team Pursuit,14:30,02/17/2026,Team,Men,16,4
-111,Women's Team Pursuit,14:30,02/17/2026,Team,Women,16,4
-112,Men's 1500 Metres,16:30,02/19/2026,Individual,Men,16,4
-113,Women's 1500 Metres,16:30,02/20/2026,Individual,Women,16,4
-114,Men's Mass Start,15:00,02/21/2026,Individual,Men,16,4
-115,Women's Mass Start,15:00,02/23/2026,Individual,Women,16,4
-116,Men's downhill,11:30,02/07/2026,Individual,Men,1,10
-117,To be defined,None,None,None,Mixed,1,1
-118,To be defined,None,None,None,Mixed,3,1
-119,To be defined,None,None,None,Mixed,11,1
-120,To be defined,None,None,None,Mixed,2,1
-121,To be defined,None,None,None,Mixed,7,1
-122,To be defined,None,None,None,Mixed,4,1
+1,1,Women's Downhill,Women,02/08/2026,11:30,Individual,6
+2,1,Men's Team Combined,Men,02/09/2026,10:30,Team,10
+3,1,Women's Team Combined,Women,02/10/2026,10:30,Team,10
+4,1,Men's Super-G,Men,02/11/2026,11:30,Individual,10
+5,1,Women's Super-G,Women,02/12/2026,11:30,Individual,6
+6,1,Men's Giant Slalom,Men,02/14/2026,10:00,Individual,10
+7,1,Women's Giant Slalom,Women,02/15/2026,10:00,Individual,6
+8,1,Men's Slalom,Men,02/16/2026,10:00,Individual,10
+9,1,Women's slalom,Women,02/18/2026,10:00,Individual,6
+10,2,Mixed 4 X 6 km Relay,Mixed,02/08/2026,14:05,Team,7
+11,2,Men's 20 km Individual,Men,02/10/2026,13:30,Individual,7
+12,2,Women's 15 km Individual,Women,02/11/2026,14:00,Individual,7
+13,2,Men's 10 km Sprint,Men,02/13/2026,14:00,Individual,7
+14,2,Women's 7.5 km Sprint,Women,02/14/2026,14:45,Individual,7
+15,2,Men's 12.5 km Pursuit,Men,02/15/2026,11:15,Individual,7
+16,2,Women's 10 km Pursuit,Women,02/15/2026,14:45,Individual,7
+17,2,Men's 4 X 7.5 km Relay,Men,02/17/2026,14:30,Team,7
+18,2,Women's 4 X 6 km Relay,Women,02/18/2026,14:45,Team,7
+19,2,Men's 15 km Mass Start,Men,02/20/2026,14:15,Individual,7
+20,2,Women's 12.5 km Mass Start,Women,02/21/2026,14:15,Individual,7
+21,3,Women's monobob,Women,02/15/2026,10:00,Individual,9
+22,3,Two-man,Men,02/16/2026,10:00,Team,9
+23,3,Two-woman,Women,02/20/2026,18:00,Team,9
+24,3,Four-man,Men,02/22/2026,10:00,Team,9
+25,4,Women's Skiathlon,Women,02/07/2026,13:00,Individual,14
+26,4,Men's Skiathlon,Men,02/08/2026,12:30,Individual,14
+27,4,Men's Individual Sprint Classical,Men,02/10/2026,09:15,Individual,14
+28,4,Women's Individual Sprint Classical,Women,02/10/2026,09:15,Individual,14
+29,4,Women's 10 km Freestyle,Women,02/12/2026,13:00,Individual,14
+30,4,Men's 10 km Freestyle,Men,02/13/2026,11:45,Individual,14
+31,4,Women's 4 X 7.5 km Relay,Women,02/14/2026,12:00,Team,14
+32,4,Men's 4 X 7.5 km Relay,Men,02/15/2026,12:00,Team,14
+33,4,Women's Team Sprint Freestyle,Women,02/18/2026,09:45,Team,14
+34,4,Men's Team Sprint Freestyle,Men,02/18/2026,09:45,Team,14
+35,4,Men's 50 km Mass Start Classical,Men,02/21/2026,11:00,Individual,14
+36,4,Women's 50 km Mass Start Classical,Women,02/22/2026,10:00,Individual,14
+37,5,Women,Women,02/04/2026,10:00,Team,8
+38,5,Men,Men,02/04/2026,10:00,Team,8
+39,5,Mixed Doubles,Mixed,02/04/2026,10:00,Team,8
+40,6,Men's Singles,Men,02/13/2026,19:00,Individual,5
+41,6,Women's Singles,Women,02/19/2026,19:00,Individual,5
+42,6,Pair Skating,Mixed,02/16/2026,20:00,Team,5
+43,6,Ice Dance,Mixed,02/07/2026,22:05,Team,5
+44,6,Team Event,Mixed,02/06/2026,9:55,Team,5
+45,7,Women's Ski Slopestyle,Women,02/09/2026,12:30,Individual,11
+46,7,Men's ski slopestyle,Men,02/10/2026,12:30,Individual,11
+47,7,Women's Moguls,Women,02/11/2026,11:00,Individual,11
+48,7,Men's Moguls,Men,02/12/2026,10:00,Individual,11
+49,7,Women's Dual Moguls,Women,02/14/2026,10:30,Individual,11
+50,7,Men's Dual Moguls,Men,02/15/2026,10:30,Individual,11
+51,7,Women's Big Air,Women,02/16/2026,19:30,Individual,11
+52,7,Men's Big Air,Men,02/17/2026,19:30,Individual,11
+53,7,Women's Aerials,Women,02/18/2026,13:00,Individual,11
+54,7,Women's Ski Cross,Women,02/20/2026,10:00,Individual,11
+55,7,Men's Aerials,Men,02/20/2026,13:30,Individual,11
+56,7,Men's Ski Halfpipe,Men,02/20/2026,19:30,Individual,11
+57,7,Men's Ski Cross,Men,02/21/2026,10:00,Individual,11
+58,7,Mixed Team Aerials,Mixed,02/21/2026,10:45,Team,11
+59,7,Women's Ski Halfpipe,Women,02/21/2026,19:30,Individual,11
+60,8,Men,Men,02/05/2026,10:00,Team,2
+61,8,Women,Women,02/05/2026,10:00,Team,3
+62,9,Women's Singles,Women,02/10/2026,17:00,Individual,9
+63,9,Men's Singles,Men,02/08/2026,17:00,Individual,9
+64,9,Men's Doubles,Men,02/11/2026,17:00,Team,9
+65,9,women's Doubles,Women,02/11/2026,17:00,Team,9
+66,9,Team Relay,Mixed,02/12/2026,18:30,Team,9
+67,10,Men's individual 10 km Normal Hill,Men,02/11/2026,13:45,Individual,13
+68,10,Men's Team Relay 2 x 7.5 km,Men,02/19/2026,14:00,Team,13
+69,10,Men's Individual 10 km Large Hill,Men,02/17/2026,13:45,Individual,13
+70,11,Mixed Team Relay,Mixed,02/10/2026,11:53,Team,5
+71,11,Women's 500 Metres,Women,02/12/2026,20:15,Individual,5
+72,11,Men's 1000 Metres,Men,02/12/2026,20:29,Individual,5
+73,11,Men's 1500 Metres,Men,02/14/2026,21:44,Individual,5
+74,11,Women's 1000 Metres,Women,02/16/2026,11:55,Individual,5
+75,11,Men's 500 Metres,Men,02/18/2026,20:15,Individual,5
+76,11,Women's 3000 Metre Relay,Women,02/18/2026,20:50,Team,5
+77,11,Women's 1500 Metres,Women,02/20/2026,21:00,Individual,5
+78,11, Men's 5000 Metre Relay,Men,02/20/2026,21:17,Team,5
+79,12,Men's Singles,Men,02/12/2026,09:30,Individual,9
+80,12,Women's Singles,Women,02/13/2026,16:00,Individual,9
+81,12,Mixed Team,Mixed,02/15/2026,18:00,Team,9
+82,13,Women's Normal Hill Individual,Women,02/07/2026,18:45,Individual,13
+83,13,Men's Normal Hill Individual,Men,02/09/2026,19:00,Individual,13
+84,13,Mixed Team Normal Hill,Mixed,02/10/2026,18:45,Team,13
+85,13,Men's Large Hill Individual,Men,02/14/2026,18:45,Individual,13
+86,13,Women's Large Hill Individual,Women,02/15/2026,18:45,Individual,13
+87,13,Men's Large Hill Super Team,Men,02/16/2026,19:00,Team,13
+88,14,Men's Sprint,Men,02/19/2026,09:50,Individual,10
+89,14,Women's Sprint,Women,02/19/2026,09:50,Individual,10
+90,14,Mixed Relay,Mixed,02/21/2026,13:30,Team,10
+91,15,Men's Big Air,Men,02/05/2026,19:30,Individual,11
+92,15,Men's Parallel Giant Slalom,Men,02/08/2026,09:30,Individual,11
+93,15,Women's Parallel Giant slalom,Women,02/08/2026,09:30,Individual,11
+94,15,Women's Big Air,Women,02/08/2026,19:30,Individual,11
+95,15,Men's Snowboard Cross,Men,02/12/2026,10:00,Individual,11
+96,15,Women's Halfpipe,Women,02/12/2026,19:30,Individual,11
+97,15,Women's Snowboard Cross,Women,02/13/2026,10:00,Individual,11
+98,15,Men's Halfpipe,Men,02/13/2026,19:30,Individual,11
+99,15,Mixed Team Snowboard Cross,Mixed,02/15/2026,13:45,Team,11
+100,15,Women's Slopestyle,Women,02/18/2026,14:30,Individual,11
+101,15,Men's Slopestyle,Men,02/18/2026,12:30,Individual,11
+102,16,Women's 3000 Metres,Women,02/07/2026,16:00,Individual,4
+103,16,Men's 5000 Metres,Men,02/08/2026,16:00,Individual,4
+104,16,Women's 1000 Metres,Women,02/09/2026,17:30,Individual,4
+105,16,Men's 1000 Metres,Men,02/11/2026,18:30,Individual,4
+106,16,Women's 5000 Metres,Women,02/12/2026,16:30,Individual,4
+107,16,Men's 10000 Metres,Men,02/13/2026,16:00,Individual,4
+108,16,Men's 500 Metres,Men,02/14/2026,16:00,Individual,4
+109,16,Women's 500 Metres,Women,02/15/2026,16:00,Individual,4
+110,16,Men's Team Pursuit,Men,02/17/2026,14:30,Team,4
+111,16,Women's Team Pursuit,Women,02/17/2026,14:30,Team,4
+112,16,Men's 1500 Metres,Men,02/19/2026,16:30,Individual,4
+113,16,Women's 1500 Metres,Women,02/20/2026,16:30,Individual,4
+114,16,Men's Mass Start,Men,02/21/2026,15:00,Individual,4
+115,16,Women's Mass Start,Women,02/23/2026,15:00,Individual,4
+116,1,Men's downhill,Men,02/07/2026,11:30,Individual,10
+117,1,To be defined,Mixed,None,None,None,1
+118,3,To be defined,Mixed,None,None,None,1
+119,11,To be defined,Mixed,None,None,None,1
+120,2,To be defined,Mixed,None,None,None,1
+121,7,To be defined,Mixed,None,None,None,1
+122,4,To be defined,Mixed,None,None,None,1
