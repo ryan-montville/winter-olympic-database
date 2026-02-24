@@ -1,0 +1,103 @@
+date,time,sport,event,gender,country_code,team_name,position
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,FRA,France,1
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,ITA,Italy,2
+02/08/2026,7:05,Biathlon,Mixed Relay 4 X 6km (M + W),Mixed,GER,Germany,3
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,USA,United States Men,1
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,JPN,Japan Men,2
+02/08/2026,14:55,Figure Skating,Team Event - Men's Single Skating - FS,Men,ITA,Italy Men,3
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,SUI,Switzerland Men 1,1
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,AUT,Australia Men 1,2
+02/09/2026,7:00,Alpine Skiing,Men's Team Combined Slalom,Men,SUI,Switzerland Men 2,2
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,ITA,Italy,1
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,CAN,Canada,2
+02/10/2026,6:10,Short Track Speed Skating,Mixed Team Relay,Mixed,BEL,Belgium,2
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,AUT,Austria Women 2,1
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,GER,Germany Women,2
+02/10/2026,7:00,Alpine Skiing,Women's Team Combined Slalom,Women,USA,United States 2,3
+02/10/2026,7:05,Curling,Mixed Doubles,Mixed,ITA,Italy,3
+02/10/2026,11:05,Curling,Mixed Doubles,Mixed,SWE,Sweden,1
+02/10/2026,11:05,Curling,Mixed Doubles,Mixed,USA,United States,2
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,SLO,Slovenia,1
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,NOR,Norway,2
+02/10/2026,13:00,Ski Jumping,Mixed Final Round,Mixed,JPN,Japan,3
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,ITA,VOETTER A/OBERHOFER M,1
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,GER,EITBERGER D/MATSCHINA M,2
+02/11/2026,11:53,Luge,Women's Doubles Run 2,Women,AUT,EGLE S/KIPP LM,3
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,FRA,FOURNIER BEAUDRY L/CIZERON G,1
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,USA,CHOCK M/BATES E,2
+02/11/2026,12:30,Figure Skating,Ice Dance - Free Dance,Mixed,CAN,GILLES P/POIRIER P,3
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,ITA,RIEDER E/KAINZWALDNER S,1
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,AUT,STEU T/KINDL W,2
+02/11/2026,12:44,Luge,Men's Doubles Run 2,Men,GER,WENDL T/ARLT T,3
+02/12/2026,11:30,Luge,Team Relay,Mixed,GER,Germany,1
+02/12/2026,11:30,Luge,Team Relay,Mixed,AUT,Austria,2
+02/12/2026,11:30,Luge,Team Relay,Mixed,ITA,Italy,3
+02/14/2026,05:00,Cross-Country Skiing,Women's 4 x 7.5km Relay,Women,NOR,Norway,1
+02/14/2026,05:00,Cross-Country Skiing,Women's 4 x 7.5km Relay,Women,SWE,Sweden,2
+02/14/2026,05:00,Cross-Country Skiing,Women's 4 x 7.5km Relay,Women,FIN,Finland,3
+02/15/2026,05:00,Cross-Country Skiing,Men's 4 X 7.5 km Relay,Men,NOR,Norway,1
+02/15/2026,05:00,Cross-Country Skiing,Men's 4 X 7.5 km Relay,Men,FRA,France,2
+02/15/2026,05:00,Cross-Country Skiing,Men's 4 X 7.5 km Relay,Men,ITA,Italy,3
+02/15/2026,07:40,Snowboard,Mixed Team Snowboard Cross Big,Mixed,GBR,Great Britain 1,1
+02/15/2026,07:40,Snowboard,Mixed Team Snowboard Cross Big,Mixed,ITA,Italy 1,2
+02/15/2026,07:40,Snowboard,Mixed Team Snowboard Cross Big,Mixed,FRA,France 2,3
+02/15/2026,11:20,Skeleton,Mixed Team,Mixed,GBR,STOECKER/WESTON,1
+02/15/2026,11:20,Skeleton,Mixed Team,Mixed,GER,KREHER/JUNGK,2
+02/15/2026,11:20,Skeleton,Mixed Team,Mixed,GER,PFEIFER/GROTHEER,3
+02/16/2026,12:50,Ski Jumping,Men's Super Team,Men,AUT,Austria,1
+02/16/2026,12:50,Ski Jumping,Men's Super Team,Men,POL,Poland,2
+02/16/2026,12:50,Ski Jumping,Men's Super Team,Men,NOR,Norway,3
+02/16/2026,13:00,Figure Skating,Pair Skating - Free Skating,Mixed,JPN,MIURA/KIHARA,1
+02/16/2026,13:00,Figure Skating,Pair Skating - Free Skating,Mixed,GEO,METELKINA/BERULAVA,2
+02/16/2026,13:00,Figure Skating,Pair Skating - Free Skating,Mixed,GER,HASE/VOLODIN,3
+02/17/2026,07:30,Biathlon,Men's 4 X 7 km Relay,Men,FRA,France,1
+02/17/2026,07:30,Biathlon,Men's 4 X 7 km Relay,Men,NOR,Norway,2
+02/17/2026,07:30,Biathlon,Men's 4 X 7 km Relay,Men,SWE,Sweden,3
+02/17/2026,09:22,Speed Skating,Men's Team Pursuit,Men,ITA,ITaly,1
+02/17/2026,09:22,Speed Skating,Men's Team Pursuit,Men,USA,United States,2
+02/17/2026,09:22,Speed Skating,Men's Team Pursuit,Men,CHN,China,3
+02/17/2026,09:47,Speed Skating,Women's Team Pursuit,Women,CAN,Canada,1
+02/17/2026,09:47,Speed Skating,Women's Team Pursuit,Women,NED,Netherlands,2
+02/17/2026,09:47,Speed Skating,Women's Team Pursuit,Women,JPN,Japan,3
+02/17/2026,14:05,Bobsleigh,Two-man,Men,GER,LOCHNERJ/FLEISCHHAUER G,1
+02/17/2026,14:05,Bobsleigh,Two-man,Men,GER,FRIEDRICH F/SCHULLER A,2
+02/17/2026,14:05,Bobsleigh,Two-man,Men,GER,AMMOUR A/SCHALLER A,3
+02/18/2026,04:45,Cross-Country Skiing,Women's Team Sprint Free,Women,SWE,Sweden,1
+02/18/2026,04:45,Cross-Country Skiing,Women's Team Sprint Free,Women,SUI,Switzerland,2
+02/18/2026,04:45,Cross-Country Skiing,Women's Team Sprint Free,Women,GER,Germany,3
+02/18/2026,05:15,Cross-Country Skiing,Men's Team Sprint Free,Men,NOR,Norway,1
+02/18/2026,05:15,Cross-Country Skiing,Men's Team Sprint Free,Men,USA,United States,2
+02/18/2026,05:15,Cross-Country Skiing,Men's Team Sprint Free,Men,ITA,Italy,3
+02/18/2026,07:45,Biathlon,Women's 4 X 6 km Relay,Women,FRA,France,1
+02/18/2026,07:45,Biathlon,Women's 4 X 6 km Relay,Women,SWE,Sweden,2
+02/18/2026,07:45,Biathlon,Women's 4 X 6 km Relay,Women,NOR,Norway,3
+02/18/2026,14:00,Short Track Speed Skating,Women's 3000 m Relay,Women,KOR,Korea,1
+02/18/2026,14:00,Short Track Speed Skating,Women's 3000 m Relay,Women,ITA,Italy,2
+02/18/2026,14:00,Short Track Speed Skating,Women's 3000 m Relay,Women,CAN,Canada,3
+02/19/2026,12:10,Ice Hockey,Women,Women,SWE,Switzerland,3
+02/19/2026,12:10,Ice Hockey,Women,Women,USA,United States,1
+02/19/2026,12:10,Ice Hockey,Women,Women,CAN,Canada,2
+02/19/2026,07:00,Nordic Combined,Team Sprint,Men,NOR,Norway,1
+02/19/2026,07:00,Nordic Combined,Team Sprint,Men,FIN,Finland,2
+02/19/2026,07:00,Nordic Combined,Team Sprint,Men,AUT,Austria,3
+02/20/2026,12:05,Curling,Men,Men,SUI,Switzerland,3
+02/21/2026,04:45,Freestyle Skiing,Mixed Team Aerials,Mixed,USA,United States,1
+02/21/2026,04:45,Freestyle Skiing,Mixed Team Aerials,Mixed,SUI,Switzerland,2
+02/21/2026,04:45,Freestyle Skiing,Mixed Team Aerials,Mixed,CHN,China,3
+02/21/2026,06:30,Ski Mountaineering,Mixed Relay,Mixed,FRA,France,1
+02/21/2026,06:30,Ski Mountaineering,Mixed Relay,Mixed,SUI,Switzerland,2
+02/21/2026,06:30,Ski Mountaineering,Mixed Relay,Mixed,ESP,Spain,3
+02/21/2026,07:05,Curling,Women,Women,CAN,Canada,3
+02/21/2026,12:05,Curling,Men,Men,CAN,Canada,1
+02/21/2026,12:05,Curling,Men,Men,GBR,Great Britain,2
+02/21/2026,13:40,Ice Hockey,Men,Men,FIN,Finland,3
+02/21/2026,14:05,Bobsleigh,Two-woman,Women,GER,NOLTE L,1
+02/21/2026,14:05,Bobsleigh,Two-woman,Women,GER,BUCKWITZ L,2
+02/21/2026,14:05,Bobsleigh,Two-woman,Women,USA,ARMBRUSTER HUMPHR,3
+02/22/2026,04:05,Curling,Women,Women,SWE,Sweden,1
+02/22/2026,04:05,Curling,Women,Women,SUI,Switzerlan,2
+02/22/2026,05:15,Bobsleigh,Four-man,Men,GER,LOCHNER J ,1
+02/22/2026,05:15,Bobsleigh,Four-man,Men,GER,FRIEDRICH F ,2
+02/22/2026,05:15,Bobsleigh,Four-man,Men,SUI,VOGT M ,3
+02/22/2026,07:10,Ice Hockey,Men,Men,USA,United States,1
+02/22/2026,07:10,Ice Hockey,Men,Men,CAN,Canada,2

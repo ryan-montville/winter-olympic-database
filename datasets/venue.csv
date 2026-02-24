@@ -1,0 +1,16 @@
+venue_id,venue_name,location,venue_type,capacity
+1,Milano San Siro Olympic Stadium,Milan,indoor,75817
+2,Milano Santa Giulia Ice Hockey Arena,Milan,indoor,12000
+3,Milano Rho Ice Hockey Arena,Milan,indoor,6000
+4,Milano Speed Skating Stadium,Milan,indoor,7500
+5,Milano Ice Skating Arena,Milan,indoor,11500
+6,Tofane Alpine Skiing Centre,Cortina d'Ampezzo,outdoor,7000
+7,Anterselva Biathlon Arena,Cortina d'Ampezzo,outdoor,19000
+8,Cortina Curling Olympic Stadium,Cortina d'Ampezzo,indoor,3000
+9,Cortina Sliding Centre,Cortina d'Ampezzo,outdoor,5500
+10,Stelvio Ski Centre,Valtellina,outdoor,7000
+11,Livigno Snow Park,Valtellina,outdoor,2000
+12,Livigno Aerials & Moguls Park,Valtellina,outdoor,8400
+13,Predazzo Ski Jumping Stadium,Val di Fiemme,outdoor,5000
+14,Tesero Cross-Country Skiing Stadium,Val di Fiemme,outdoor,15000
+15,Verona Olympic Arena,Verona,outdoor,15000

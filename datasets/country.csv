@@ -1,0 +1,94 @@
+country_code, alpha_2, country_name, continent
+ALB,AL,Albania,Europe
+AND,AD,Andorra,Europe
+ARG,AR,Argentina,South America
+ARM,AM,Armenia,Asia
+AUS,AU,Australia,Oceania
+AUT,AT,Austria,Europe
+AZE,AZ,Azerbaijan,Asia
+BEL,BE,Belgium,Europe
+BEN,BJ,Benin,Africa
+BOL,BO,Bolivia,South America
+BIH,BA,Bosnia and Herzegovina,Europe
+BRA,BR,Brazil,South America
+BUL,BG,Bulgaria,Europe
+CAN,CA,Canada,North America
+CHI,CL,Chile,South America
+CHN,CN,China,Asia
+TPE,CT,Chinese Taipei,Asia
+COL,CO,Colombia,South America
+CRO,HR,Croatia,Europe
+CYP,CY,Cyprus,Asia
+CZE,CZ,Czech Republic,Europe
+DEN,DK,Denmark,Europe
+ECU,EC,Ecuador,South America
+ERI,ER,Eritrea,Africa
+EST,EE,Estonia,Europe
+FIN,FI,Finland,Europe
+FRA,FR,France,Europe
+GEO,GE,Georgia,Asia
+GER,DE,Germany,Europe
+GBR,GB,Great Britain,Europe
+GRE,GR,Greece,Europe
+GBS,GW,Guinea-Bissau,Africa
+HAI,HT,Haiti,North America
+HKG,HK,Hong Kong,Asia
+HUN,HU,Hungary,Europe
+ISL,IS,Iceland,Europe
+IND,IN,India,Asia
+AIN,IA,Individual Neutral Athletes,Europe
+IRI,IR,Iran,Asia
+IRL,IE,Ireland,Europe
+ISR,IL,Israel,Asia
+ITA,IT,Italy,Europe
+JAM,JM,Jamaica,North America
+JPN,JP,Japan,Asia
+KAZ,KZ,Kazakhstan,Asia
+KEN,KE,Kenya,Africa
+KOS,XK,Kosovo,Europe
+KGZ,KZ,Kyrgyzstan,Asia
+LAT,LV,Latvia,Europe
+LBN,LB,Lebanon,Asia
+LIE,LI,Liechtenstein,Europe
+LTU,LT,Lithuania,Europe
+LUX,LU,Luxembourg,Europe
+MAD,MG,Madagascar,Africa
+MAS,MY,Malaysia,Asia
+MLT,MT,Malta,Europe
+MEX,MX,Mexico,North America
+MDA,MD,Moldova,Europe
+MON,MC,Monaco,Europe
+MGL,MN,Mongolia,Asia
+MNE,ME,Montenegro,Europe
+MAR,MA,Morocco,Africa
+NED,NL,Netherlands,Europe
+NZL,NZ,New Zealand,Oceania
+NGR,NG,Nigeria,Africa
+MKD,MK,North Macedonia,Europe
+NOR,NO,Norway,Europe
+PAK,PK,Pakistan,Asia
+PHI,PH,Philippines,Asia
+POL,PL,Poland,Europe
+POR,PT,Portugal,Europe
+PUR,PR,Puerto Rico,North America
+ROU,RO,Romania,Europe
+SMR,SM,San Marino,Europe
+KSA,SA,Saudi Arabia,Asia
+SRB,RS,Serbia,Europe
+SGP,SG,Singapore,Asia
+SVK,SK,Slovakia,Europe
+SLO,SI,Slovenia,Europe
+RSA,ZA,South Africa,Africa
+KOR,SK,South Korea,Asia
+ESP,ES,Spain,Europe
+SWE,SE,Sweden,Europe
+SUI,Ch,Switzerland,Europe
+THA,TH,Thailand,Asia
+TTO,TT,Trinidad and Tobago,North America
+TUR,TR,Turkey,Asia
+UKR,UA,Ukraine,Europe
+UAE,AE,United Arab Emirates,Asia
+USA,US,United States,North America
+URU,UY,Uruguay,South America
+UZB,UZ,Uzbekistan,Asia
+VEN,VE,Venezuela,South America

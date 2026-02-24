@@ -1,0 +1,53 @@
+coach_id,team_id,team_name,event_type
+1,275,Italy,Team
+2,125,Czechia,Team
+3,460,Switzerland,Team
+4,67,Canada,Team
+5,461,Switzerland,Team
+6,464,Switzerland,Team
+7,273,Italy,Team
+8,309,Japan,Team
+9,141,Denmark,Team
+10,243,Great Britain,Team
+11,271,Italy,Team
+11,272,Italy,Team
+12,244,Great Britain,Team
+13,447,Sweden,Team
+14,451,Sweden,Team
+15,334,Republic of Korea,Team
+16,307,Japan,Team
+17,276,Italy,Team
+18,212,Germany,Team
+19,386,Norway,Team
+20,154,Finland,Team
+21,452,Sweden,Team
+22,387,Norway,Team
+22,386,Norway,Team
+23,446,Sweden,Team
+24,123,Czechia,Team
+25,213,Germany,Team
+26,534,United States of America,Team
+27,465,Switzerland,Team
+28,422,Slovakia,Team
+29,533,United States of America,Team
+29,532,United States of America,Team
+30,245,Great Britain,Team
+31,153,Finland,Team
+32,65,Canada,Team
+33,459,Switzerland,Team
+34,450,Sweden,Team
+35,335,Republic of Korea,Team
+36,124,Czechia,Team
+37,68,Canada,Team
+38,126,Czechia,Team
+39,142,Denmark,Team
+40,209,Germany,Team
+42,537,United States of America,Team
+43,101,People's Republic of China,Team
+43,102,People's Republic of China,Team
+44,169,France,Team
+45,170,France,Team
+46,347,Latvia,Team
+47,146,Estonia,Team
+48,63,Canada,Team
+49,536,United States of America,Team
