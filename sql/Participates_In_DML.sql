@@ -1,4 +1,4 @@
-INSERT INT Participates_In (athlete_id, event_id, ranking) VALUES
+INSERT INTO Participates_In (athlete_id, event_id, ranking) VALUES
 (1, 28, NULL),
 (3, 83, NULL),
 (5, 117, NULL),

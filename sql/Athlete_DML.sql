@@ -663,7 +663,7 @@ INSERT INTO Athlete (athlete_id, athlete_name, gender, date_of_birth, country_co
 (662, 'FIRESTONE Jared', 'M', '1990/03/30', 'ISR'),
 (663, 'FISCHER Florian', 'M', '1981/08/4', 'GER'),
 (664, 'FISCHER Jana', 'F', '1999/05/8', 'GER'),
-(665, 'FISCHER Lea', 'F', '1998/04/31', 'SUI'),
+(665, 'FISCHER Lea', 'F', '1998/04/30', 'SUI'),
 (666, 'FISCHNALLER Dominik', 'M', '1993/02/20', 'ITA'),
 (667, 'FISCHNALLER Emily', 'F', '1993/03/16', 'USA'),
 (668, 'FISCHNALLER Roland', 'M', '1980/09/19', 'ITA'),
