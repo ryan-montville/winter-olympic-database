@@ -12,6 +12,7 @@
 4) [ER Diagram Uncaptured Constraints](uncaptured)
 5) [Relational Schema with Referential Integrity](#schema)
 6) [Relational Table Details](#rtd)
+7) [Phase 2 code](#ptc)
 
 <a id="intro"></a>
 
@@ -174,4 +175,10 @@ Primary keys have been underlined. Tables that have multiple attributes underlin
 | Team_Member | athlete_id<br>team_id | Unique ID of athlete who is member of team<br>Unique ID of team athlete belongs to |
 
 
+<a id="ptc"></a>
+
+## Phase 2 Code
+To gather the data for our database we used python to webscrape and clean the data from the [official Olympic website](https://www.olympics.com/en/milano-cortina-2026/schedule). You can view our python code [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/python). You can view the resulting csv files [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/datasets). You can view our formal DDL/DML sql code used to create the database [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/sql).
+
+We were each tasked with creating a non-trivial query. Our 3 queries are:
 

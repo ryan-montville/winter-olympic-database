@@ -53,7 +53,8 @@ event_type VARCHAR(50),
 gender_category VARCHAR(20),
 venue_id INT,
 sport_id INT,
-FOREIGN KEY (venue_id) REFERENCES Venue(venue_id)
+FOREIGN KEY (venue_id) REFERENCES Venue(venue_id),
+CONSTRAINT fk_event_sport FOREIGN KEY (sport_id) REFERENCES Sport(sport_id)
 );
 
 CREATE TABLE Coach ( 
