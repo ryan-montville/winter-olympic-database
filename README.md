@@ -12,7 +12,8 @@
 4) [ER Diagram Uncaptured Constraints](uncaptured)
 5) [Relational Schema with Referential Integrity](#schema)
 6) [Relational Table Details](#rtd)
-7) [Phase 2 code](#ptc)
+7) [Data collection](#ptc)
+8) [Individual Non-trivial Queries](#intq)
 
 <a id="intro"></a>
 
@@ -177,8 +178,165 @@ Primary keys have been underlined. Tables that have multiple attributes underlin
 
 <a id="ptc"></a>
 
-## Phase 2 Code
+## Data Collection
 To gather the data for our database we used python to webscrape and clean the data from the [official Olympic website](https://www.olympics.com/en/milano-cortina-2026/schedule). You can view our python code [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/python). You can view the resulting csv files [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/datasets). You can view our formal DDL/DML sql code used to create the database [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/sql).
 
-We were each tasked with creating a non-trivial query. Our 3 queries are:
+<a id="intq"></a>
 
+## Individual Non-trivial Queries
+We were each tasked with writing a non-trivial query for our database
+
+### Query 1: Top Performing Countries by Medal Count and Unique Medalists
+**Output Schema**: country_code, country_name, continent, gold_medals, unique_medalist
+<br>**Query Description**:
+* This query identifies the top-performing countries in terms of both total medal counts and the diversity of their
+medal-winning athletes.
+* This query connects three tables - Country, Athlete and Participates_In using correlated subqueries to count gold,
+silver and bronze medals separately for each country
+* Uses four subqueries in the SELECT to calculate gold medals (ranking = 1), silver medals (ranking = 2), bronze
+medals (ranking = 3) and unique medalists (COUNT DISTINCT) per country
+* The HAVING clause only shows countries where the number of unique medal winning athletes is more than 5
+ensuring only strong performing countries appear in the results
+* Results are ordered by unique medalists DESC so countries with the most different athletes winning medals appear
+first and limited to top 15 countries
+* The final results are sorted by unique medalists in descending order and capped at 15 countries, ensuring the output
+highlights nations with the strongest and most well-rounded athletic performances.
+```SELECT c.country_code, c.country_name, c.continent,
+(SELECT COUNT(p1_gold.ranking)
+FROM Participates_In p1_gold
+JOIN Athlete a1_gold ON p1_gold.athlete_id = a1_gold.athlete_id
+WHERE a1_gold.country_code = c.country_code
+AND p1_gold.ranking = 1) AS gold_medals,
+(SELECT COUNT(p2_silver.ranking)
+FROM Participates_In p2_silver
+JOIN Athlete a2_silver ON p2_silver.athlete_id = a2_silver.athlete_id
+WHERE a2_silver.country_code = c.country_code
+AND p2_silver.ranking = 2) AS silver_medals,
+(SELECT COUNT(p3_bronze.ranking)
+FROM Participates_In p3_bronze
+JOIN Athlete a3_bronze ON p3_bronze.athlete_id = a3_bronze.athlete_id
+WHERE a3_bronze.country_code = c.country_code
+AND p3_bronze.ranking = 3) AS bronze_medals,
+(SELECT COUNT(DISTINCT p_unique.athlete_id)
+FROM Participates_In p_unique
+JOIN Athlete a_unique ON p_unique.athlete_id = a_unique.athlete_id
+WHERE a_unique.country_code = c.country_code
+AND p_unique.ranking IN (1, 2, 3)) AS unique_medalists
+FROM Country c
+GROUP BY c.country_code, c.country_name, c.continent
+ORDER BY unique_medalists DESC
+LIMIT 15;
+```
+
+| country_code | country_name | continent | gold_medals | silver_medals | bronze_medals | unique_medalists |
+| ------------ | ------------ | --------- | ----------- | ------------- | ------------- | ---------------- |
+| NOR | Norway | Europe | 14 | 10 | 9 | 20| 
+| USA | United States | North America | 9 | 8 | 7 | 20 |
+| ITA | Italy | Europe | 6 | 3 | 9 | 16 |
+| JPN | Japan | Asia | 4 | 7 | 10 | 16 |
+| SUI | Switzerland | Europe | 5 | 4 | 5 | 11 |
+| NED | Netherlands | Europe | 9 | 6 | 3 | 11 |
+| FRA | France | Europe | 3 | 8 | 5 | 11 |
+| AUT | Austria | Europe | 3 | 5 | 3 | 10 |
+| GER | Germany | Europe | 4 | 4 | 2 | 10 |
+| CAN | Canada | North America | 3 | 4 | 6 | 9 |
+| CHN | China | Asia | 5 | 4 | 4 | 9 |
+| SWE | Sweden | Europe | 5 | 4 | 3 | 9 |
+| KOR | South Korea | Asia | 2 | 3 | 3 | 7 |
+| AUS | Australia | Oceania | 3 | 2 | 1 | 6 |
+| CZE | Czech Republic | Europe | 2 | 2 | 1 | 4 |
+
+### Query 2: Athete Age Gap By Sport
+**Output Schema**: sport_name, youngest_athlete_dob, oldest_athlete_dob, difference_in_years
+<br>**Query Description**: This query first makes a list of athletes' date of birth and sport, then finds the youngest and oldest athlete in each sport,
+and calculates the difference in years. It groups the results by sport and orders by the largest difference in years between
+the youngest and oldest athletes in the given sport. The reason why the query excluded event_ids 117, 118, 119, 121,
+and 122 is because as of the time of data collection from the Olympic website, there were athletes that didn’t have any
+events they were participating in, just listed as “To Be Determined”. To build a complete database, these athletes were
+added, but we created “To Be Determined” events.
+```SELECT
+sport_name,
+MAX(date_of_birth) AS youngest_athlete_dob,
+MIN(date_of_birth) AS oldest_athlete_dob,
+(MAX(date_of_birth) - MIN(date_of_birth))/365 AS difference_in_years
+FROM (
+SELECT S.sport_id, S.sport_name, A.date_of_birth
+FROM Athlete A
+JOIN Participates_In PI ON PI.athlete_id = A.athlete_id
+JOIN Event E ON E.event_id = PI.event_id
+JOIN Sport S ON S.sport_id = E.sport_id
+WHERE PI.event_id NOT IN (117, 118, 119, 121, 122)
+UNION ALL
+SELECT S.sport_id, S.sport_name, A.date_of_birth
+FROM Athlete A
+JOIN Team_Member TM ON TM.athlete_id = A.athlete_id
+JOIN Competes_In CI ON CI.team_id = TM.team_id
+JOIN Event E ON E.event_id = CI.event_id
+JOIN Sport S ON S.sport_id = E.sport_id
+WHERE CI.event_id NOT IN (117, 118, 119, 121, 122)
+) AS subquery
+GROUP BY sport_id, sport_name
+ORDER BY difference_in_years DESC;
+```
+
+| sport_name | youngest_athlete_dob | oldest_athlete_dob | difference_in_years |
+| ---------- | -------------------- | ------------------ | ------------------- |
+| Snowboard | 2010-10-13 | 1973-07-07 | 37 |
+| Curling | 2006-11-02 | 1971-03-31 | 35 |
+| Alpine Skiing | 2009-05-28 | 1979-02-19 | 30 |
+| Cross-Country Skiing | 2009-07-25 | 1979-07-10 | 30 |
+| Freestyle Skiing | 2010-05-01 | 1980-08-06 | 29 |
+| Bobsleigh | 2007-08-16 | 1979-03-13 | 28 |
+| Biathlon | 2009-04-21 | 1983-02-23 | 26 |
+| Luge | 2007-09-04 | 1981-06-28 | 26 |
+| Speed Skating | 2007-12-06 | 1983-05-26 | 24 |
+| Figure Skating | 2008-04-27 | 1983-06-22 | 24 |
+| Ice Hockey | 2009-02-18 | 1985-03-06 | 23 |
+| Skeleton | 2008-01-28 | 1984-04-13 | 23 |
+| Nordic Combined | 2009-10-08 | 1988-05-26 | 21 |
+| Ski Mountaineering | 2006-09-10 | 1985-09-09 | 21 |
+| Ski Jumping | 2009-04-13 | 1987-05-25 | 21 |
+| Short Track Speed Skating | 2007-12-23 | 1990-04-14 | 17 |
+
+### Query 3: Top Venues by Number of Events and Participating Teams
+**Output Schema**: venue_id, venue_name, location, total_events, total_teams
+<br>**Query Description**: This query connects the Venue, Event, and Competes_In tables to find which venues host the most activity. It counts
+how many events are held at each venue and how many distinct teams compete in those events. The results are grouped
+by venue and ordered from the busiest venue to the least busy. This helps identify the most active venues in the
+database.
+
+```SELECT v.venue_id, v.venue_name, v.location,
+COUNT(DISTINCT e.event_id) AS total_events,
+(
+SELECT COUNT(DISTINCT c.team_id)
+FROM Competes_In c
+WHERE c.event_id IN (
+SELECT e2.event_id
+FROM Event e2
+WHERE e2.venue_id = v.venue_id
+AND e2.event_id NOT IN (117,118,119,121,122)
+)
+) AS total_teams
+FROM Venue v, Event e
+WHERE v.venue_id = e.venue_id
+AND e.event_id NOT IN (117,118,119,121,122)
+GROUP BY v.venue_id, v.venue_name, v.location
+HAVING COUNT(DISTINCT e.event_id) > 0
+ORDER BY total_events DESC;
+```
+
+| venue_id | venue_name | location | total_events | total_teams |
+| -------- | ---------- | -------- | ------------ | ----------- |
+| 11 | Livigno Snow Park | Valtellina | 26 | 23 |
+| 4 | Milano Speed Skating Stadium | Milan | 14 | 16 |
+| 5 | Milano Ice Skating Arena | Milan | 14 | 71 |
+| 9 | Cortina Sliding Centre | Cortina d'Ampezzo | 12 | 131 |
+| 14 | Tesero Cross-Country Skiing Stadium | Val di Fiemme | 12 | 89 |
+| 7 | Anterselva Biathlon Arena | Cortina d'Ampezzo | 11 | 61 |
+| 10 | Stelvio Ski Centre | Valtellina | 9 | 61 |
+| 13 | Predazzo Ski Jumping Stadium | Val di Fiemme | 9 | 43 |
+| 6 | Tofane Alpine Skiing Centre | Cortina d'Ampezzo | 4 | 0 |
+| 8 | Cortina Curling Olympic Stadium | Cortina d'Ampezzo | 3 | 30 |
+| 1 | Milano San Siro Olympic Stadium | Milan | 1 | 0 |
+| 3 | Milano Rho Ice Hockey Arena | Milan | 1 | 10 |
+| 2 | Milano Santa Giulia Ice Hockey Arena | Milan | 1 | 12 |
