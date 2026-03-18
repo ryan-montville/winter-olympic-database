@@ -77,7 +77,7 @@ may host zero to many events, and an event must be held at exactly one venue.
 
 VII. Events are the individual competitions that take place during the Olympic Games. Each Event has a unique
 event identification number (event_id), an event name (event_name), an event time (event_time), an event date
-(event_date), a round type (round_type) indicating Qualifier, Semifinal, or Final, an event type (event_type)
+(event_date), an event type (event_type) 
 designating Individual or Team competition, a gender category (gender_category) for Men, Women, or Mixed, a
 sport identification number (sport_id) indicating which sport the event belongs to, and a venue identification
 number (venue_id) indicating where the event is held. An event must have at least two participants (either
@@ -128,7 +128,7 @@ Sport (sport_id, sport_name, description)
 
 Venue (venue_id, venue_name, location, venue_type, capacity)
 
-Event(event_id, event_name, event_time, event_date, round_type, event_type, gender_category, sport_id,
+Event(event_id, event_name, event_time, event_date, event_type, gender_category, sport_id,
 venue_id)
 - foreign key (sport_id) references Sport (sport_id)
 - foreign key (venue_id) references Venue (venue_id)
