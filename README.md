@@ -254,7 +254,8 @@ the youngest and oldest athletes in the given sport. The reason why the query ex
 and 122 is because as of the time of data collection from the Olympic website, there were athletes that didn’t have any
 events they were participating in, just listed as “To Be Determined”. To build a complete database, these athletes were
 added, but we created “To Be Determined” events.
-```SELECT
+```
+SELECT
 sport_name,
 MAX(date_of_birth) AS youngest_athlete_dob,
 MIN(date_of_birth) AS oldest_athlete_dob,
