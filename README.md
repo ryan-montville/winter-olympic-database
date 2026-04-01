@@ -201,7 +201,8 @@ ensuring only strong performing countries appear in the results
 first and limited to top 15 countries
 * The final results are sorted by unique medalists in descending order and capped at 15 countries, ensuring the output
 highlights nations with the strongest and most well-rounded athletic performances.
-```SELECT c.country_code, c.country_name, c.continent,
+```
+SELECT c.country_code, c.country_name, c.continent,
 (SELECT COUNT(p1_gold.ranking)
 FROM Participates_In p1_gold
 JOIN Athlete a1_gold ON p1_gold.athlete_id = a1_gold.athlete_id
@@ -306,7 +307,8 @@ how many events are held at each venue and how many distinct teams compete in th
 by venue and ordered from the busiest venue to the least busy. This helps identify the most active venues in the
 database.
 
-```SELECT v.venue_id, v.venue_name, v.location,
+```
+SELECT v.venue_id, v.venue_name, v.location,
 COUNT(DISTINCT e.event_id) AS total_events,
 (
 SELECT COUNT(DISTINCT c.team_id)
