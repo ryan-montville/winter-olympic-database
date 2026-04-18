@@ -14,6 +14,7 @@
 6) [Relational Table Details](#rtd)
 7) [Data collection](#ptc)
 8) [Individual Non-trivial Queries](#intq)
+9) [SQLAlchemy ORM](#orm)
 
 <a id="intro"></a>
 
@@ -343,3 +344,89 @@ ORDER BY total_events DESC;
 | 1 | Milano San Siro Olympic Stadium | Milan | 1 | 0 |
 | 3 | Milano Rho Ice Hockey Arena | Milan | 1 | 10 |
 | 2 | Milano Santa Giulia Ice Hockey Arena | Milan | 1 | 12 |
+
+<a id="orm"></a>
+
+## SQLAlchemy ORM
+For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compare to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here]()
+
+### ORM for Athletes and Countries
+The first ORM maps the reletionship between Countries and Athletes. As a reminder, Countries have many athletes and athletes are from a single country.
+#### Classes
+```
+class Country(Base):
+   __tablename__ = "country"
+ 
+   country_code: Mapped[str] = mapped_column(String(3), primary_key=True)
+   alpha_2: Mapped[str] = mapped_column(String(2))
+   country_name: Mapped[str] = mapped_column(String(100))
+   continent: Mapped[str] = mapped_column(String(50))
+ 
+   athletes: Mapped[List["Athlete"]] = relationship(
+       back_populates="country", cascade="all, delete-orphan"
+   )
+ 
+class Athlete(Base):
+   __tablename__ = "athlete"
+ 
+   athlete_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+   athlete_name: Mapped[str] = mapped_column(String(100))
+   gender: Mapped[str] = mapped_column(String(1))
+   date_of_birth: Mapped[date] = mapped_column(Date)
+   country_code: Mapped[str] = mapped_column(String(3), ForeignKey("country.country_code"))
+ 
+   country: Mapped["Country"] = relationship(back_populates="athletes")
+ 
+Base.metadata.drop_all(engine)
+Base.metadata.create_all(engine)
+```
+#### Sample of the object creation
+```
+norway = Country(
+       country_code="NOR",
+       alpha_2="No",
+       country_name="Norway",
+       continent="Europe",
+       athletes=[
+           Athlete(athlete_id=1, athlete_name="Aabrekk Ingrid Bergene", gender="F", date_of_birth=date(2002, 10, 14), country_code="NOR"),
+           Athlete(athlete_id=51, athlete_name="Amundsen Harald Oestberg", gender="M", date_of_birth=date(1998, 9, 18),  country_code="NOR"),
+           Athlete(athlete_id=90,  athlete_name="Arnekleiv Juni", gender="F", date_of_birth=date(1999, 2, 17),  country_code="NOR"),
+           Athlete(athlete_id=240, athlete_name="Botn Johan-Olav", gender="M", date_of_birth=date(1999, 6, 18),  country_code="NOR"),
+           Athlete(athlete_id=591, athlete_name="Eie Sandra", gender="F", date_of_birth=date(1995, 11, 14), country_code="NOR"),
+           Athlete(athlete_id=1289, athlete_name="Klaebo Johannes Hoesflot", gender="M", date_of_birth=date(1996, 10, 22), country_code="NOR"),
+       ]
+   )
+ 
+   usa = Country(
+       country_code="USA",
+       alpha_2="US",
+       country_name="United States",
+       continent="North America",
+       athletes=[
+           Athlete(athlete_id=198, athlete_name="Bickner Kevin", gender="M", date_of_birth=date(1996, 9, 23),  country_code="USA"),
+           Athlete(athlete_id=225, athlete_name="Boldy Matt", gender="M", date_of_birth=date(2001, 4, 5),   country_code="USA"),
+           Athlete(athlete_id=320, athlete_name="Canter Jake", gender="M", date_of_birth=date(2003, 7, 19),  country_code="USA"),
+           Athlete(athlete_id=434,  athlete_name="Connor Kyle", gender="M", date_of_birth=date(1996, 12, 9),  country_code="USA"),
+           Athlete(athlete_id=55, athlete_name="Anderson Lucinda", gender="F", date_of_birth=date(2000, 12, 3),  country_code="USA"),
+           Athlete(athlete_id=2315, athlete_name="Shiffrin Mikaela", gender="F", date_of_birth=date(1995, 3, 13),  country_code="USA"),
+       ]
+   )
+```
+
+#### Query - Male Athletes from North America born after 1995
+```
+session = Session(engine)
+ 
+print("\n## Male Athletes from North America Born After 1995 ##\n")
+print(f"{'Athlete':<25} {'Country':<20} {'Date of Birth':<15}")
+print("-" * 60)
+stmt = (
+   select(Athlete, Country)
+   .join(Athlete.country)
+   .where(Athlete.gender == "M")
+   .where(Country.continent == "North America")
+   .where(Athlete.date_of_birth > date(1995, 12, 31))
+)
+for athlete, country in session.execute(stmt):
+   print(f"{athlete.athlete_name:<25} {country.country_name:<20} {str(athlete.date_of_birth):<15}")
+```
