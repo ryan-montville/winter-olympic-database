@@ -348,10 +348,10 @@ ORDER BY total_events DESC;
 <a id="orm"></a>
 
 ## SQLAlchemy ORM
-For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compare to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here](https://github.com/ryan-montville/winter-olympic-database/blob/main/python/sqlalchemy-code.py).
+For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compared to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here](https://github.com/ryan-montville/winter-olympic-database/blob/main/python/sqlalchemy-code.py).
 
 ### ORM for Countries and Athletes
-The first ORM maps the reletionship between Countries and Athletes. Countries have 2 to many athletes and athletes are from a single country.
+The first ORM maps the relationship  between Countries and Athletes. Countries have 2 to many athletes and athletes are from a single country.
 #### Classes
 ```
 class Country(Base):
@@ -435,7 +435,7 @@ for athlete, country in session.execute(stmt):
 ![Query 1 output](images/orm-query-1.png)
 
 ### ORM for Athletes and Events
-The second ORM maps the relationship between athletes and the events the individualy compete in. Team events are not included. Athletes can compete in 1 to many events and events can have 2 to many athletes. Since this is a many to many relationship, an association table is needed
+The second ORM maps the relationship between athletes and the events they individually compete in. Team events are not included. Athletes can compete in 1 to many events and events can have 2 to many athletes. Since this is a many to many relationship, an association table is needed
 
 #### Classes
 ```
