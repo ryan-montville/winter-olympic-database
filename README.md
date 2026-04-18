@@ -348,10 +348,10 @@ ORDER BY total_events DESC;
 <a id="orm"></a>
 
 ## SQLAlchemy ORM
-For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compare to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here]()
+For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compare to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here](https://github.com/ryan-montville/winter-olympic-database/blob/main/python/sqlalchemy-code.py).
 
-### ORM for Athletes and Countries
-The first ORM maps the reletionship between Countries and Athletes. As a reminder, Countries have many athletes and athletes are from a single country.
+### ORM for Countries and Athletes
+The first ORM maps the reletionship between Countries and Athletes. Countries have 2 to many athletes and athletes are from a single country.
 #### Classes
 ```
 class Country(Base):
@@ -430,3 +430,173 @@ stmt = (
 for athlete, country in session.execute(stmt):
    print(f"{athlete.athlete_name:<25} {country.country_name:<20} {str(athlete.date_of_birth):<15}")
 ```
+
+#### Output
+![Query 1 output](images/orm-query-1.png)
+
+### ORM for Athletes and Events
+The second ORM maps the relationship between athletes and the events the individualy compete in. Team events are not included. Athletes can compete in 1 to many events and events can have 2 to many athletes. Since this is a many to many relationship, an association table is needed
+
+#### Classes
+```
+association_ae_participates_in = Table(
+    "participates_in",
+    Base.metadata,
+    Column("AID", ForeignKey("athlete.athlete_id"), primary_key=True),
+    Column("EID", ForeignKey("event.event_id"), primary_key=True)
+)
+
+class Athlete(Base):
+    __tablename__ = "athlete"
+    athlete_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    athlete_name: Mapped[str] = mapped_column(String(100))
+    gender: Mapped[str] = mapped_column(String(1))
+    date_of_birth: Mapped[date] = mapped_column(Date)
+    country_code: Mapped[str] = mapped_column(String(3))
+    events: Mapped[List["Event"]] = relationship(
+        secondary=association_ae_participates_in, back_populates="athletes"
+    )
+
+class Event(Base):
+    __tablename__ = "event"
+    event_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    event_name: Mapped[str] = mapped_column(String(100))
+    event_time: Mapped[time] = mapped_column(Time)
+    event_date: Mapped[date] = mapped_column(Date)
+    event_type: Mapped[str] = mapped_column(String(50))
+    gender_category: Mapped[str] = mapped_column(String(20))
+    venue_id: Mapped[int] = mapped_column(Integer)
+    sport_id: Mapped[int] = mapped_column(Integer)
+    athletes: Mapped[List["Athlete"]] = relationship(
+        secondary=association_ae_participates_in, back_populates="events"
+    )
+
+Base.metadata.create_all(engine)
+```
+
+#### Sample of the object creation
+```
+e25 = Event(
+        event_id=25,
+        event_name="Women's Skiathlon",
+        event_time="13:00:00",
+        event_date="2026-02-07",
+        event_type="Individual",
+        gender_category="Women",
+        venue_id=14,
+        sport_id=4
+    )
+ e29 = Event(
+        event_id=29,
+        event_name="Women's 10 km Freestyle",
+        event_time="13:00:00",
+        event_date="2026-02-12",
+        event_type="Individual",
+        gender_category="Women",
+        venue_id=14,
+        sport_id=4
+    )
+ a4 = Athlete(
+        athlete_id=1219,
+        athlete_name="KARLSSON Frida",
+        gender="F",
+        date_of_birth="1999-08-10",
+        country_code="SWE",
+        events=[e25, e29]
+    )
+```
+
+#### Query - List the athletes and the events they participate in
+```
+session = Session(engine)  
+
+query = (
+    select(Athlete, Event)
+    .join(Athlete.events)
+)
+print("List the athletes and the events they participate in")
+print(f"{'name': <15} | {'country': <5} | {'dob': ^10} | {'event': <10}")
+print("-" * 75)
+for athlete, events in session.execute(query):
+    print(f"{athlete.athlete_name:<15} | {athlete.country_code:^7} | {athlete.date_of_birth!s:<10} | {events.event_name}")
+
+session.close()
+```
+
+#### Output
+![Query 2 output](images/orm-query-2.png)
+
+### ORM for Sport and Event
+The final ORM maps the relationship between sports and events. Sports have 1 to many events and events belong to one sport.
+
+#### Classes
+```
+class Sport(Base):
+    __tablename__ = "sport"
+    sport_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    sport_name: Mapped[str] = mapped_column(String(100))
+    events: Mapped[List["Event"]] = relationship(back_populates="sport")
+
+class Event(Base):
+    __tablename__ = "event"
+    event_id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    event_name: Mapped[str] = mapped_column(String(100))
+    event_time: Mapped[time] = mapped_column(Time)
+    event_date: Mapped[date] = mapped_column(Date)
+    event_type: Mapped[str] = mapped_column(String(50))
+    gender_category: Mapped[str] = mapped_column(String(20))
+    venue_id: Mapped[int] = mapped_column(Integer)
+    sport_id: Mapped[int] = mapped_column(ForeignKey("sport.sport_id"))
+    sport: Mapped["Sport"] = relationship(back_populates="events")
+
+Base.metadata.create_all(engine)
+```
+
+#### Sample of the object creation
+```
+sports = [
+        Sport(sport_id=1, sport_name="Alpine Skiing"),
+        Sport(sport_id=2, sport_name="Biathlon"),
+        Sport(sport_id=5, sport_name="Curling"),
+        Sport(sport_id=6, sport_name="Figure Skating"),
+        Sport(sport_id=8, sport_name="Ice Hockey"),
+        Sport(sport_id=16, sport_name="Speed Skating"),
+    ]
+events = [
+    Event(
+        event_id=9901,
+        event_name="Women's Slalom Final",
+        event_time=time(10, 0, 0),
+        event_date=date(2026, 2, 8),
+        event_type="Individual",
+        gender_category="Women",
+        venue_id=1,
+        sport_id=1
+    )
+    ]
+session.add_all(sports + events)
+session.commit()
+```
+
+#### Query - Women’s Individual Events and Their Sports
+```
+with Session(engine) as session:
+
+
+    print("\n## Women's Individual Events by Sport ##\n")
+    print(f"{'Sport':<20} {'Event':<40} {'Date':<15}")
+    print("-" * 80)
+
+    stmt = (
+        select(Sport, Event)
+        .join(Event, Sport.sport_id == Event.sport_id)
+        .where(Event.event_id.in_([9901, 9902, 9903, 9904, 9905, 9906, 9907, 9908]))
+        .order_by(Sport.sport_name, Event.event_name)
+    )
+
+    for sport, event in session.execute(stmt):
+        print(f"{sport.sport_name:<20} {event.event_name:<40} {str(event.event_date):<15}")
+```
+
+#### Output
+![Query 3 output](images/orm-query-3.png)
