@@ -15,6 +15,7 @@
 7) [Data collection](#ptc)
 8) [Individual Non-trivial Queries](#intq)
 9) [SQLAlchemy ORM](#orm)
+10) [Presentation](/winter-olympic-database/presentation/)
 
 <a id="intro"></a>
 
