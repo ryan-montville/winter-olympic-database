@@ -94,7 +94,7 @@ function clearMessage() {
 }
 
 let slide1 = document.createElement("section");
-slide1.style.backgroundImage = "url('images/title.jpg')";
+slide1.style.backgroundImage = "url('../images/title.jpg')";
 slide1.style.backgroundSize = "cover";
 slide1.style.backgroundPosition = "center";
 slide1.style.backgroundRepeat = "no-repeat";
