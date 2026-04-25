@@ -4,6 +4,8 @@ let index = 0;
 let isAnimating = false;
 let messageOnScreen = true;
 
+const IMG_PATH_BASE = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/"
+
 function updateSlide() {
     content.classList.add("fade");
     setTimeout(() => {
@@ -94,7 +96,7 @@ function clearMessage() {
 }
 
 let slide1 = document.createElement("section");
-slide1.style.backgroundImage = "url('../images/title.jpg')";
+slide1.style.backgroundImage = `url('${IMG_PATH_BASE}title.jpg')`;
 slide1.style.backgroundSize = "cover";
 slide1.style.backgroundPosition = "center";
 slide1.style.backgroundRepeat = "no-repeat";
@@ -168,7 +170,7 @@ slide3.appendChild(slide3H2);
 const imgContainer = document.createElement("div");
 imgContainer.setAttribute("class", "text-box-container");
 const er = document.createElement("img");
-er.src = "images/er.png";
+er.src = `${IMG_PATH_BASE}er.png`;
 er.setAttribute("class", "center fit");
 imgContainer.appendChild(er);
 slide3.appendChild(imgContainer);
@@ -228,7 +230,7 @@ textBox5.appendChild(queryUL);
 textBox5.style.width = "40%";
 twoColSlide5.appendChild(textBox5);
 const sqlQ = document.createElement("img");
-sqlQ.src = "images/sql-query.png";
+sqlQ.src = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/images/sql-query.png";
 sqlQ.style.width = "40%";
 sqlQ.style.height = "auto";
 twoColSlide5.appendChild(sqlQ);
@@ -256,7 +258,7 @@ slide7.appendChild(slide7H2);
 const imgContainer7 = document.createElement("div");
 imgContainer7.setAttribute("class", "text-box-container");
 const q1c = document.createElement("img");
-q1c.src = "images/q1c.png";
+q1c.src = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/images/q1c.png";
 q1c.setAttribute("class", "center fit");
 imgContainer7.appendChild(q1c);
 slide7.appendChild(imgContainer7);
@@ -271,11 +273,11 @@ imgContainer8.setAttribute("class", "text-box-container");
 const twoCol8 = document.createElement("div");
 twoCol8.setAttribute("class", "two-col");
 const q1ia = document.createElement("img");
-q1ia.src = "images/q1ia.png";
+q1ia.src = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/images/q1ia.png";
 q1ia.setAttribute("class", "center fit");
 twoCol8.appendChild(q1ia);
 const q1ib = document.createElement("img");
-q1ib.src = "images/q1ib.png";
+q1ib.src = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/images/q1ib.png";
 q1ib.setAttribute("class", "center fit");
 twoCol8.appendChild(q1ib);
 imgContainer8.appendChild(twoCol8);
@@ -289,7 +291,7 @@ slide9.appendChild(slide9H2);
 const imgContainer9 = document.createElement("div");
 imgContainer9.setAttribute("class", "text-box-container");
 const img9left = document.createElement("img");
-img9left.src = "images/q1q.png";
+img9left.src = "https://raw.githubusercontent.com/ryan-montville/winter-olympic-database/refs/heads/main/images/q1q.png";
 img9left.classList.add("right");
 img9left.style.height = "45vh";
 img9left.style.width = "auto";
