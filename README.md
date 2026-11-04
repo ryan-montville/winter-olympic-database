@@ -121,6 +121,7 @@ ranking attribute to record the team's finishing position.
 <a id="schema"></a>
 
 ## Relational Schema with Referential Integrity
+
 This section provides the relational schema with referential integrity and the relational table details.
 
 Country (country_code, alpha_2, country_name, continent)
@@ -133,33 +134,34 @@ Venue (venue_id, venue_name, location, venue_type, capacity)
 
 Event(event_id, event_name, event_time, event_date, event_type, gender_category, sport_id,
 venue_id)
-- foreign key (sport_id) references Sport (sport_id)
-- foreign key (venue_id) references Venue (venue_id)
+* foreign key (sport_id) references Sport (sport_id)
+* foreign key (venue_id) references Venue (venue_id)
 
 Coach (coach_id, coach_name, specialty)
 
 Athlete (athlete_id, athlete_name, gender, date_of_birth, country_code)
--foreign key (country_code) references Country (country_code)
+* foreign key (country_code) references Country (country_code)
 
 Trains (coach_id, athlete_id, year)
--foreign key (coach_id) references coach (coach_id)
--foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (coach_id) references coach (coach_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
 
 Participates_In (athlete_id, event_id, ranking)
--foreign key (athlete_id) references Athlete (athlete_id)
--foreign key (event_id) references Event (event_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (event_id) references Event (event_id)
 
 Competes_In (team_id, event_id, ranking)
--foreign key (team_id) references Team (team_id)
--foreign key (event_id) references Event (event_id)
+* foreign key (team_id) references Team (team_id)
+* foreign key (event_id) references Event (event_id)
 
 Team_Member (athlete_id, team_id)
--foreign key (athlete_id) references Athlete (athlete_id)
--foreign key (team_id) references Team (team_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (team_id) references Team (team_id)
 
 <a id="rtd"></a>
 
 ## Relational Table Details
+
 The relational schema given in Section 5 was mapped into the following tables in the OLYMPICS_DB database.
 Primary keys have been underlined. Tables that have multiple attributes underlined represent composite keys.
 
@@ -181,28 +183,26 @@ Primary keys have been underlined. Tables that have multiple attributes underlin
 <a id="ptc"></a>
 
 ## Data Collection
+
 To gather the data for our database we used python to webscrape and clean the data from the [official Olympic website](https://www.olympics.com/en/milano-cortina-2026/schedule). You can view our python code [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/python). You can view the resulting csv files [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/datasets). You can view our formal DDL/DML sql code used to create the database [here](https://github.com/ryan-montville/winter-olympic-database/tree/main/sql).
 
 <a id="intq"></a>
 
 ## Individual Non-trivial Queries
+
 We were each tasked with writing a non-trivial query for our database
 
 ### Query 1: Top Performing Countries by Medal Count and Unique Medalists
+
 **Output Schema**: country_code, country_name, continent, gold_medals, unique_medalist
 <br>**Query Description**:
-* This query identifies the top-performing countries in terms of both total medal counts and the diversity of their
-medal-winning athletes.
-* This query connects three tables - Country, Athlete and Participates_In using correlated subqueries to count gold,
-silver and bronze medals separately for each country
-* Uses four subqueries in the SELECT to calculate gold medals (ranking = 1), silver medals (ranking = 2), bronze
-medals (ranking = 3) and unique medalists (COUNT DISTINCT) per country
-* The HAVING clause only shows countries where the number of unique medal winning athletes is more than 5
-ensuring only strong performing countries appear in the results
-* Results are ordered by unique medalists DESC so countries with the most different athletes winning medals appear
-first and limited to top 15 countries
-* The final results are sorted by unique medalists in descending order and capped at 15 countries, ensuring the output
-highlights nations with the strongest and most well-rounded athletic performances.
+* This query identifies the top-performing countries in terms of both total medal counts and the diversity of their medal-winning athletes.
+* This query connects three tables - Country, Athlete and Participates_In using correlated subqueries to count gold, silver and bronze medals separately for each country
+* Uses four subqueries in the SELECT to calculate gold medals (ranking = 1), silver medals (ranking = 2), bronze medals (ranking = 3) and unique medalists (COUNT DISTINCT) per country
+* The HAVING clause only shows countries where the number of unique medal winning athletes is more than 5 ensuring only strong performing countries appear in the results
+* Results are ordered by unique medalists DESC so countries with the most different athletes winning medals appear first and limited to top 15 countries
+* The final results are sorted by unique medalists in descending order and capped at 15 countries, ensuring the output highlights nations with the strongest and most well-rounded athletic performances.
+
 ```
 SELECT c.country_code, c.country_name, c.continent,
 (SELECT COUNT(p1_gold.ranking)
@@ -250,6 +250,7 @@ LIMIT 15;
 | CZE | Czech Republic | Europe | 2 | 2 | 1 | 4 |
 
 ### Query 2: Athete Age Gap By Sport
+
 **Output Schema**: sport_name, youngest_athlete_dob, oldest_athlete_dob, difference_in_years
 <br>**Query Description**: This query first makes a list of athletes' date of birth and sport, then finds the youngest and oldest athlete in each sport,
 and calculates the difference in years. It groups the results by sport and orders by the largest difference in years between
@@ -303,6 +304,7 @@ ORDER BY difference_in_years DESC;
 | Short Track Speed Skating | 2007-12-23 | 1990-04-14 | 17 |
 
 ### Query 3: Top Venues by Number of Events and Participating Teams
+
 **Output Schema**: venue_id, venue_name, location, total_events, total_teams
 <br>**Query Description**: This query connects the Venue, Event, and Competes_In tables to find which venues host the most activity. It counts
 how many events are held at each venue and how many distinct teams compete in those events. The results are grouped
@@ -349,11 +351,15 @@ ORDER BY total_events DESC;
 <a id="orm"></a>
 
 ## SQLAlchemy ORM
+
 For the final phase of our project, we were tasked with creating classes with SQLAlchemy to map a relationship within our database. We each created the classes in Python, created the objects for data insertion, and created a join query using the classes we created. Since the course did not cover SQLAlchemy as extensively as SQL, our queries are simple queries compared to our non-trivial SQL queries. The ORM code is provided below, or you can view the entire Python script [here](https://github.com/ryan-montville/winter-olympic-database/blob/main/python/sqlalchemy-code.py).
 
 ### ORM for Countries and Athletes
+
 The first ORM maps the relationship  between Countries and Athletes. Countries have 2 to many athletes and athletes are from a single country.
+
 #### Classes
+
 ```
 class Country(Base):
    __tablename__ = "country"
@@ -381,7 +387,9 @@ class Athlete(Base):
 Base.metadata.drop_all(engine)
 Base.metadata.create_all(engine)
 ```
+
 #### Sample of the object creation
+
 ```
 norway = Country(
        country_code="NOR",
@@ -415,6 +423,7 @@ norway = Country(
 ```
 
 #### Query - Male Athletes from North America born after 1995
+
 ```
 session = Session(engine)
  
@@ -433,12 +442,15 @@ for athlete, country in session.execute(stmt):
 ```
 
 #### Output
+
 ![Query 1 output](images/orm-query-1.png)
 
 ### ORM for Athletes and Events
+
 The second ORM maps the relationship between athletes and the events they individually compete in. Team events are not included. Athletes can compete in 1 to many events and events can have 2 to many athletes. Since this is a many to many relationship, an association table is needed
 
 #### Classes
+
 ```
 association_ae_participates_in = Table(
     "participates_in",
@@ -476,6 +488,7 @@ Base.metadata.create_all(engine)
 ```
 
 #### Sample of the object creation
+
 ```
 e25 = Event(
         event_id=25,
@@ -508,6 +521,7 @@ e25 = Event(
 ```
 
 #### Query - List the athletes and the events they participate in
+
 ```
 session = Session(engine)  
 
@@ -525,12 +539,15 @@ session.close()
 ```
 
 #### Output
+
 ![Query 2 output](images/orm-query-2.png)
 
 ### ORM for Sport and Event
+
 The final ORM maps the relationship between sports and events. Sports have 1 to many events and events belong to one sport.
 
 #### Classes
+
 ```
 class Sport(Base):
     __tablename__ = "sport"
@@ -554,6 +571,7 @@ Base.metadata.create_all(engine)
 ```
 
 #### Sample of the object creation
+
 ```
 sports = [
         Sport(sport_id=1, sport_name="Alpine Skiing"),
@@ -580,6 +598,7 @@ session.commit()
 ```
 
 #### Query - Women’s Individual Events and Their Sports
+
 ```
 with Session(engine) as session:
 
@@ -600,4 +619,5 @@ with Session(engine) as session:
 ```
 
 #### Output
+
 ![Query 3 output](images/orm-query-3.png)

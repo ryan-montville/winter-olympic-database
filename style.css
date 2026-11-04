@@ -5,16 +5,17 @@
         --nav-background-color: #630d83;
         --main-background-color: #2e2e2e;
         --link-color: #69b3ff;
+        --chart-bar-color: #69b3a2;
     }
 }
 @media (prefers-color-scheme: light) {
     :root {
-        --body-background-color: #b9c3cf;
+        --body-background-color: #fff;
         --body-color: #000;
         --nav-background-color: #a630d2;
         --main-background-color: #fff;
-        --link-color: #69b3ff;
-
+        --link-color: #08306B;
+        --chart-bar-color: #4e73df;
     }
 }
 
@@ -145,4 +146,46 @@ ul {
     .left .date {
         text-align: left;
     }
+}
+
+#my_dataviz {
+    width: 100%;
+    max-width: 100%;
+}
+
+#my_dataviz svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#my_dataviz rect {
+    fill: var(--chart-bar-color, #69b3a2);
+    transition: fill 0.3s ease;
+}
+
+#my_dataviz .domain,
+#my_dataviz .tick line {
+    stroke: var(--body-color);
+    transition: stroke 0.3s ease;
+}
+
+#my_dataviz .tick text {
+    fill: var(--body-color);
+    transition: fill 0.3s ease;
+}
+
+button {
+    background-color: transparent;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid var(--body-color);
+    cursor: pointer;
+    font-size: 15px;
+    color: var(--body-color);
+}
+button:hover {
+    background-color: var(--body-color);
+    color: var(--body-background-color);
 }
