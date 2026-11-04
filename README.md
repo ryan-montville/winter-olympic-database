@@ -131,29 +131,29 @@ Venue (venue_id, venue_name, location, venue_type, capacity)
 
 Event(event_id, event_name, event_time, event_date, event_type, gender_category, sport_id,
 venue_id)
-- foreign key (sport_id) references Sport (sport_id)
-- foreign key (venue_id) references Venue (venue_id)
+* foreign key (sport_id) references Sport (sport_id)
+* foreign key (venue_id) references Venue (venue_id)
 
 Coach (coach_id, coach_name, specialty)
 
 Athlete (athlete_id, athlete_name, gender, date_of_birth, country_code)
--foreign key (country_code) references Country (country_code)
+* foreign key (country_code) references Country (country_code)
 
 Trains (coach_id, athlete_id, year)
--foreign key (coach_id) references coach (coach_id)
--foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (coach_id) references coach (coach_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
 
 Participates_In (athlete_id, event_id, ranking)
--foreign key (athlete_id) references Athlete (athlete_id)
--foreign key (event_id) references Event (event_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (event_id) references Event (event_id)
 
 Competes_In (team_id, event_id, ranking)
--foreign key (team_id) references Team (team_id)
--foreign key (event_id) references Event (event_id)
+* foreign key (team_id) references Team (team_id)
+* foreign key (event_id) references Event (event_id)
 
 Team_Member (athlete_id, team_id)
--foreign key (athlete_id) references Athlete (athlete_id)
--foreign key (team_id) references Team (team_id)
+* foreign key (athlete_id) references Athlete (athlete_id)
+* foreign key (team_id) references Team (team_id)
 
 <a id="rtd"></a>
 
