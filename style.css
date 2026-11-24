@@ -53,6 +53,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+main {
+    margin: 20px;
+}
+
 .start, .end {
     text-align: center;
     margin: 10px;
