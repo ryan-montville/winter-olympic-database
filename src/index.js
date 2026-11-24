@@ -11,7 +11,7 @@ const athleteList = athleteData.reduce((acc, currentAthlete) => {
     const flagImg = document.createElement("img");
     flagImg.src = `https://flagsapi.com/${currentAthlete["country_code"]}/flat/64.png`;
     const athleteArticle = makeElement("article", currentAthlete["athlete_id"].toString(), null, null);
-    const athleteH3 = makeElement("h3", null, null, `${currentAthlete["athlete_name"]} (${currentAthlete["country_code"]})`);
+    const athleteH3 = makeElement("h3", null, null, currentAthlete["athlete_name"]);
     athleteArticle.append(flagImg, athleteH3);
     acc.append(athleteArticle);
     return acc;
