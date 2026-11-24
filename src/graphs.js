@@ -1,3 +1,5 @@
+import { initApp } from "./app.js";
+
 var goldDOB = [
     { year: 1982, count: 1 },
     { year: 1983, count: 1 },
@@ -153,7 +155,7 @@ function update(data) {
         .attr("width", x.bandwidth())
         .attr("height", function (d) { return height - y(d.count); });
 }
-
+await initApp();
 update(goldDOB);
 const goldBOBButton = document.getElementById("gold-dob-button");
 goldBOBButton.addEventListener("click", () => update(goldDOB))
